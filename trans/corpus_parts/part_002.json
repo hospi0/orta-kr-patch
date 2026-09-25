@@ -1,0 +1,1353 @@
+[
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 38,
+  "budget": 12,
+  "jp": "ちくしょう！",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 39,
+  "budget": 20,
+  "jp": "中から現れやがった！",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 40,
+  "budget": 4,
+  "jp": "敵？",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 41,
+  "budget": 10,
+  "jp": "旧世紀の？",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 42,
+  "budget": 30,
+  "jp": "栄華を誇った文明が滅んで数千年",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 43,
+  "budget": 26,
+  "jp": "かつての力を失った人類は、",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 44,
+  "budget": 32,
+  "jp": "自らが生み出した遺伝子改造による",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 45,
+  "budget": 22,
+  "jp": "生物兵器に脅かされつつ",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 46,
+  "budget": 24,
+  "jp": "黄昏の時代を過ごしていた",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 47,
+  "budget": 30,
+  "jp": "だが、失われた文明の力を借りた",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 48,
+  "budget": 22,
+  "jp": "<帝国>が出現した時から",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 49,
+  "budget": 20,
+  "jp": "再び時代は回り始めた",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 50,
+  "budget": 26,
+  "jp": "帝国の手によって発掘された",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 51,
+  "budget": 16,
+  "jp": "<旧世紀>の兵器は",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 52,
+  "budget": 18,
+  "jp": "人類の生存を脅かす",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 53,
+  "budget": 22,
+  "jp": "多数の巨大生物を撃退し",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 54,
+  "budget": 24,
+  "jp": "再びわれらの時代が来たと",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 55,
+  "budget": 16,
+  "jp": "人々を歓喜させた",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 56,
+  "budget": 22,
+  "jp": "しかし、力は欲望を生み",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 57,
+  "budget": 16,
+  "jp": "欲望は戦乱を生む",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 58,
+  "budget": 34,
+  "jp": "帝国と同じく旧世紀の力を手に入れた",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 59,
+  "budget": 18,
+  "jp": "周辺国家との戦争は",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 60,
+  "budget": 22,
+  "jp": "深刻化の一途をたどった",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 61,
+  "budget": 20,
+  "jp": "自らの優勢を保つため",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 62,
+  "budget": 26,
+  "jp": "帝国は旧世紀の遺跡の発掘を",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 63,
+  "budget": 18,
+  "jp": "強引に進める一方で",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 64,
+  "budget": 28,
+  "jp": "帝都に大規模な研究機関を設け",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 65,
+  "budget": 20,
+  "jp": "わずかずつではあるが",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 66,
+  "budget": 30,
+  "jp": "古の時代の謎に迫ろうとしていた",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 67,
+  "budget": 32,
+  "jp": "目的地４番発掘所まで、あと３０分",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 68,
+  "budget": 40,
+  "jp": "帝都の作戦も順調に進行中です・・・しかし",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 69,
+  "budget": 30,
+  "jp": "あれを皇帝に渡すわけにはいかん",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 70,
+  "budget": 32,
+  "jp": "アーウェン、反逆の時は今しかない",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 71,
+  "budget": 20,
+  "jp": "４番発掘所より入電！",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 72,
+  "budget": 38,
+  "jp": "われ、攻性生物と遭遇・・・救助信号です",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 73,
+  "budget": 12,
+  "jp": "ちょうどいい",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 74,
+  "budget": 32,
+  "jp": "向こうから呼んでくれているようだ",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 75,
+  "budget": 36,
+  "jp": "最大戦速、１５分で到着すると伝えろ！",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 76,
+  "budget": 16,
+  "jp": "くそっ！くそっ！",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 77,
+  "budget": 8,
+  "jp": "逃げろ！",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 78,
+  "budget": 28,
+  "jp": "こいつはいつもの雑種じゃない",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 79,
+  "budget": 12,
+  "jp": "血統書つきだ",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 80,
+  "budget": 20,
+  "jp": "俺達の手には負えん！",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 81,
+  "budget": 12,
+  "jp": "助けは呼んだ",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 82,
+  "budget": 32,
+  "jp": "エッジ、おまえは逃げるんだ・・・",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 83,
+  "budget": 12,
+  "jp": "バカ、無茶だ",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 84,
+  "budget": 14,
+  "jp": "何するつもりだ",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 85,
+  "budget": 16,
+  "jp": "エッジ、逃げろ！",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 86,
+  "budget": 8,
+  "jp": "ひ、人？",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 87,
+  "budget": 24,
+  "jp": "エッジ！よそ見をするな！",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 88,
+  "budget": 8,
+  "jp": "足場だ！",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 89,
+  "budget": 12,
+  "jp": "足場を狙え！",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 90,
+  "budget": 18,
+  "jp": "奴はまだ死んでない",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 91,
+  "budget": 20,
+  "jp": "早くここから出るんだ",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 92,
+  "budget": 6,
+  "jp": "隊長！",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 93,
+  "budget": 8,
+  "jp": "帝国軍？",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 94,
+  "budget": 34,
+  "jp": "待ってくれ・・・味方だ、俺達味方だ",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 95,
+  "budget": 6,
+  "jp": "味方？",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 96,
+  "budget": 20,
+  "jp": "ふん、さっきまではな",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 97,
+  "budget": 26,
+  "jp": "ツァスタバ、ザコにかまうな",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 98,
+  "budget": 22,
+  "jp": "あまり時間がない・・・",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 99,
+  "budget": 8,
+  "jp": "なぜだ？",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 100,
+  "budget": 16,
+  "jp": "なぜ僕らを・・・",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 101,
+  "budget": 24,
+  "jp": "それに・・・あれは・・・",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 102,
+  "budget": 10,
+  "jp": "見たのか？",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 103,
+  "budget": 4,
+  "jp": "人だ",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 104,
+  "budget": 8,
+  "jp": "女がいた",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 105,
+  "budget": 14,
+  "jp": "クレイメン閣下",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 106,
+  "budget": 24,
+  "jp": "もう、後戻りできませんぞ",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 107,
+  "budget": 18,
+  "jp": "例のものを運び出す",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 108,
+  "budget": 22,
+  "jp": "急げ！『帝国軍』が来る",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 109,
+  "budget": 24,
+  "jp": "あれは・・・・・・何だ？",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 110,
+  "budget": 22,
+  "jp": "畜生、待・・・て・・・",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 111,
+  "budget": 16,
+  "jp": "ガキめ、しぶとい",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 112,
+  "budget": 30,
+  "jp": "帝都の仕掛けもそろそろ作動する",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 113,
+  "budget": 16,
+  "jp": "次の作戦に移るぞ",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 114,
+  "budget": 24,
+  "jp": "・・・もうそろそろ・・・",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 115,
+  "budget": 10,
+  "jp": "わかってる",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 116,
+  "budget": 28,
+  "jp": "お気持ちはわかりますが・・・",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 117,
+  "budget": 20,
+  "jp": "もう水も食料も・・・",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 118,
+  "budget": 12,
+  "jp": "わかってる！",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 119,
+  "budget": 16,
+  "jp": "明朝、ここを出る",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 120,
+  "budget": 22,
+  "jp": "準備を・・・始めてくれ",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 121,
+  "budget": 20,
+  "jp": "目的のない旅・・・か",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 122,
+  "budget": 18,
+  "jp": "・・・エッジ・・・",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 123,
+  "budget": 16,
+  "jp": "・・・西に行く？",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 124,
+  "budget": 14,
+  "jp": "やめた方がいい",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 125,
+  "budget": 30,
+  "jp": "攻性生物は減ったが、嵐が激しい",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 126,
+  "budget": 26,
+  "jp": "命を捨てに行くようなもんだ",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 127,
+  "budget": 34,
+  "jp": "なあ、そこまでするほどの奴なのか？",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 128,
+  "budget": 22,
+  "jp": "あんたの探してる人って",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 129,
+  "budget": 28,
+  "jp": "あんたも、その人もゾアの街に",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 130,
+  "budget": 18,
+  "jp": "由縁があるんだろ？",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 131,
+  "budget": 38,
+  "jp": "せっかくあの戦乱を生きのびたんだ・・・",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 132,
+  "budget": 16,
+  "jp": "それなのに・・・",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 133,
+  "budget": 6,
+  "jp": "なぁ、",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 134,
+  "budget": 36,
+  "jp": "この砂漠を越えたところで街を造ってる",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 135,
+  "budget": 18,
+  "jp": "あんたも来ないか？",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 136,
+  "budget": 32,
+  "jp": "人手はいくらあっても足りないんだ",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 137,
+  "budget": 32,
+  "jp": "Ｄユニット・タイプ０１　起動確認",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 138,
+  "budget": 32,
+  "jp": "Ｄユニット・タイプ０２　起動確認",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 139,
+  "budget": 28,
+  "jp": "最終プログラム　実行します。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 140,
+  "budget": 10,
+  "jp": "すごい・・",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 141,
+  "budget": 18,
+  "jp": "帝国の空中戦艦か。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 142,
+  "budget": 26,
+  "jp": "でも、なんでこんな辺境に？",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 143,
+  "budget": 24,
+  "jp": "奴を・・行かせるな・・。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 144,
+  "budget": 20,
+  "jp": "行けば、再び・・・・",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 145,
+  "budget": 10,
+  "jp": "・・頼む。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_OpeningDemo_JP.msg",
+  "idx": 0,
+  "budget": 32,
+  "jp": "栄華を誇った文明が滅んで数千年…",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_OpeningDemo_JP.msg",
+  "idx": 1,
+  "budget": 120,
+  "jp": "かつての力を失った人類は、自らが生み出した$w0200\n遺伝子改造による生物兵器に脅かされながら$w0080\n黄昏の時代を過ごしていた",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_OpeningDemo_JP.msg",
+  "idx": 2,
+  "budget": 125,
+  "jp": "そんな中、人類の復権を切望する帝国は$w0240\n旧文明の人造人間である 亞人 を用いて$w0180\n兵器生産施設、\"生命炉\" の起動に成功した",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_OpeningDemo_JP.msg",
+  "idx": 3,
+  "budget": 116,
+  "jp": "生命炉で生産された攻性生物兵器、$w0260\nドラゴンメア　―その圧倒的な火力で$w0070\n帝国は次々と大陸諸国を制圧していた…",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_OpeningDemo_JP.msg",
+  "idx": 4,
+  "budget": 76,
+  "jp": "牢の中で育てられた少女$w0120\n彼女の心は、世界への怒りと\n悲しみに満ちていた…",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_OpeningDemo_JP.msg",
+  "idx": 5,
+  "budget": 57,
+  "jp": "彼女は、本来の運命に$w0030\n気づくことができるのだろうか？",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_OpeningDemo_JP.msg",
+  "idx": 6,
+  "budget": 34,
+  "jp": "\"私\"に残された時間は、もはや少ない",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_OpeningDemo_JP.msg",
+  "idx": 7,
+  "budget": 149,
+  "jp": "亞人…$w0023\n旧世紀の人々に作られた、$w0090\n心をもたぬ戦いの道具$w0090\n$w0030\n彼女が　亞人アバドの苦悩に$w0050\n感化されることがなければよいが…$w0068",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_OpeningDemo_JP.msg",
+  "idx": 8,
+  "budget": 2,
+  "jp": "c.",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_OpeningDemo_JP.msg",
+  "idx": 9,
+  "budget": 75,
+  "jp": "少女が村の人々に迎えられてから、$w0135\nいくたびか日が昇り、また沈んだ$w0240",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_OpeningDemo_JP.msg",
+  "idx": 10,
+  "budget": 75,
+  "jp": "人々に笑顔で語りかけられる…$w0180\nそれは、彼女にとってはじめてのことだった",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_OpeningDemo_JP.msg",
+  "idx": 11,
+  "budget": 119,
+  "jp": "彼女に、わずかだが変化が起こった$w0080\n\n胸の奥に生まれた小さなあたたかさ…$w0050\nその意味を、彼女はいつ理解するだろうか",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_OpeningDemo_JP.msg",
+  "idx": 12,
+  "budget": 119,
+  "jp": "かたときも離れず自分を守っていた$w0030\n彼が、このまま死んだら…$w0056\n\n彼女は 初めて感じる胸の痛みに$w0090\n戸惑っていた",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_OpeningDemo_JP.msg",
+  "idx": 13,
+  "budget": 62,
+  "jp": "そして―　　考えていた\n\n自分は誰に、なんのために造られたのか…",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_OpeningDemo_JP.msg",
+  "idx": 14,
+  "budget": 100,
+  "jp": "少女は、ついに世界回路へと旅立った$w0260\n\n\"セストレン\"$w0005\n…そこは 地上のすべての記憶が集まる場所",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_OpeningDemo_JP.msg",
+  "idx": 15,
+  "budget": 30,
+  "jp": "そこで彼女は、\"真実\"と出会う…",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_OpeningDemo_JP.msg",
+  "idx": 16,
+  "budget": 61,
+  "jp": "\"私\"もまた、地上へ託すことができた$w0120\n自らの生きたあかしを",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_OpeningDemo_JP.msg",
+  "idx": 17,
+  "budget": 113,
+  "jp": "こうして\"私\"の旅は終わった$w0230\n\nそして、彼女とわが子の旅はこれからはじまる$w0180\n\n\n新しい時代の夜明けへ向けて…",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioControl_JP.msg",
+  "idx": 0,
+  "budget": 56,
+  "jp": " EPEISODION 1　入学試験\nポッドを操作し、ターゲットに着地",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioControl_JP.msg",
+  "idx": 1,
+  "budget": 7,
+  "jp": "$c2上昇",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioControl_JP.msg",
+  "idx": 2,
+  "budget": 12,
+  "jp": "左／右を向く",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioControl_JP.msg",
+  "idx": 3,
+  "budget": 7,
+  "jp": "$c2上昇",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioControl_JP.msg",
+  "idx": 4,
+  "budget": 14,
+  "jp": "自機・照準移動",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioControl_JP.msg",
+  "idx": 5,
+  "budget": 50,
+  "jp": " EPEISODION 2　攻性生物\n一定数以上、攻性生物を倒す",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioControl_JP.msg",
+  "idx": 6,
+  "budget": 4,
+  "jp": "上昇",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioControl_JP.msg",
+  "idx": 7,
+  "budget": 12,
+  "jp": "左／右を向く",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioControl_JP.msg",
+  "idx": 8,
+  "budget": 11,
+  "jp": "$c2リロード",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioControl_JP.msg",
+  "idx": 9,
+  "budget": 9,
+  "jp": "$c2機連銃",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioControl_JP.msg",
+  "idx": 10,
+  "budget": 4,
+  "jp": "上昇",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioControl_JP.msg",
+  "idx": 11,
+  "budget": 17,
+  "jp": "$c2機連銃（連射）",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioControl_JP.msg",
+  "idx": 12,
+  "budget": 14,
+  "jp": "自機・照準移動",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioControl_JP.msg",
+  "idx": 13,
+  "budget": 48,
+  "jp": " EPEISODION 3　追撃砲\n一定数以上、攻性生物を倒す",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioControl_JP.msg",
+  "idx": 14,
+  "budget": 4,
+  "jp": "上昇",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioControl_JP.msg",
+  "idx": 15,
+  "budget": 12,
+  "jp": "左／右を向く",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioControl_JP.msg",
+  "idx": 16,
+  "budget": 8,
+  "jp": "リロード",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioControl_JP.msg",
+  "idx": 17,
+  "budget": 20,
+  "jp": "$c2追撃砲$c0／機連銃",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioControl_JP.msg",
+  "idx": 18,
+  "budget": 4,
+  "jp": "上昇",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioControl_JP.msg",
+  "idx": 19,
+  "budget": 14,
+  "jp": "機連銃（連射）",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioControl_JP.msg",
+  "idx": 20,
+  "budget": 14,
+  "jp": "自機・照準移動",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioControl_JP.msg",
+  "idx": 21,
+  "budget": 58,
+  "jp": " EPEISODION 4　アラド砂漠\n小型艇を操作し、一定数、敵を倒す",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioControl_JP.msg",
+  "idx": 22,
+  "budget": 10,
+  "jp": "後ろを向く",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioControl_JP.msg",
+  "idx": 23,
+  "budget": 12,
+  "jp": "左／右を向く",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioControl_JP.msg",
+  "idx": 24,
+  "budget": 6,
+  "jp": "追撃砲",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioControl_JP.msg",
+  "idx": 25,
+  "budget": 14,
+  "jp": "自機・照準移動",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioControl_JP.msg",
+  "idx": 26,
+  "budget": 56,
+  "jp": " EPEISODION 5　シーカー試験\nポッドを操作し、水を２回汲む",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioControl_JP.msg",
+  "idx": 27,
+  "budget": 4,
+  "jp": "上昇",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioControl_JP.msg",
+  "idx": 28,
+  "budget": 12,
+  "jp": "左／右を向く",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioControl_JP.msg",
+  "idx": 29,
+  "budget": 8,
+  "jp": "リロード",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioControl_JP.msg",
+  "idx": 30,
+  "budget": 14,
+  "jp": "追撃砲／機連銃",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioControl_JP.msg",
+  "idx": 31,
+  "budget": 4,
+  "jp": "上昇",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioControl_JP.msg",
+  "idx": 32,
+  "budget": 14,
+  "jp": "機連銃（連射）",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioControl_JP.msg",
+  "idx": 33,
+  "budget": 14,
+  "jp": "自機・照準移動",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioControl_JP.msg",
+  "idx": 34,
+  "budget": 48,
+  "jp": " EPEISODION 6　ドラゴン\n厄災のドラゴンに追い付く",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioControl_JP.msg",
+  "idx": 35,
+  "budget": 4,
+  "jp": "上昇",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioControl_JP.msg",
+  "idx": 36,
+  "budget": 12,
+  "jp": "左／右を向く",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioControl_JP.msg",
+  "idx": 37,
+  "budget": 8,
+  "jp": "リロード",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioControl_JP.msg",
+  "idx": 38,
+  "budget": 14,
+  "jp": "追撃砲／機連銃",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioControl_JP.msg",
+  "idx": 39,
+  "budget": 4,
+  "jp": "上昇",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioControl_JP.msg",
+  "idx": 40,
+  "budget": 14,
+  "jp": "機連銃（連射）",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioControl_JP.msg",
+  "idx": 41,
+  "budget": 14,
+  "jp": "自機・照準移動",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioControl_JP.msg",
+  "idx": 42,
+  "budget": 54,
+  "jp": " EPEISODION 7　僕の生きる道\n破壊兵器のある場所まで行く",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioControl_JP.msg",
+  "idx": 43,
+  "budget": 4,
+  "jp": "上昇",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioControl_JP.msg",
+  "idx": 44,
+  "budget": 12,
+  "jp": "左／右を向く",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioControl_JP.msg",
+  "idx": 45,
+  "budget": 8,
+  "jp": "リロード",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioControl_JP.msg",
+  "idx": 46,
+  "budget": 14,
+  "jp": "追撃砲／機連銃",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioControl_JP.msg",
+  "idx": 47,
+  "budget": 4,
+  "jp": "上昇",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioControl_JP.msg",
+  "idx": 48,
+  "budget": 14,
+  "jp": "機連銃（連射）",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioControl_JP.msg",
+  "idx": 49,
+  "budget": 14,
+  "jp": "自機・照準移動",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioControl_JP.msg",
+  "idx": 50,
+  "budget": 10,
+  "jp": "後ろを向く",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioControl_JP.msg",
+  "idx": 51,
+  "budget": 12,
+  "jp": "左／右を向く",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioControl_JP.msg",
+  "idx": 52,
+  "budget": 8,
+  "jp": "リロード",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioControl_JP.msg",
+  "idx": 53,
+  "budget": 6,
+  "jp": "機連銃",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioControl_JP.msg",
+  "idx": 54,
+  "budget": 14,
+  "jp": "自機・照準移動",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioControl_JP.msg",
+  "idx": 55,
+  "budget": 49,
+  "jp": "飛空艇が落とされないように\n高射砲を落として進め！",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioControl_JP.msg",
+  "idx": 56,
+  "budget": 10,
+  "jp": "後ろを向く",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioControl_JP.msg",
+  "idx": 57,
+  "budget": 12,
+  "jp": "左／右を向く",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioControl_JP.msg",
+  "idx": 58,
+  "budget": 14,
+  "jp": "生体弾／煙幕弾",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioControl_JP.msg",
+  "idx": 59,
+  "budget": 14,
+  "jp": "自機・照準移動",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioControl_JP.msg",
+  "idx": 60,
+  "budget": 45,
+  "jp": "帝国兵士を倒しつつ\n対攻性艦シャイハを破壊せよ",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioControl_JP.msg",
+  "idx": 61,
+  "budget": 10,
+  "jp": "後ろを向く",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioControl_JP.msg",
+  "idx": 62,
+  "budget": 12,
+  "jp": "左／右を向く",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioControl_JP.msg",
+  "idx": 63,
+  "budget": 16,
+  "jp": "ドラゴンチェンジ",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioControl_JP.msg",
+  "idx": 64,
+  "budget": 4,
+  "jp": "減速",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioControl_JP.msg",
+  "idx": 65,
+  "budget": 28,
+  "jp": "ショット／ロックオンレーザー",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioControl_JP.msg",
+  "idx": 66,
+  "budget": 4,
+  "jp": "加速",
+  "ko": null
+ }
+]

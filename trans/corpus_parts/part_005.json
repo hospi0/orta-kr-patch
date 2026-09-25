@@ -1,0 +1,1472 @@
+[
+ {
+  "file": "menudata\\TextData\\Text_comment_JP.msg",
+  "idx": 48,
+  "budget": 50,
+  "jp": "PANZER DRAGOON ORTA\n少女＆ドラゴン　初期コンセプト",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_comment_JP.msg",
+  "idx": 49,
+  "budget": 13,
+  "jp": "エンディング1",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_comment_JP.msg",
+  "idx": 50,
+  "budget": 14,
+  "jp": "エンディング２",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_comment_JP.msg",
+  "idx": 51,
+  "budget": 13,
+  "jp": "エンディング3",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_comment_JP.msg",
+  "idx": 52,
+  "budget": 14,
+  "jp": "エンディング４",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_comment_JP.msg",
+  "idx": 53,
+  "budget": 14,
+  "jp": "エンディング５",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_comment_JP.msg",
+  "idx": 54,
+  "budget": 14,
+  "jp": "エンディング６",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_comment_JP.msg",
+  "idx": 55,
+  "budget": 14,
+  "jp": "エンディング７",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_comment_JP.msg",
+  "idx": 56,
+  "budget": 14,
+  "jp": "エンディング８",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_comment_JP.msg",
+  "idx": 57,
+  "budget": 13,
+  "jp": "エンディング9",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_comment_JP.msg",
+  "idx": 58,
+  "budget": 27,
+  "jp": "帝国少年編\n父に反抗する少年",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_comment_JP.msg",
+  "idx": 59,
+  "budget": 27,
+  "jp": "帝国少年編\n父の形見の御守り",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_comment_JP.msg",
+  "idx": 60,
+  "budget": 21,
+  "jp": "帝国少年編\n帝国マーク",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_comment_JP.msg",
+  "idx": 61,
+  "budget": 27,
+  "jp": "帝国少年編\n一人ぼっちの少年",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_comment_JP.msg",
+  "idx": 62,
+  "budget": 19,
+  "jp": "帝国少年編\n少年の薬",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_comment_JP.msg",
+  "idx": 63,
+  "budget": 19,
+  "jp": "帝国少年編\n泣く少年",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_comment_JP.msg",
+  "idx": 64,
+  "budget": 27,
+  "jp": "帝国少年編\n軍学校の仲間たち",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_comment_JP.msg",
+  "idx": 65,
+  "budget": 41,
+  "jp": "帝国少年編\nドラゴンとその乗り手のイメージ",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_comment_JP.msg",
+  "idx": 66,
+  "budget": 23,
+  "jp": "帝国少年編\n先輩の戦闘機",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_comment_JP.msg",
+  "idx": 67,
+  "budget": 25,
+  "jp": "帝国少年編\nシーカーの男女",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_comment_JP.msg",
+  "idx": 68,
+  "budget": 27,
+  "jp": "帝国少年編\nシーカーたちの宴",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_comment_JP.msg",
+  "idx": 69,
+  "budget": 23,
+  "jp": "帝国少年編\nポッドとヌフ",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_comment_JP.msg",
+  "idx": 70,
+  "budget": 23,
+  "jp": "帝国少年編\n語るエミーデ",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_comment_JP.msg",
+  "idx": 71,
+  "budget": 33,
+  "jp": "帝国少年編\nシーカー隠れ里への帰還",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_comment_JP.msg",
+  "idx": 72,
+  "budget": 27,
+  "jp": "帝国少年編\n看病するエミーデ",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_comment_JP.msg",
+  "idx": 73,
+  "budget": 19,
+  "jp": "帝国少年編\n父の手紙",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_comment_JP.msg",
+  "idx": 74,
+  "budget": 29,
+  "jp": "帝国少年編\nドラゴンメアの襲撃",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_comment_JP.msg",
+  "idx": 75,
+  "budget": 29,
+  "jp": "帝国少年編\n軍学校仲間との再会",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_comment_JP.msg",
+  "idx": 76,
+  "budget": 25,
+  "jp": "帝国少年編\n遺跡への入り口",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_comment_JP.msg",
+  "idx": 77,
+  "budget": 27,
+  "jp": "帝国少年編\n起動する最終兵器",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_comment_JP.msg",
+  "idx": 78,
+  "budget": 25,
+  "jp": "帝国少年編\n眠りにつく少年",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_comment_JP.msg",
+  "idx": 79,
+  "budget": 19,
+  "jp": "帝国少年編\n涅槃の木",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_comment_JP.msg",
+  "idx": 80,
+  "budget": 37,
+  "jp": "PANZER DRAGOON\nブルードラゴン　公式CG",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_comment_JP.msg",
+  "idx": 81,
+  "budget": 41,
+  "jp": "PANZER DRAGOON\nカイル＆ドラゴン　広告用CG",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_comment_JP.msg",
+  "idx": 82,
+  "budget": 35,
+  "jp": "PANZER DRAGOON\nエンディングイラスト",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_comment_JP.msg",
+  "idx": 83,
+  "budget": 39,
+  "jp": "PANZER DRAGOON\n日本版取扱説明書イラスト",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_comment_JP.msg",
+  "idx": 84,
+  "budget": 46,
+  "jp": "PANZER DRAGOON\nカイル&ドラゴン　広告用イラスト",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_comment_JP.msg",
+  "idx": 85,
+  "budget": 43,
+  "jp": "PANZER DRAGOON　ZWEI\nランディ＆ラギ　公式CG",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_comment_JP.msg",
+  "idx": 86,
+  "budget": 46,
+  "jp": "PANZER DRAGOON　ZWEI\nランディ＆ラギ2　広告用CG",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_comment_JP.msg",
+  "idx": 87,
+  "budget": 41,
+  "jp": "PANZER DRAGOON　ZWEI\nラギ　広告用イラスト",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_comment_JP.msg",
+  "idx": 88,
+  "budget": 47,
+  "jp": "PANZER DRAGOON　ZWEI\nランディ　　広告用イラスト",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_comment_JP.msg",
+  "idx": 89,
+  "budget": 29,
+  "jp": "AZEL\n日本版バッケージイラスト",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_comment_JP.msg",
+  "idx": 90,
+  "budget": 33,
+  "jp": "AZEL\n日本版バッケージ裏面イラスト",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_comment_JP.msg",
+  "idx": 91,
+  "budget": 36,
+  "jp": "AZEL\n主要キャラ4人　ショウ用イラスト",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_comment_JP.msg",
+  "idx": 92,
+  "budget": 29,
+  "jp": "AZEL\nアゼル　公式設定イラスト",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_comment_JP.msg",
+  "idx": 93,
+  "budget": 29,
+  "jp": "AZEL\nエッジ　公式設定イラスト",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_comment_JP.msg",
+  "idx": 94,
+  "budget": 31,
+  "jp": "AZEL\n亜人の少女　初期コンセプト",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_comment_JP.msg",
+  "idx": 95,
+  "budget": 24,
+  "jp": "一つ前の画面に戻ります。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 0,
+  "budget": 6,
+  "jp": "シャム",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 1,
+  "budget": 6,
+  "jp": "シャム",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 2,
+  "budget": 6,
+  "jp": "シャム",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 3,
+  "budget": 6,
+  "jp": "変異種",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 4,
+  "budget": 6,
+  "jp": "プトゥ",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 5,
+  "budget": 6,
+  "jp": "プトゥ",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 6,
+  "budget": 6,
+  "jp": "プトゥ",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 7,
+  "budget": 6,
+  "jp": "変異種",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 8,
+  "budget": 8,
+  "jp": "ゴレンガ",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 9,
+  "budget": 8,
+  "jp": "ゴレンガ",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 10,
+  "budget": 8,
+  "jp": "ゴレンガ",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 11,
+  "budget": 6,
+  "jp": "変異種",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 12,
+  "budget": 8,
+  "jp": "ヤーヴァ",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 13,
+  "budget": 8,
+  "jp": "ヤーヴァ",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 14,
+  "budget": 8,
+  "jp": "ヤーヴァ",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 15,
+  "budget": 6,
+  "jp": "変異種",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 16,
+  "budget": 16,
+  "jp": "キャリアヤーヴァ",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 17,
+  "budget": 16,
+  "jp": "キャリアヤーヴァ",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 18,
+  "budget": 3,
+  "jp": "p裃",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 19,
+  "budget": 16,
+  "jp": "キャリアヤーヴァ",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 20,
+  "budget": 6,
+  "jp": "変異種",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 21,
+  "budget": 12,
+  "jp": "ムーイムーイ",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 22,
+  "budget": 12,
+  "jp": "ムーイムーイ",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 23,
+  "budget": 12,
+  "jp": "ムーイムーイ",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 24,
+  "budget": 6,
+  "jp": "変異種",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 25,
+  "budget": 12,
+  "jp": "ヨンドムーイ",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 26,
+  "budget": 12,
+  "jp": "ヨンドムーイ",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 27,
+  "budget": 12,
+  "jp": "ヨンドムーイ",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 28,
+  "budget": 6,
+  "jp": "変異種",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 29,
+  "budget": 10,
+  "jp": "ロキュプル",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 30,
+  "budget": 10,
+  "jp": "ロキュプル",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 31,
+  "budget": 10,
+  "jp": "ロキュプル",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 32,
+  "budget": 6,
+  "jp": "変異種",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 33,
+  "budget": 8,
+  "jp": "バトゥン",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 34,
+  "budget": 8,
+  "jp": "バトゥン",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 35,
+  "budget": 8,
+  "jp": "バトゥン",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 36,
+  "budget": 6,
+  "jp": "変異種",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 37,
+  "budget": 12,
+  "jp": "ヨンドワーム",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 38,
+  "budget": 12,
+  "jp": "ヨンドワーム",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 39,
+  "budget": 12,
+  "jp": "ヨンドワーム",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 40,
+  "budget": 6,
+  "jp": "変異種",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 41,
+  "budget": 6,
+  "jp": "ブブク",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 42,
+  "budget": 6,
+  "jp": "ブブク",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 43,
+  "budget": 6,
+  "jp": "ブブク",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 44,
+  "budget": 6,
+  "jp": "変異種",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 45,
+  "budget": 12,
+  "jp": "イクラクラブ",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 46,
+  "budget": 12,
+  "jp": "イクラクラブ",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 47,
+  "budget": 12,
+  "jp": "イクラクラブ",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 48,
+  "budget": 6,
+  "jp": "変異種",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 49,
+  "budget": 14,
+  "jp": "ワームライダー",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 50,
+  "budget": 14,
+  "jp": "ワームライダー",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 51,
+  "budget": 14,
+  "jp": "ワームライダー",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 52,
+  "budget": 6,
+  "jp": "その他",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 53,
+  "budget": 10,
+  "jp": "ディーディ",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 54,
+  "budget": 10,
+  "jp": "ディーディ",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 55,
+  "budget": 10,
+  "jp": "ディーディ",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 56,
+  "budget": 6,
+  "jp": "変異種",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 57,
+  "budget": 12,
+  "jp": "ニディーディ",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 58,
+  "budget": 12,
+  "jp": "ニディーディ",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 59,
+  "budget": 12,
+  "jp": "ニディーディ",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 60,
+  "budget": 6,
+  "jp": "変異種",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 61,
+  "budget": 12,
+  "jp": "マディーディ",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 62,
+  "budget": 12,
+  "jp": "マディーディ",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 63,
+  "budget": 12,
+  "jp": "マディーディ",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 64,
+  "budget": 6,
+  "jp": "変異種",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 65,
+  "budget": 16,
+  "jp": "ヤーヴァ・ラウム",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 66,
+  "budget": 3,
+  "jp": "x㈲",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 67,
+  "budget": 16,
+  "jp": "ヤーヴァ・ラウム",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 68,
+  "budget": 16,
+  "jp": "ヤーヴァ・ラウム",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 69,
+  "budget": 6,
+  "jp": "変異種",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 70,
+  "budget": 12,
+  "jp": "ウリマサーン",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 71,
+  "budget": 3,
+  "jp": "Pｋ",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 72,
+  "budget": 12,
+  "jp": "ウリマサーン",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 73,
+  "budget": 12,
+  "jp": "ウリマサーン",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 74,
+  "budget": 6,
+  "jp": "変異種",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 75,
+  "budget": 10,
+  "jp": "エキメタル",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 76,
+  "budget": 10,
+  "jp": "エキメタル",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 77,
+  "budget": 10,
+  "jp": "エキメタル",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 78,
+  "budget": 6,
+  "jp": "変異種",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 79,
+  "budget": 14,
+  "jp": "ウォントムーイ",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 80,
+  "budget": 14,
+  "jp": "ウォントムーイ",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 81,
+  "budget": 14,
+  "jp": "ウォントムーイ",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 82,
+  "budget": 6,
+  "jp": "変異種",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 83,
+  "budget": 14,
+  "jp": "プッサ・ブーボ",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 84,
+  "budget": 14,
+  "jp": "プッサ・ブーボ",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 85,
+  "budget": 14,
+  "jp": "プッサ・ブーボ",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 86,
+  "budget": 6,
+  "jp": "変異種",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 87,
+  "budget": 14,
+  "jp": "エルス・エノラ",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 88,
+  "budget": 14,
+  "jp": "エルス・エノラ",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 89,
+  "budget": 14,
+  "jp": "エルス・エノラ",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 90,
+  "budget": 6,
+  "jp": "変異種",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 91,
+  "budget": 8,
+  "jp": "タムチチ",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 92,
+  "budget": 8,
+  "jp": "タムチチ",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 93,
+  "budget": 8,
+  "jp": "タムチチ",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 94,
+  "budget": 6,
+  "jp": "変異種",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 95,
+  "budget": 6,
+  "jp": "ピーラ",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 96,
+  "budget": 6,
+  "jp": "ピーラ",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 97,
+  "budget": 6,
+  "jp": "ピーラ",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 98,
+  "budget": 6,
+  "jp": "変異種",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 99,
+  "budget": 6,
+  "jp": "セーバ",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 100,
+  "budget": 6,
+  "jp": "セーバ",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 101,
+  "budget": 6,
+  "jp": "セーバ",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 102,
+  "budget": 6,
+  "jp": "純血種",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 103,
+  "budget": 4,
+  "jp": "クル",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 104,
+  "budget": 4,
+  "jp": "クル",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 105,
+  "budget": 4,
+  "jp": "クル",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 106,
+  "budget": 6,
+  "jp": "純血種",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 107,
+  "budget": 12,
+  "jp": "ラムジャナキ",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 108,
+  "budget": 12,
+  "jp": "ラムジャナキ",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 109,
+  "budget": 12,
+  "jp": "ラムジャナキ",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 110,
+  "budget": 6,
+  "jp": "純血種",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 111,
+  "budget": 12,
+  "jp": "チュムチュミ",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 112,
+  "budget": 12,
+  "jp": "チュムチュミ",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 113,
+  "budget": 12,
+  "jp": "チュムチュミ",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 114,
+  "budget": 6,
+  "jp": "純血種",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 115,
+  "budget": 14,
+  "jp": "キャリアセーバ",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 116,
+  "budget": 14,
+  "jp": "キャリアセーバ",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 117,
+  "budget": 14,
+  "jp": "キャリアセーバ",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 118,
+  "budget": 6,
+  "jp": "純血種",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 119,
+  "budget": 8,
+  "jp": "カチャピ",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 120,
+  "budget": 8,
+  "jp": "カチャピ",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 121,
+  "budget": 8,
+  "jp": "カチャピ",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 122,
+  "budget": 6,
+  "jp": "純血種",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 123,
+  "budget": 8,
+  "jp": "チューク",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 124,
+  "budget": 8,
+  "jp": "チューク",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 125,
+  "budget": 8,
+  "jp": "チューク",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 126,
+  "budget": 6,
+  "jp": "純血種",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 127,
+  "budget": 4,
+  "jp": "デグ",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 128,
+  "budget": 4,
+  "jp": "デグ",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 129,
+  "budget": 4,
+  "jp": "デグ",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 130,
+  "budget": 6,
+  "jp": "純血種",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 131,
+  "budget": 18,
+  "jp": "ガトワル＆コトワル",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 132,
+  "budget": 18,
+  "jp": "ガトワル＆コトワル",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 133,
+  "budget": 18,
+  "jp": "ガトワル＆コトワル",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 134,
+  "budget": 6,
+  "jp": "純血種",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 135,
+  "budget": 6,
+  "jp": "ナヤク",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 136,
+  "budget": 6,
+  "jp": "ナヤク",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 137,
+  "budget": 6,
+  "jp": "ナヤク",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 138,
+  "budget": 6,
+  "jp": "純血種",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 139,
+  "budget": 14,
+  "jp": "キャリアナヤク",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 140,
+  "budget": 14,
+  "jp": "キャリアナヤク",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 141,
+  "budget": 14,
+  "jp": "キャリアナヤク",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 142,
+  "budget": 6,
+  "jp": "純血種",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 143,
+  "budget": 22,
+  "jp": "フッカーヒ・アティシュ",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 144,
+  "budget": 22,
+  "jp": "フッカーヒ・アティシュ",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 145,
+  "budget": 22,
+  "jp": "フッカーヒ・アティシュ",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 146,
+  "budget": 6,
+  "jp": "純血種",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 147,
+  "budget": 8,
+  "jp": "クルベキ",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 148,
+  "budget": 8,
+  "jp": "クルベキ",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 149,
+  "budget": 8,
+  "jp": "クルベキ",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 150,
+  "budget": 14,
+  "jp": "ガードロボット",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 151,
+  "budget": 23,
+  "jp": "アンチプログラムver1.00",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 152,
+  "budget": 23,
+  "jp": "アンチプログラムver1.00",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 153,
+  "budget": 23,
+  "jp": "アンチプログラムver1.00",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 154,
+  "budget": 14,
+  "jp": "攻性プログラム",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 155,
+  "budget": 23,
+  "jp": "アンチプログラムver1.50",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 156,
+  "budget": 23,
+  "jp": "アンチプログラムver1.50",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 157,
+  "budget": 23,
+  "jp": "アンチプログラムver1.50",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 158,
+  "budget": 14,
+  "jp": "攻性プログラム",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 159,
+  "budget": 20,
+  "jp": "意識融合体シーランス",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 160,
+  "budget": 20,
+  "jp": "意識融合体シーランス",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 161,
+  "budget": 20,
+  "jp": "意識融合体シーランス",
+  "ko": null
+ }
+]

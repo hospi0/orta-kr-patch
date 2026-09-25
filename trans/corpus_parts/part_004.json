@@ -1,0 +1,940 @@
+[
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 100,
+  "budget": 160,
+  "jp": "エミーデ「一帯が吹き飛ぶほど、　　\n　　強力な爆弾なんだって。\n\n　　使った本人諸共ね…\n\n　　イエリコの谷の奥に、今でも\n　　封印してあるの」\n\nイーヴァ「ふーん…」",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 101,
+  "budget": 195,
+  "jp": "イーヴァ「でも…\n　　そんなこと、僕に話しても、いいの？」\n\nエミーデ「もちろん！\n　　あなたは、もう私たちの仲間じゃない」\n\nイーヴァ「……」\n　　― 僕、記憶のない振りして、\n　　　　嘘ついてるのに…",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 102,
+  "budget": 118,
+  "jp": "エミーデ「それに…\n　　砂漠であなたを見つけたとき、\n　　運命みたいなものを感じたんだよね」\n\nイーヴァ「え？　運命…？」",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 103,
+  "budget": 61,
+  "jp": "エミーデ「あなたは、何かを\n　　変えてくれるような気がして…」",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 104,
+  "budget": 162,
+  "jp": "$w0001エミーデ「？\n　　騒がしくなってきたね、\n　　どうしたんだろう？\n　　あ、ヌフ！」\n\nヌフ「北の雪原に、ドラゴンを\n　　発見したそうだー！」　　　　　　　　　　　",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 105,
+  "budget": 13,
+  "jp": "― ドラゴン！",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 106,
+  "budget": 100,
+  "jp": "イーヴァ「乗り手もいっしょなの？！」\n\nヌフ「あ？　ああ、そうだと思うが…」\n\nエミーデ「どうしたの？」",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 107,
+  "budget": 188,
+  "jp": "イーヴァ「僕は、　　　　　　　　　　　　　　　\n　　厄災のドラゴンと、その乗り手を\n　　倒さなきゃいけないんだ！！」\n\nエミーデ「え？！」\n\n\n　　　　僕は駆け出し、\n　　　　ポッドに飛び乗った…",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 108,
+  "budget": 214,
+  "jp": "― 間に合わなかった…\n　　もっと急いでいれば…\n\n　　ダメージを受けるとスピードが\n　　落ちてしまう。\n\n　　大きな体で空を飛んでいる\n　　ウォントムーイは頑張って倒して、\n　　弾は上昇ボタンと移動で\n　　とにかく避けて…",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 109,
+  "budget": 93,
+  "jp": "― 僕は厄災のドラゴンを追う途中、\n　　命を落とした。\n　　真っ白な雪原が、とても綺麗だった…。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 110,
+  "budget": 32,
+  "jp": "僕はシーカーの里に戻ってきた ― ",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 111,
+  "budget": 113,
+  "jp": "エミーデ「ドラゴンに向かっていくなんて！\n　　命が惜しくないの？！」\n\nイーヴァ「ごめん…」\n\n　　―  撃てなかった…",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 112,
+  "budget": 8,
+  "jp": "―  ！！",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 113,
+  "budget": 89,
+  "jp": "エミーデ「どうしたの？！」\n\n\n　　― 発作だ\nイーヴァ「ウグ…く、薬…」　　　　　　　　　　",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 114,
+  "budget": 104,
+  "jp": "エミーデ「発作なの？！\n　　薬…あなたの荷物の中に\n　　あるのね？！」\n\nイーヴァ「ウ…ん…」　　　　　　　",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 115,
+  "budget": 102,
+  "jp": "― 苦しい…苦しい…苦しい…\n\n\nエミーデ「薬、これだよね？！\n\n　　最後の１錠だよ…\n\n　　さぁ飲んで…！」",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 116,
+  "budget": 79,
+  "jp": "エミーデ「あ、気が付いたのね！\n　　よかった…。　大丈夫？」\n\nイーヴァ「うん…」",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 117,
+  "budget": 78,
+  "jp": "\n― もう、薬は残ってないんだ…\n　　次に発作が起こったら、\n　　僕は死ぬだろう。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 118,
+  "budget": 73,
+  "jp": "― 父様の形見…御守り…\n\n　　僕は、どうすればいいの…？　\n\n　　教えてよ…",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 119,
+  "budget": 88,
+  "jp": "エミーデ「…それ、手紙だよね？　\n　　誰からの手紙だろう…？」\n\n\nイーヴァ「え？　手紙？」",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 120,
+  "budget": 130,
+  "jp": "エミーデ「そう。\n　　辺境民族の手紙入れ。 \n　　開け方が特別なの。$w0020\n　　…あたしが、開けてあげようか？」\n\nイーヴァ「…うん…」",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 121,
+  "budget": 116,
+  "jp": "　　― 父様からの手紙だ…！$w0060\n\n『お前がこれを読んでいるということは、\n　私はもう、この世にいないのだろう。$w0001",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 122,
+  "budget": 124,
+  "jp": "イーヴァ、お前に伝えなければならない。\n\nお前の体は微細菌に冒されている。\n幼い頃、汚染された生水を\n誤って飲んでしまったのだ。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 123,
+  "budget": 168,
+  "jp": "発作…半死状態…数時間で\n死に至るのが通常だ。\n\nしかし、私は諦めなかった。\n攻性生物の体液で薬を作り、\nお前に試した。\n\nそして、微細菌は抑えられ、\nお前は奇跡的に助かった。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 124,
+  "budget": 109,
+  "jp": "だが…$w0020\nしばらくすると薬が効かなく\nなったのだ。\n\nより強力な攻性生物を捕獲し\nその薬に切り替えていった…。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 125,
+  "budget": 99,
+  "jp": "そしてついに、この世のどんな\n攻性生物で作った薬でも、\nお前の微細菌を抑えられなく\nなってしまった…。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 126,
+  "budget": 120,
+  "jp": "そして、私は、\nドラゴンメアの開発に加わった…\n\n\nそう、お前が今飲んでいる薬は、\nドラゴンメアの体液から作った\n薬なのだよ。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 127,
+  "budget": 37,
+  "jp": "イーヴァ、\nお前は戦いを嫌っているね？",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 128,
+  "budget": 150,
+  "jp": "ひょっとしたら、\nお前は正しいのかもしれない。\n\nドラゴンメアはこの世にあるべき\n存在ではない。\n強すぎる力は、いずれ世界を\n破滅させることにもなるだろう。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 129,
+  "budget": 67,
+  "jp": "それでも…\n\n\nそれでも、\n私はお前と少しでも長く、\n共にいたかった…。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 130,
+  "budget": 124,
+  "jp": "まだ薬は効いているだろうか？\n薬はあと何錠残っているだろうか？\n\n最後まで諦めないで欲しい。\n生きて欲しい。\n\nお前は私の息子だ。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 131,
+  "budget": 76,
+  "jp": "どうか、私を許してくれ…。$w0020\n\n　　  　　　　　　　　　　イーヴァへ ― 』",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 132,
+  "budget": 13,
+  "jp": "　　― 父様…",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 133,
+  "budget": 14,
+  "jp": "男「急襲！！」",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 134,
+  "budget": 124,
+  "jp": "ヌフ「ドラゴンメアだ！！」\n\n男「我らを根絶やしにする\n　　つもりか？！」\n\nエミーデ「そんな、どうして…！」\n\n\nイーヴァ「……」",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 135,
+  "budget": 35,
+  "jp": "― 父様が作ってしまったドラゴンメア",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 136,
+  "budget": 18,
+  "jp": "僕が倒さなきゃ！！",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 137,
+  "budget": 108,
+  "jp": "　　僕はポッドに向かって\n　　駆け出した。\n\n\nエミーデ「イーヴァ！　滝の底よ！」\n\nヌフ「それ、破壊兵器の…！」",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 138,
+  "budget": 94,
+  "jp": "エミーデ「うるさい！　どのみち、\n　　このままじゃ私たちは全滅よ！」\n\n\nイーヴァ「エミーデ…！」",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 139,
+  "budget": 156,
+  "jp": "僕はイエリコ渓谷へと飛び立った。\n\nドラゴンメア達がしつこく\n襲い掛かってきたけど、\nエンジンを最大出力にして\n何とか逃げ切った。\n\n\nイーヴァ「あっ！　あれは…」",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 140,
+  "budget": 174,
+  "jp": "無電「イーヴァ…、イーヴァだろ？\n　俺、帝国軍学校で一緒だった、\n　ムラトだ！」\n\n無電「イーヴァなの？\n　やっぱり生きてたんだ！　よかった…」\n\n\nイーヴァ「ムラト！　ビヤーレ？」",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 141,
+  "budget": 114,
+  "jp": "無電「そう、ビヤーレだよ！\n　僕も戦闘員になれたんだ！」\n\n無電「イーヴァ！　元気なのか？」\n\n\nイーヴァ「ハムゼ？！」",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 142,
+  "budget": 89,
+  "jp": "無電「おう！」\n\n\n無電「お前達、何をやっている！\n　　撃ち落とせ！\n　　指令を忘れたか！？」",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 143,
+  "budget": 37,
+  "jp": "無電「…イヤだ」\n\n\n無電「何だと？！」",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 144,
+  "budget": 130,
+  "jp": "無電「俺、撃てない…」\n\n無電「僕もイーヴァを撃つなんて…\n　できません！」\n\n無電「何を言っている！！」\n\n$w0001\nイーヴァ「みんな…」",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 145,
+  "budget": 66,
+  "jp": "イーヴァ「みんな…\n　どこか遠くへ、早く逃げて！！」\n\n\n無電「……」",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 146,
+  "budget": 35,
+  "jp": "イーヴァ「みんな…」\n\n\n無電「……」",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 147,
+  "budget": 117,
+  "jp": "― ここを発見したシーカーが\n　　“道しるべ”を付けた…って\n　　エミーデが言ってた…\n\n　　それに注意して進んでいれば…",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 148,
+  "budget": 116,
+  "jp": "結局、それはシーカー達の思っていたような\n破壊兵器ではなかった。\n\n攻性生物だけに作用する\n防衛装置の一種だったようだ。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 149,
+  "budget": 30,
+  "jp": "兵士「なんて……綺麗なんだ…」",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 150,
+  "budget": 124,
+  "jp": "兵士達は銃を下ろし、戦うのをやめた。\n\n旧世紀の人達が意識したかどうかは\nわからないけど、\nこの兵器は人の心にも作用したようだ。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 151,
+  "budget": 56,
+  "jp": "イーヴァ「父様…」\n$w0030\nエミーデ「え？　どうしたの？」",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 152,
+  "budget": 95,
+  "jp": "イーヴァ「眠くなっちゃった…」\n$w0010\nエミーデ「…眠りなさい。\n　　あたしが側にいてあげるから」",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 153,
+  "budget": 32,
+  "jp": "イーヴァ「……ありがとう………」",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 154,
+  "budget": 60,
+  "jp": "人間って愚かだ。　\n憎んだり、殺し合ったり、\n道を間違えたり…",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 155,
+  "budget": 53,
+  "jp": "でも、あの美しい虹もまた、\n人間が作ったものなんだ…。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 156,
+  "budget": 65,
+  "jp": "空いっぱいに広がる、完璧な虹…\n\n\nストラテ…　エミーデ…　みんな…",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 157,
+  "budget": 34,
+  "jp": "僕はこの世に生まれてきてよかった。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 158,
+  "budget": 120,
+  "jp": "指令\n\nこれより本隊はイエリコ渓谷へ\n攻撃を仕掛ける。\n対象区域には各所に高射砲が\n多数配置されているとの情報が\n入っている。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 159,
+  "budget": 117,
+  "jp": "まずは地上より攻撃をおこない、\n高射砲を排除したのちに飛空艇\n部隊で全体に爆撃をしかける、\nというのが今回の作戦である。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 160,
+  "budget": 124,
+  "jp": "貴君には駆逐砲車を操り、\n主力飛空艇の損害を最小限に\n食い止めるべく、地上の高射砲を\n根こそぎ破壊してもらいたい。\n健闘を祈る。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 161,
+  "budget": 137,
+  "jp": "報告\n\n渓谷都市の制圧には成功したものの、\n肝心の研究素材の回収には失敗。\n第四艦隊は一部の地上制圧部隊を\n除き、ほぼ壊滅状態に追い込まれた。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 162,
+  "budget": 96,
+  "jp": "ただし、我が軍の試作攻性兵器が\n都市攻略に際して予想をさらに上回る\n結果を発揮したのも事実である。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 163,
+  "budget": 113,
+  "jp": "試作兵器の大量配備、並びに操縦士の\n育成を即日推進すべき、との枢軸幕僚\nたちの統一見解が明朝にも発表される\nだろう。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 164,
+  "budget": 113,
+  "jp": "「ビエ～ックション！！」\n\nモボは雪の中で意識を取り戻した。\n\n「こ、ここは？\n　俺のハマ・ハマは…あんなところに！」",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 165,
+  "budget": 89,
+  "jp": "モボの愛虫、ハマ・ハマは傷ついた体を\n半分雪に埋もれさせて倒れていた。\n\n「なんてこった…」",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 166,
+  "budget": 152,
+  "jp": "モボがそっと触れると、ハマ・ハマは\nゆっくりと体を起こし、雪崩を\n起こさんばかりの大きな遠吠えをした。\n\nその声に反応するように、岩陰から人が\n飛び出した。\n",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 167,
+  "budget": 114,
+  "jp": "「待ちやがれ！」\n捕らえてみると、それは帝国の\n兵卒だった。\n聞けば撃墜したドラゴンと乗り手の\n少女を捜索中だという。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 168,
+  "budget": 80,
+  "jp": "怒りに震えたモボは、兵卒の横っ面に\n拳骨を食らわせると、\nハマ・ハマに飛び乗った…",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 169,
+  "budget": 173,
+  "jp": "「オルタ！　無事だったんだな！」\n\nモボは歓喜のダンスを繰り出して\n大喜びした。\n\n「よーし、大陸中の荒くれ仲間どもを\n　集めるぜ！　すぐ追っかけるから\n　待ってろよ！　オルタ！」",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 170,
+  "budget": 52,
+  "jp": "世界解析システム\n再活性化中……\n\n\nアクセス…レベル４",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 171,
+  "budget": 178,
+  "jp": "記憶階層に接続をリクエスト中…\n…………………………………\n…………………………………\n…………………………………\n…………………………………\n…………………………………\n接続を承認…",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 172,
+  "budget": 67,
+  "jp": "戦闘シミュレーション　開始…\n\n実行するにはAボタンを押してください。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 173,
+  "budget": 58,
+  "jp": "シミュレーション結果の採取に成功\n\nシミュレーション　終了…",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 174,
+  "budget": 49,
+  "jp": "記憶階層との接触を終了…\n\n世界解析情報を\n更新中…",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 175,
+  "budget": 43,
+  "jp": "全リクエストを終了\n世界解析システム　休止…",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 176,
+  "budget": 56,
+  "jp": "回路内に未登録の情報体を発見…\n\n対象の情報体を捕獲する…",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 177,
+  "budget": 20,
+  "jp": "情報体の解析を開始…",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 178,
+  "budget": 96,
+  "jp": "情報体の解析に成功…\n\n遺伝基コード１２を検知\n活動指数　不明\n属性　不明…\n\n未知の設計構造を確認…",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 179,
+  "budget": 49,
+  "jp": "対象は未処理物件庫へ移送…\n情報体の再解析を開始…",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 180,
+  "budget": 30,
+  "jp": "対象の解析を最優先で継続する…",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 181,
+  "budget": 122,
+  "jp": "中央意志より作業要請…\n記憶階層に接続をリクエスト中…\n\n…………………………………\n\n解析情報より\n思念集合体の再構築を開始…",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 182,
+  "budget": 83,
+  "jp": "シミュレーション終了…\n\nシミュレーション結果の採取に成功\n解析結果を中央意志に通知…",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 183,
+  "budget": 78,
+  "jp": "中央意志より作業要請…\n世界解析システム　活性状態を継続\n対象の観測を継続する…",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 184,
+  "budget": 9,
+  "jp": "GAME OVER",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 186,
+  "budget": 2,
+  "jp": "終",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_comment_JP.msg",
+  "idx": 0,
+  "budget": 20,
+  "jp": "EPISODE 1 イベント１",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_comment_JP.msg",
+  "idx": 1,
+  "budget": 20,
+  "jp": "EPISODE 1 イベント２",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_comment_JP.msg",
+  "idx": 2,
+  "budget": 20,
+  "jp": "EPISODE 1 イベント３",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_comment_JP.msg",
+  "idx": 3,
+  "budget": 20,
+  "jp": "EPISODE 2 イベント１",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_comment_JP.msg",
+  "idx": 4,
+  "budget": 20,
+  "jp": "EPISODE 3 イベント１",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_comment_JP.msg",
+  "idx": 5,
+  "budget": 20,
+  "jp": "EPISODE 3 イベント２",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_comment_JP.msg",
+  "idx": 6,
+  "budget": 20,
+  "jp": "EPISODE 3 イベント３",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_comment_JP.msg",
+  "idx": 7,
+  "budget": 20,
+  "jp": "EPISODE 3 イベント４",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_comment_JP.msg",
+  "idx": 8,
+  "budget": 20,
+  "jp": "EPISODE 4 イベント１",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_comment_JP.msg",
+  "idx": 9,
+  "budget": 20,
+  "jp": "EPISODE 4 イベント２",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_comment_JP.msg",
+  "idx": 10,
+  "budget": 20,
+  "jp": "EPISODE 4 イベント３",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_comment_JP.msg",
+  "idx": 11,
+  "budget": 20,
+  "jp": "EPISODE 4 イベント４",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_comment_JP.msg",
+  "idx": 12,
+  "budget": 20,
+  "jp": "EPISODE 5 イベント１",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_comment_JP.msg",
+  "idx": 13,
+  "budget": 20,
+  "jp": "EPISODE 6 イベント１",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_comment_JP.msg",
+  "idx": 14,
+  "budget": 20,
+  "jp": "EPISODE 6 イベント２",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_comment_JP.msg",
+  "idx": 15,
+  "budget": 20,
+  "jp": "EPISODE 6 イベント３",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_comment_JP.msg",
+  "idx": 16,
+  "budget": 20,
+  "jp": "EPISODE 6 イベント４",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_comment_JP.msg",
+  "idx": 17,
+  "budget": 20,
+  "jp": "EPISODE 7 イベント１",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_comment_JP.msg",
+  "idx": 18,
+  "budget": 20,
+  "jp": "EPISODE 7 イベント２",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_comment_JP.msg",
+  "idx": 19,
+  "budget": 20,
+  "jp": "EPISODE 8 イベント１",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_comment_JP.msg",
+  "idx": 20,
+  "budget": 20,
+  "jp": "EPISODE 8 イベント２",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_comment_JP.msg",
+  "idx": 21,
+  "budget": 20,
+  "jp": "EPISODE 8 イベント３",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_comment_JP.msg",
+  "idx": 22,
+  "budget": 20,
+  "jp": "EPISODE 8 イベント４",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_comment_JP.msg",
+  "idx": 23,
+  "budget": 20,
+  "jp": "EPISODE 9 イベント１",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_comment_JP.msg",
+  "idx": 24,
+  "budget": 20,
+  "jp": "EPISODE 9 イベント２",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_comment_JP.msg",
+  "idx": 25,
+  "budget": 21,
+  "jp": "EPISODE 10 イベント１",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_comment_JP.msg",
+  "idx": 26,
+  "budget": 10,
+  "jp": "エピローグ",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_comment_JP.msg",
+  "idx": 27,
+  "budget": 22,
+  "jp": "帝国少年　最終イベント",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_comment_JP.msg",
+  "idx": 28,
+  "budget": 32,
+  "jp": "PANZER DRAGOON ORTA\nオープニング",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_comment_JP.msg",
+  "idx": 29,
+  "budget": 34,
+  "jp": "PANZER DRAGOON ORTA\n中間ムービー１",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_comment_JP.msg",
+  "idx": 30,
+  "budget": 34,
+  "jp": "PANZER DRAGOON ORTA\n中間ムービー２",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_comment_JP.msg",
+  "idx": 31,
+  "budget": 35,
+  "jp": "PANZER DRAGOON\nオープニングムービー",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_comment_JP.msg",
+  "idx": 32,
+  "budget": 35,
+  "jp": "PANZER DRAGOON\nエンディングムービー",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_comment_JP.msg",
+  "idx": 33,
+  "budget": 33,
+  "jp": "PANZER DRAGOON　ZWEI\nデモムービー",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_comment_JP.msg",
+  "idx": 34,
+  "budget": 41,
+  "jp": "PANZER DRAGOON　ZWEI\nエンディングムービー",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_comment_JP.msg",
+  "idx": 35,
+  "budget": 18,
+  "jp": "AZEＬ\n予告ムービー",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_comment_JP.msg",
+  "idx": 36,
+  "budget": 25,
+  "jp": "AZEL\nオープニングムービー",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_comment_JP.msg",
+  "idx": 37,
+  "budget": 25,
+  "jp": "AZEL\nエンディングムービー",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_comment_JP.msg",
+  "idx": 38,
+  "budget": 44,
+  "jp": "PANZER DRAGOON ORTA\nオルタ＆ドラゴン　公式CG",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_comment_JP.msg",
+  "idx": 39,
+  "budget": 34,
+  "jp": "PANZER DRAGOON ORTA\nオルタ　公式CG",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_comment_JP.msg",
+  "idx": 40,
+  "budget": 45,
+  "jp": "PANZER DRAGOON ORTA\nオルタ＆ドラゴン2　公式CG",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_comment_JP.msg",
+  "idx": 41,
+  "budget": 36,
+  "jp": "PANZER DRAGOON ORTA\nドラゴン　公式CG",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_comment_JP.msg",
+  "idx": 42,
+  "budget": 44,
+  "jp": "PANZER DRAGOON ORTA\nオルタ　公式設定イラスト",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_comment_JP.msg",
+  "idx": 43,
+  "budget": 42,
+  "jp": "PANZER DRAGOON ORTA\nモボ　公式設定イラスト",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_comment_JP.msg",
+  "idx": 44,
+  "budget": 42,
+  "jp": "PANZER DRAGOON ORTA\n亜人　公式設定イラスト",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_comment_JP.msg",
+  "idx": 45,
+  "budget": 46,
+  "jp": "PANZER DRAGOON ORTA\nイーヴァ　公式設定イラスト",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_comment_JP.msg",
+  "idx": 46,
+  "budget": 46,
+  "jp": "PANZER DRAGOON ORTA\nドラゴン　公式設定イラスト",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_comment_JP.msg",
+  "idx": 47,
+  "budget": 46,
+  "jp": "PANZER DRAGOON ORTA\n少女＆亜人　初期コンセプト",
+  "ko": null
+ }
+]

@@ -1,0 +1,821 @@
+[
+ {
+  "file": "menudata\\TextData\\text_pdb_db_empire_JP.msg",
+  "idx": 189,
+  "budget": 102,
+  "jp": "$c0＜戦車砲弾＞\n　帝国の戦車が装備している誘導弾。\n　基本的な性能は、飛空艇のものと\nさほど変化はない。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_empire_JP.msg",
+  "idx": 190,
+  "budget": 125,
+  "jp": "$c0＜小型誘導弾＞\n　帝国で運用されている誘導弾の中では\nもっとも小型のもの。\n　戦車上の兵士が撃つ携帯兵砲などが\n代表的である。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_empire_JP.msg",
+  "idx": 191,
+  "budget": 75,
+  "jp": "$c0＜強化誘導弾＞\n　炸薬を増量した中型の誘導弾。\n中型以上の兵器が運用する。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_empire_JP.msg",
+  "idx": 192,
+  "budget": 370,
+  "jp": "$c0＜ポッド＞\n　帝国軍兵器開発部の技術で作られた\n一人乗り浮遊移動機。\n　長距離の空中移動用ではなく、足場の\n悪い土地の走破を目的とした半地上機\nである。低出力ながら耐久性と拡張性\nに優れ、前線での移動、通信などに\n幅広く使われる。操作の単純さを買われ、\n帝国軍学校幼年科の戦闘教練などに\nも使われている。\n　資料画像は、辺境の匪賊に回収され、\n独特の改造装飾を施された珍しい例。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_empire_JP.msg",
+  "idx": 193,
+  "budget": 292,
+  "jp": "$c0＜シーカー兵＞\n　イエリコ渓谷に潜伏していた地下情報\n組織「シーカー」の一般兵士。\n　彼らは外界から独立し、自給自足生活\nを営むかたわら戦闘訓練につとめていた\nらしい。\n　その戦闘力は帝国に比べるまでもない\nが、神出鬼没の隠密行動を得意とし、\n武装した敵を素手でしとめるなど\nあなどれぬ連中である。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_empire_JP.msg",
+  "idx": 194,
+  "budget": 201,
+  "jp": "$c0＜シーカー対空砲台＞\n　シーカーの兵士たちが用いていた連発\n対空砲。装薬カタパルトで砲弾を撃ち\nだす旧式の砲。\n　装甲貫徹力はゼロに等しいため、\n無装甲の飛空艇や中型飛行生物を\n迎撃するのが関の山である。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_empire_JP.msg",
+  "idx": 195,
+  "budget": 77,
+  "jp": "$c0＜対空砲弾＞\n　シーカー対空砲の砲弾。\n　散弾を仕込んで破壊力を増している。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_empire_JP.msg",
+  "idx": 196,
+  "budget": 147,
+  "jp": "$c0＜クーリア＞\n　大陸南西部が原産の家畜。\n　乗用・輸送・農耕など様々な用途に\n用いられる。\n　性格はおとなしく、砂漠の横断にも\n耐える頑健さを持つ。\n",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_empire_JP.msg",
+  "idx": 197,
+  "budget": 178,
+  "jp": "$c0＜夜間探照灯＞\n　敵襲に備え、夜空を照らすサーチライト。\n　イエリコ渓谷のシーカー街各所に設置\nされていた。\n　攻性生物の目を磨いたレンズを使い、\n油燃料の燃える光を収束している。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_empire_JP.msg",
+  "idx": 198,
+  "budget": 265,
+  "jp": "$c0＜民間人＞\n　遺跡発掘が大規模になると、\n作業員相手の商売や慰安を目的として、\n多くの無関係な俗民が集まってくる。\n　ことに帝都地下発掘場の場合、\nあまりの環境のよさに棲みついた俗民\nたちが集落を作ってしまい、衛生上、\nまた治安維持上たいへんよろしくない\n状態となった。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_empire_JP.msg",
+  "idx": 199,
+  "budget": 323,
+  "jp": "$c0＜アバドメア＞\n　亞人「アバド」が搭乗している\nドラゴンメア。\n　亞人が帝国研究施設から逃亡した際\nに強奪した、初期六体のドラゴンメアの\n一体と噂されるが、真偽は定かでない。\n　表皮は白い甲殻におおわれ、亞人に\nよってなんらかの改造をほどこされたと\n思われる。\n　通常のメアよりさらに高い戦闘力を持ち\nその潜在能力は未知数である。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_empire_JP.msg",
+  "idx": 200,
+  "budget": 221,
+  "jp": "$c0＜ドラゴンメア幼体＞\n　制御用のコアを背中に打ち込まれる前\nのドラゴンメア。\n　初期に生産されたドラゴンメア５騎の\n成功をうけ生命炉で量産されたが、\n起動前に技術者の「亞人」が逃亡した\nため、胎児状態のまま眠りつづけていた。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_empire_JP.msg",
+  "idx": 201,
+  "budget": 11,
+  "jp": "$c0帝国兵器",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_empire_JP.msg",
+  "idx": 202,
+  "budget": 6,
+  "jp": "敵勢力",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_empire_JP.msg",
+  "idx": 203,
+  "budget": 6,
+  "jp": "その他",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_world_JP.msg",
+  "idx": 0,
+  "budget": 12,
+  "jp": "$c0ドラゴン ",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_world_JP.msg",
+  "idx": 1,
+  "budget": 12,
+  "jp": "$c0ドラゴン ",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_world_JP.msg",
+  "idx": 2,
+  "budget": 21,
+  "jp": "$c0ドラゴン型ユニット",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_world_JP.msg",
+  "idx": 3,
+  "budget": 21,
+  "jp": "$c0ドラゴン型ユニット",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_world_JP.msg",
+  "idx": 4,
+  "budget": 19,
+  "jp": "$c0ドラゴンライダー",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_world_JP.msg",
+  "idx": 5,
+  "budget": 19,
+  "jp": "$c0ドラゴンライダー",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_world_JP.msg",
+  "idx": 6,
+  "budget": 21,
+  "jp": "$c0生体レーザー発振器",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_world_JP.msg",
+  "idx": 7,
+  "budget": 21,
+  "jp": "$c0生体レーザー発振器",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_world_JP.msg",
+  "idx": 8,
+  "budget": 11,
+  "jp": "$c0バーサク",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_world_JP.msg",
+  "idx": 9,
+  "budget": 11,
+  "jp": "$c0バーサク",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_world_JP.msg",
+  "idx": 10,
+  "budget": 11,
+  "jp": "$c0グライド",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_world_JP.msg",
+  "idx": 11,
+  "budget": 11,
+  "jp": "$c0グライド",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_world_JP.msg",
+  "idx": 12,
+  "budget": 15,
+  "jp": "$c0モーフィング",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_world_JP.msg",
+  "idx": 13,
+  "budget": 15,
+  "jp": "$c0モーフィング",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_world_JP.msg",
+  "idx": 14,
+  "budget": 11,
+  "jp": "$c0自己進化",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_world_JP.msg",
+  "idx": 15,
+  "budget": 11,
+  "jp": "$c0自己進化",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_world_JP.msg",
+  "idx": 16,
+  "budget": 19,
+  "jp": "$c0ジーン（遺伝基）",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_world_JP.msg",
+  "idx": 17,
+  "budget": 19,
+  "jp": "$c0ジーン（遺伝基）",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_world_JP.msg",
+  "idx": 18,
+  "budget": 17,
+  "jp": "$c0ブルードラゴン",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_world_JP.msg",
+  "idx": 19,
+  "budget": 17,
+  "jp": "$c0ブルードラゴン",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_world_JP.msg",
+  "idx": 20,
+  "budget": 7,
+  "jp": "$c0ラギ",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_world_JP.msg",
+  "idx": 21,
+  "budget": 7,
+  "jp": "$c0ラギ",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_world_JP.msg",
+  "idx": 22,
+  "budget": 19,
+  "jp": "$c0エッジのドラゴン",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_world_JP.msg",
+  "idx": 23,
+  "budget": 19,
+  "jp": "$c0エッジのドラゴン",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_world_JP.msg",
+  "idx": 24,
+  "budget": 7,
+  "jp": "$c0帝国",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_world_JP.msg",
+  "idx": 25,
+  "budget": 7,
+  "jp": "$c0帝国",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_world_JP.msg",
+  "idx": 26,
+  "budget": 7,
+  "jp": "$c0帝都",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_world_JP.msg",
+  "idx": 27,
+  "budget": 7,
+  "jp": "$c0帝都",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_world_JP.msg",
+  "idx": 28,
+  "budget": 11,
+  "jp": "$c0南方民族",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_world_JP.msg",
+  "idx": 29,
+  "budget": 11,
+  "jp": "$c0南方民族",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_world_JP.msg",
+  "idx": 30,
+  "budget": 9,
+  "jp": "$c0大崩落",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_world_JP.msg",
+  "idx": 31,
+  "budget": 9,
+  "jp": "$c0大崩落",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_world_JP.msg",
+  "idx": 32,
+  "budget": 17,
+  "jp": "$c0帝国アカデミー",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_world_JP.msg",
+  "idx": 33,
+  "budget": 17,
+  "jp": "$c0帝国アカデミー",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_world_JP.msg",
+  "idx": 34,
+  "budget": 9,
+  "jp": "$c0帝国軍",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_world_JP.msg",
+  "idx": 35,
+  "budget": 9,
+  "jp": "$c0帝国軍",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_world_JP.msg",
+  "idx": 36,
+  "budget": 13,
+  "jp": "$c0対攻性兵器",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_world_JP.msg",
+  "idx": 37,
+  "budget": 13,
+  "jp": "$c0対攻性兵器",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_world_JP.msg",
+  "idx": 38,
+  "budget": 9,
+  "jp": "$c0皇衛軍",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_world_JP.msg",
+  "idx": 39,
+  "budget": 9,
+  "jp": "$c0皇衛軍",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_world_JP.msg",
+  "idx": 40,
+  "budget": 15,
+  "jp": "$c0ドラゴンメア",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_world_JP.msg",
+  "idx": 41,
+  "budget": 15,
+  "jp": "$c0ドラゴンメア",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_world_JP.msg",
+  "idx": 42,
+  "budget": 9,
+  "jp": "$c0騎兵隊",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_world_JP.msg",
+  "idx": 43,
+  "budget": 9,
+  "jp": "$c0騎兵隊",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_world_JP.msg",
+  "idx": 44,
+  "budget": 9,
+  "jp": "$c0生命炉",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_world_JP.msg",
+  "idx": 45,
+  "budget": 9,
+  "jp": "$c0生命炉",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_world_JP.msg",
+  "idx": 46,
+  "budget": 9,
+  "jp": "$c0旧世紀",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_world_JP.msg",
+  "idx": 47,
+  "budget": 9,
+  "jp": "$c0旧世紀",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_world_JP.msg",
+  "idx": 48,
+  "budget": 7,
+  "jp": "$c0遺跡",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_world_JP.msg",
+  "idx": 49,
+  "budget": 7,
+  "jp": "$c0遺跡",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_world_JP.msg",
+  "idx": 50,
+  "budget": 7,
+  "jp": "$c0亞人",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_world_JP.msg",
+  "idx": 51,
+  "budget": 7,
+  "jp": "$c0亞人",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_world_JP.msg",
+  "idx": 52,
+  "budget": 11,
+  "jp": "$c0攻性生物",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_world_JP.msg",
+  "idx": 53,
+  "budget": 11,
+  "jp": "$c0攻性生物",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_world_JP.msg",
+  "idx": 54,
+  "budget": 9,
+  "jp": "$c0純血種",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_world_JP.msg",
+  "idx": 55,
+  "budget": 9,
+  "jp": "$c0純血種",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_world_JP.msg",
+  "idx": 56,
+  "budget": 9,
+  "jp": "$c0変異種",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_world_JP.msg",
+  "idx": 57,
+  "budget": 9,
+  "jp": "$c0変異種",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_world_JP.msg",
+  "idx": 58,
+  "budget": 17,
+  "jp": "$c0ワームライダー",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_world_JP.msg",
+  "idx": 59,
+  "budget": 17,
+  "jp": "$c0ワームライダー",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_world_JP.msg",
+  "idx": 60,
+  "budget": 15,
+  "jp": "$c0イエリコ渓谷",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_world_JP.msg",
+  "idx": 61,
+  "budget": 15,
+  "jp": "$c0イエリコ渓谷",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_world_JP.msg",
+  "idx": 62,
+  "budget": 11,
+  "jp": "$c0変異の森",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_world_JP.msg",
+  "idx": 63,
+  "budget": 11,
+  "jp": "$c0変異の森",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_world_JP.msg",
+  "idx": 64,
+  "budget": 9,
+  "jp": "$c0灰の海",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_world_JP.msg",
+  "idx": 65,
+  "budget": 9,
+  "jp": "$c0灰の海",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_world_JP.msg",
+  "idx": 66,
+  "budget": 11,
+  "jp": "$c0氷河地帯",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_world_JP.msg",
+  "idx": 67,
+  "budget": 11,
+  "jp": "$c0氷河地帯",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_world_JP.msg",
+  "idx": 68,
+  "budget": 7,
+  "jp": "$c0辺境",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_world_JP.msg",
+  "idx": 69,
+  "budget": 7,
+  "jp": "$c0辺境",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_world_JP.msg",
+  "idx": 70,
+  "budget": 19,
+  "jp": "$c0旧メッカニア連邦",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_world_JP.msg",
+  "idx": 71,
+  "budget": 19,
+  "jp": "$c0旧メッカニア連邦",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_world_JP.msg",
+  "idx": 72,
+  "budget": 15,
+  "jp": "$c0旧リ・ヴィス",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_world_JP.msg",
+  "idx": 73,
+  "budget": 15,
+  "jp": "$c0旧リ・ヴィス",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_world_JP.msg",
+  "idx": 74,
+  "budget": 11,
+  "jp": "$c0旧ディド",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_world_JP.msg",
+  "idx": 75,
+  "budget": 11,
+  "jp": "$c0旧ディド",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_world_JP.msg",
+  "idx": 76,
+  "budget": 282,
+  "jp": "$c0＜ドラゴン＞\n　太古の技術によって生み出された\n\"攻性生物\"と呼ばれる戦闘生物兵器\nの一種で、大きな翼と頑丈な装甲を持ち\n喉の生体レーザー発振器から放たれる\n\"光の矢\"はおそろしいほどの破壊力を\n持つ。\n　また環境や経験に応じて驚異的な\n速度で肉体を自己進化させる適応変化\n能力を持っている。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_world_JP.msg",
+  "idx": 77,
+  "budget": 242,
+  "jp": "$c0\n　出現の前後は気象の激変や大きな\n戦乱が多発すると伝えられ災厄の運び手\nとして忌みうとむ人間や、逆に神格化し\n崇拝の対象とする者もいるという。\n　しかし現在、数十年前の「大崩落」を\n最後に、ドラゴンの姿を実際に見たと\n生きて伝える人間はいない。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_world_JP.msg",
+  "idx": 78,
+  "budget": 321,
+  "jp": "$c0\n　ドラゴンについては、古くより\n帝国アカデミーによって熱心に研究が\n進められてきた。\n　それはドラゴンこそが帝国の望む最強の\n戦闘力そのものだからである。\n　結果として帝国はほぼ壊滅に近い打撃\nをこうむったが、復興と共に、その深い\n傷跡を研究材料として、ドラゴンと\n旧世紀技術に対するより深い知識を\n得ることができたのである。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_world_JP.msg",
+  "idx": 79,
+  "budget": 374,
+  "jp": "$c0＜ドラゴン型ユニット＞\n　「ドラゴン」とは本来この世界の伝承で、\n畏怖すべき力で世界を統べる\n「唯一の者」の意味である。超越的な\n能力を持つ戦闘生物兵器が\n「ドラゴン型ユニット」と呼ばれるのは\nこれに由来している。\n　これらドラゴン型ユニットは歴史上に\n数種のみが確認されているが、記録に\n残るそれらの攻撃力と生命力は\nけた外れで、“神の時代”旧世紀本来の\n力の巨大さを感じさせる。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_world_JP.msg",
+  "idx": 80,
+  "budget": 289,
+  "jp": "$c0\n　民衆にとって、世界そのものの動きすら\n変える力を持ったドラゴンの名は「神」\nと同格のものであり、そこに信仰や畏怖\nの念が生まれるのは一種当然といえる。\n　数十年前の「大崩落」の時期に\n辺境においてドラゴン同士の対決があり、\nその激突による影響は天変地異を\nほうふつとさせたと伝えられている。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_world_JP.msg",
+  "idx": 81,
+  "budget": 238,
+  "jp": "$c0\n　また、ドラゴン型ユニットは一種につき\n一個体ずつしか確認されていない。\n　これは一部の純血種同様に子孫複製\nの能力がないのと、製造段階で目的\nあるいは操作者を限定して設計された\n専用兵器、もしくは実験用のプロトタイプ\nだからと推測される。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_world_JP.msg",
+  "idx": 82,
+  "budget": 400,
+  "jp": "$c0＜ドラゴンライダー＞\n　数少ない観測例によれば、\n一部のドラゴンは、攻性生物としては\nあるまじきことに人間を操作者として\nその背に乗せていたという。\n　生身の人間はドラゴンクラスの戦闘や\n飛行にはとても耐えられないので、\nドラゴンが操作者を衝撃や敵の攻撃から\n防御する機能を発動させていると考える\nのが妥当だろう。このことから、本来\nドラゴンは亞人などによる操作を前提と\nした有人兵器だったと推定されている。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_world_JP.msg",
+  "idx": 83,
+  "budget": 3,
+  "jp": " 跋",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_world_JP.msg",
+  "idx": 84,
+  "budget": 376,
+  "jp": "$c0\n　ドラゴンは搭乗したライダーと思考や\n感覚を共有することではじめて戦闘生物\nとしての能力を全開放するらしい。\n　なぜこのような不完全な形に設計され\nたかは不明だが、ドラゴンが完全な存在\nであるがゆえにつけられた一種の\n「安全装置」ではないか…、という説には\n説得力がある。\n　また、ライダーはドラゴンに搭乗している\n間、その身体能力や感覚を強化され、\nその後も人格や知能に強い影響を",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_world_JP.msg",
+  "idx": 85,
+  "budget": 313,
+  "jp": "$c0\n受け続けるようだ。\n　ドラゴンに乗って戦っている間は恐怖や\n慈悲の心を一切感じなくなっていた、\nという文献も発見されている。\n　いずれにせよ人間が神の乗り物に\n触れ、非日常の世界を目撃したならば、\nそこからふたたび日常へ戻るのは\n難しいだろう。ドラゴンは、その乗り手に\n対しても破滅の、あるいは福音の使者\nなのである。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_world_JP.msg",
+  "idx": 86,
+  "budget": 384,
+  "jp": "$c0＜生体レーザー発振器＞\n　ドラゴンのもうひとつの特徴、それが\n標的を追って誘導、命中する\n「生体レーザー」である。\n　その実態は高エネルギーの束と考えら\nれており、追撃速度は地上のあらゆる\n生物よりも速く、この攻撃を回避すること\nは理論上不可能である。\n　帝国と交戦中のドラゴンを撮影した\n映影板には、その喉元に緑色に輝く\n器官が確認されている。生体レーザー\n発振器と呼ばれるこの装置を使い、",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_world_JP.msg",
+  "idx": 87,
+  "budget": 317,
+  "jp": "$c0\nドラゴンは全身から集めたエネルギーを\n光学変換し、光の矢として口腔から\n解き放つのである。\n　これまでに集められた資料によれば、\nおおむねドラゴンはその体長にあわせて\n生体レーザーの同時発射数が変わって\nいる。このことから、ドラゴンは全身\nそのものがレーザーのエネルギーを\n生産、保蓄する集積器となっていると\n推測できる。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_world_JP.msg",
+  "idx": 88,
+  "budget": 119,
+  "jp": "$c0\n　かつては人の罪を裁く罰の雷と恐れら\nれた「光の矢」だが、現在アカデミーに\nよってその神秘は着実に解明されつつ\nある。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_world_JP.msg",
+  "idx": 89,
+  "budget": 392,
+  "jp": "$c0＜バーサク＞\n　ドラゴンが戦闘時に用いる決戦行動。\n通常の数倍の威力の生体レーザーを\n多数放出して空域内の敵を殲滅する、\n本体周囲のエネルギー流動法則を\nねじ曲げて自らへの攻撃と傷を無効化\nするなど、常識を超えた効果によって\n戦局の流れを一変する。\n　バーサクを発動するための生体エネル\nギーがドラゴンの全身に集積されるには\n時間がかかり、一度の交戦において一回\nから数回程度しか使用できないようだ。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_world_JP.msg",
+  "idx": 90,
+  "budget": 153,
+  "jp": "$c0\n　しかし実際にそれが発動している光景は\n言語を絶する凄絶な恐ろしさと美しさだと\nいう。それは最強の兵器として作られた\nドラゴン本来の姿なのかもしれない。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_world_JP.msg",
+  "idx": 91,
+  "budget": 266,
+  "jp": "$c0＜グライド＞\n　飛行中の危機を瞬間的に回避し、\nあるいは積極的な攻撃とする移動行為。\n　兵器としてのドラゴンの優位点は、\nその自在な機動力にある。移動速度、\n航続性能、旋回能力、瞬発性のすべて\nにおいてドラゴンをうわまわる生物兵器\nあるいは機械兵器はこれまで存在しない。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_world_JP.msg",
+  "idx": 92,
+  "budget": 180,
+  "jp": "$c0\n　ことに「グライド」と呼ばれる急加速\n減速・急旋回行動は、単純射撃攻撃\nの、ほとんどを無効化することができる。\n　どれほど殺傷力にすぐれた兵器も、\n的に当たらなければ無意味なのだ。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_world_JP.msg",
+  "idx": 93,
+  "budget": 131,
+  "jp": "$c0＜モーフィング＞\n　攻撃、防御、逃亡など用途に応じて\n肉体を変容させるドラゴンの能力。\n　別種の生物に思えるほどその変異は\n激しい。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_world_JP.msg",
+  "idx": 94,
+  "budget": 308,
+  "jp": "$c0＜自己進化＞\n　世代交代による蓄積を必要とせず、\n一世代のうちにみずから進化して環境に\n適応する能力。\n　変化しつづける戦闘様式や環境への\n自動適応は攻性生物の特徴だが、\nドラゴン型ユニットの自己進化能力は\n次元の違う速度と柔軟性を持つ。\n　この無限の可能性こそがドラゴンを\n「最強の攻性生物」たらしめているのだ。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_world_JP.msg",
+  "idx": 95,
+  "budget": 333,
+  "jp": "$c0\n　そのメカニズムは旧世紀の霧の中に\n包まれているが、遺伝基（ジーン）の\n取得や戦闘学習によって、自己進化を\nコントロールする自己進化プログラム\nそのものをみずから書き換えているのでは\nないかといわれている。\n　強力な自己進化能力だが、これは\n逆に、自己複製せず単独で何千年単位\nの目的を遂行するよう設計された種で\nあることを意味している。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_world_JP.msg",
+  "idx": 96,
+  "budget": 137,
+  "jp": "$c0\n「多くの旧世紀の落し子同様、ドラゴンも\nまた時の牢獄に囚われた孤独な存在」\nと古い詩人学者ディドロ・ゲールは\nその絶版詩集に記している。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_world_JP.msg",
+  "idx": 97,
+  "budget": 386,
+  "jp": "$c0＜ジーン（遺伝基）＞\n　旧世紀の生物兵器や建築物の造化を\nデザインしている一連の情報。物質を\n構成する最小単位“セル”内に存在する。\n　我々人間をはじめとするすべての生物\nや植物も、この遺伝基によって外見や\n能力を規定されている。子が親に似るの\nも、子に親の遺伝基の情報が複製され\nているからである。\n　生物は種によって違う遺伝基を持って\nいるが、同じ種の中でも微妙に含まれて\nいる情報は違う。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_world_JP.msg",
+  "idx": 98,
+  "budget": 139,
+  "jp": "$c0\n　同種族、あるいは近しい種同士の間にも\n闘争が生まれるのは、より自分に近い\n遺伝基を後世に残そうという本能的な\nものと主張する学説もある。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_world_JP.msg",
+  "idx": 99,
+  "budget": 304,
+  "jp": "$c0＜ブルードラゴン＞\n　白く美しい甲殻に身を包んだ青い\nドラゴン。戦艦の衝角（ラム）のような長い\n角が特徴的。「ソロウイング」と呼ばれる\nこともある。\n　当時７代目皇帝の統治していた帝国\n首都に侵入し、同形式の生物兵器\n「プロトドラゴン」と交戦した。\n　乗り手はカイル・フリューゲという\n攻性生物ハンターの若者。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_world_JP.msg",
+  "idx": 100,
+  "budget": 239,
+  "jp": "$c0\n　当時辺境を観測していた帝国軍により、\n彼にドラゴンを委ねた第四の乗り手の\n存在が確認されている。\n　一説には戦闘生物兵器を産んだ\n旧世紀人の末裔、あるいは兵器\nオペレーターとして開発された人造人間\n\"亞人\"の一種ではないかと推測され\nている。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_world_JP.msg",
+  "idx": 101,
+  "budget": 357,
+  "jp": "$c0＜ラギ＞\n　ブルードラゴンの目撃に先んじて、\n旧世紀の巡航型要塞兵器\n\"シェルクーフ\"と交戦したドラゴン。\n　5段階の自己進化形態を持ち、また\n戦闘経験を反映して突然変異進化を\n遂げる。茶褐色の体表は進化とともに\n青色を帯び、ブルードラゴンの成長過程\nの姿といわれている。\n　\"ラギ\"というのは、乗り手である若者\nジャン・ジャック・ランディがドラゴンを呼ん\nでいた名前。",
+  "ko": null
+ }
+]

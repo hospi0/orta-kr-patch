@@ -1,0 +1,751 @@
+[
+ {
+  "file": "messageevent\\MesData_sst2_JP.msg",
+  "idx": 8,
+  "budget": 47,
+  "jp": "教官「よーし！　完璧だ！\n　　上がっていいぞ！」",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst2_JP.msg",
+  "idx": 9,
+  "budget": 51,
+  "jp": "教官「規定数以上の攻性生物を\n　　倒せば、合格だ！」",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst2_JP.msg",
+  "idx": 10,
+  "budget": 59,
+  "jp": "教官「攻性生物は訓練用に\n　　弱らせてあるから、安心しろ！」",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst2_JP.msg",
+  "idx": 11,
+  "budget": 14,
+  "jp": "「こわいな…」",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst2_JP.msg",
+  "idx": 12,
+  "budget": 24,
+  "jp": "「手が痛くなっちゃうよ」",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst2_JP.msg",
+  "idx": 13,
+  "budget": 3,
+  "jp": "x幕",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst2_JP.msg",
+  "idx": 14,
+  "budget": 32,
+  "jp": "「６５発で再装填が必要なのか…」",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst2_JP.msg",
+  "idx": 15,
+  "budget": 59,
+  "jp": "「敵が出てきてから上昇して、\n　狙い撃つといいみたいだな…」",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst2_JP.msg",
+  "idx": 16,
+  "budget": 3,
+  "jp": "H嚥",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst2_JP.msg",
+  "idx": 17,
+  "budget": 45,
+  "jp": "「まめにリロードした方が、\n　多く倒せそうだ」",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst3_JP.msg",
+  "idx": 0,
+  "budget": 43,
+  "jp": "「わ！　びっくりした。\n　すごい威力だな…」",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst3_JP.msg",
+  "idx": 1,
+  "budget": 16,
+  "jp": "「しまった…！」",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst3_JP.msg",
+  "idx": 2,
+  "budget": 10,
+  "jp": "「あ―！」",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst3_JP.msg",
+  "idx": 3,
+  "budget": 66,
+  "jp": "教官「Bボタンを押しながら照準を\n　　合わせろ！　追撃砲が撃てる！」",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst3_JP.msg",
+  "idx": 4,
+  "budget": 51,
+  "jp": "教官「ダメだ、撃墜率が悪すぎる！\n　　もう一度だ！」",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst3_JP.msg",
+  "idx": 5,
+  "budget": 51,
+  "jp": "教官「よーし！　まずまずだ！\n　　上がっていいぞ！」",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst3_JP.msg",
+  "idx": 6,
+  "budget": 47,
+  "jp": "教官「よーし！　完璧だ！\n　　上がっていいぞ！」",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst3_JP.msg",
+  "idx": 7,
+  "budget": 51,
+  "jp": "教官「規定数以上の攻性生物を\n　　倒せば、合格だ！」",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst3_JP.msg",
+  "idx": 8,
+  "budget": 55,
+  "jp": "教官「防御力の高い攻性生物には、\n　　追撃砲が有効だ！」",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst3_JP.msg",
+  "idx": 9,
+  "budget": 18,
+  "jp": "「衝撃がすごいよ」",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst3_JP.msg",
+  "idx": 10,
+  "budget": 32,
+  "jp": "「強いけど、数は撃てないんだな」",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst3_JP.msg",
+  "idx": 11,
+  "budget": 65,
+  "jp": "「あまり弱い敵に使うと勿体ないや。\n　数も決まってるみたいだし…」",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst3_JP.msg",
+  "idx": 12,
+  "budget": 51,
+  "jp": "「追撃砲が着弾するまで、\n　次の弾を撃てないんだな」",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst3_JP.msg",
+  "idx": 13,
+  "budget": 41,
+  "jp": "「機連銃で追い撃ちすれば\n　効率がいいな」",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst4_JP.msg",
+  "idx": 0,
+  "budget": 10,
+  "jp": "「前だ！」",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst4_JP.msg",
+  "idx": 1,
+  "budget": 3,
+  "jp": "X寞",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst4_JP.msg",
+  "idx": 2,
+  "budget": 10,
+  "jp": "「後ろ！」",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst4_JP.msg",
+  "idx": 3,
+  "budget": 12,
+  "jp": "「右から！」",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst4_JP.msg",
+  "idx": 4,
+  "budget": 12,
+  "jp": "「左の方！」",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst4_JP.msg",
+  "idx": 5,
+  "budget": 16,
+  "jp": "「しまった…！」",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst4_JP.msg",
+  "idx": 6,
+  "budget": 11,
+  "jp": "「あ― ！」",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst4_JP.msg",
+  "idx": 7,
+  "budget": 56,
+  "jp": "― 訓練の時とは違う、\n　　　攻性生物の強い気配を感じた…",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst4_JP.msg",
+  "idx": 8,
+  "budget": 20,
+  "jp": "ストラテ「来るぞ！」",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst4_JP.msg",
+  "idx": 9,
+  "budget": 69,
+  "jp": "ストラテ「お前やっぱり凄いよ。\n　　どうしてそんなに早く分かるんだ？」",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst4_JP.msg",
+  "idx": 10,
+  "budget": 30,
+  "jp": "イーヴァ「何か…感じるんだ…」",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst4_JP.msg",
+  "idx": 11,
+  "budget": 3,
+  "jp": "@焔",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst4_JP.msg",
+  "idx": 12,
+  "budget": 20,
+  "jp": "ストラテ「うわっ！」",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst4_JP.msg",
+  "idx": 13,
+  "budget": 18,
+  "jp": "イーヴァ「イタッ」",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst4_JP.msg",
+  "idx": 14,
+  "budget": 32,
+  "jp": "ストラテ「イーヴァ大丈夫か？！」",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst4_JP.msg",
+  "idx": 15,
+  "budget": 16,
+  "jp": "イーヴァ「うん」",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst4_JP.msg",
+  "idx": 16,
+  "budget": 36,
+  "jp": "ストラテ「イーヴァ…代わろうか…？」",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst4_JP.msg",
+  "idx": 17,
+  "budget": 22,
+  "jp": "イーヴァ「僕がやる！」",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst4_JP.msg",
+  "idx": 18,
+  "budget": 20,
+  "jp": "ストラテ「そうか…」",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst4_JP.msg",
+  "idx": 19,
+  "budget": 32,
+  "jp": "無電「あ…厄災のドラゴンだ！！」",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst4_JP.msg",
+  "idx": 20,
+  "budget": 14,
+  "jp": "イーヴァ「！」",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst4_JP.msg",
+  "idx": 21,
+  "budget": 30,
+  "jp": "無電「ドラゴンが現れたぞ！！」",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst4_JP.msg",
+  "idx": 22,
+  "budget": 16,
+  "jp": "無電「うわ―！」",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst4_JP.msg",
+  "idx": 23,
+  "budget": 59,
+  "jp": "無電「オスマンがやられた？！\n　　あ、来たぞ！　ドラゴン…」",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst4_JP.msg",
+  "idx": 24,
+  "budget": 18,
+  "jp": "無電「速すぎる！」",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst4_JP.msg",
+  "idx": 25,
+  "budget": 28,
+  "jp": "無電「駄目だ！　間に合わ…」",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst4_JP.msg",
+  "idx": 26,
+  "budget": 18,
+  "jp": "無電「助けて！！」",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst4_JP.msg",
+  "idx": 27,
+  "budget": 32,
+  "jp": "ストラテ「みんな、落ち着け！！」",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst4_JP.msg",
+  "idx": 28,
+  "budget": 53,
+  "jp": "無電「い、いやだ！　死にたくない！\n　　死にたくな…」",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst4_JP.msg",
+  "idx": 29,
+  "budget": 20,
+  "jp": "無電「逃げるな！！」",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst4_JP.msg",
+  "idx": 30,
+  "budget": 16,
+  "jp": "無電「うわ―！」",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst4_JP.msg",
+  "idx": 31,
+  "budget": 18,
+  "jp": "ストラテ「畜生！」",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst4_JP.msg",
+  "idx": 32,
+  "budget": 16,
+  "jp": "イーヴァ「！！」",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst4_JP.msg",
+  "idx": 33,
+  "budget": 29,
+  "jp": "― 何か恐ろしい気配を感じる…",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst4_JP.msg",
+  "idx": 34,
+  "budget": 32,
+  "jp": "イーヴァ「ストラテ！　近いよ！」",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst4_JP.msg",
+  "idx": 35,
+  "budget": 20,
+  "jp": "ストラテ「うわ―！」",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst4_JP.msg",
+  "idx": 36,
+  "budget": 18,
+  "jp": "イーヴァ「あ―！」",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst4_JP.msg",
+  "idx": 37,
+  "budget": 24,
+  "jp": "モボ「まかせとけって！」",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst4_JP.msg",
+  "idx": 38,
+  "budget": 18,
+  "jp": "モボ「いってぇー」",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst5_JP.msg",
+  "idx": 0,
+  "budget": 55,
+  "jp": "「こんな綺麗な川なのに、\n　微細菌に汚染されてるんだ…」",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst5_JP.msg",
+  "idx": 1,
+  "budget": 16,
+  "jp": "「しまった…！」",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst5_JP.msg",
+  "idx": 2,
+  "budget": 10,
+  "jp": "「あ―！」",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst5_JP.msg",
+  "idx": 3,
+  "budget": 28,
+  "jp": "「川まで下がって水を汲もう」",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst5_JP.msg",
+  "idx": 4,
+  "budget": 22,
+  "jp": "「よし、うまく汲めた」",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst5_JP.msg",
+  "idx": 5,
+  "budget": 14,
+  "jp": "「あと２回…」",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst5_JP.msg",
+  "idx": 6,
+  "budget": 3,
+  "jp": "0鞨",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst5_JP.msg",
+  "idx": 7,
+  "budget": 30,
+  "jp": "「あと１回汲めばいいんだな…」",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst5_JP.msg",
+  "idx": 8,
+  "budget": 24,
+  "jp": "「よし、汲み終わったぞ」",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst5_JP.msg",
+  "idx": 9,
+  "budget": 30,
+  "jp": "「うわ！　ちょっと重たいな…」",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst5_JP.msg",
+  "idx": 10,
+  "budget": 32,
+  "jp": "「このまましばらく浸けておこう」",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst6_JP.msg",
+  "idx": 0,
+  "budget": 12,
+  "jp": "「待て！！」",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst6_JP.msg",
+  "idx": 1,
+  "budget": 16,
+  "jp": "「しまった…！」",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst6_JP.msg",
+  "idx": 2,
+  "budget": 10,
+  "jp": "「あ―！」",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst6_JP.msg",
+  "idx": 3,
+  "budget": 22,
+  "jp": "「追いつけるのか？！」",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst6_JP.msg",
+  "idx": 4,
+  "budget": 34,
+  "jp": "「追い付いた！　この…悪魔め！！」",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst6_JP.msg",
+  "idx": 5,
+  "budget": 5,
+  "jp": "― ！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst6_JP.msg",
+  "idx": 6,
+  "budget": 25,
+  "jp": "― 僕と同じ目をしていた…",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst6_JP.msg",
+  "idx": 7,
+  "budget": 31,
+  "jp": "― 僕は撃つことができなかった…",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst6_JP.msg",
+  "idx": 8,
+  "budget": 56,
+  "jp": "― ひょっとして、あの人も\n　　ひとりぼっちなんだろうか…",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst6_JP.msg",
+  "idx": 9,
+  "budget": 50,
+  "jp": "― ひとりで、苦しんでいたり\n　　するんだろうか…？",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst6_JP.msg",
+  "idx": 10,
+  "budget": 22,
+  "jp": "「間に合わなかった…」",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst6_JP.msg",
+  "idx": 11,
+  "budget": 47,
+  "jp": "「厄災のドラゴン…\n　どこだ…どこにいるんだ！」",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst6_JP.msg",
+  "idx": 12,
+  "budget": 73,
+  "jp": "「ヌフが付けてくれた旧世紀エンジンを\n　使えば…。　絶対追いついてやる！」",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst6_JP.msg",
+  "idx": 13,
+  "budget": 49,
+  "jp": "「でも、ダメージを受けると\n　減速しちゃうんだ…」",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst7_JP.msg",
+  "idx": 0,
+  "budget": 16,
+  "jp": "「しまった…！」",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst7_JP.msg",
+  "idx": 1,
+  "budget": 10,
+  "jp": "「あ―！」",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst7_JP.msg",
+  "idx": 2,
+  "budget": 14,
+  "jp": "ドラゴンメア！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst7_JP.msg",
+  "idx": 3,
+  "budget": 20,
+  "jp": "みんな、ごめん！！！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst7_JP.msg",
+  "idx": 4,
+  "budget": 14,
+  "jp": "……生きてる？",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst7_JP.msg",
+  "idx": 5,
+  "budget": 28,
+  "jp": "ドラゴンメアが…逃げていく…",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst7_JP.msg",
+  "idx": 6,
+  "budget": 61,
+  "jp": "「無理させすぎちゃった…\n　連続して上昇は出来そうも無いな…」",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst7_JP.msg",
+  "idx": 7,
+  "budget": 32,
+  "jp": "「慎重に…タイミングを取って…」",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst7_JP.msg",
+  "idx": 8,
+  "budget": 28,
+  "jp": "「ここを…登って行くのか？」",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst7_JP.msg",
+  "idx": 9,
+  "budget": 22,
+  "jp": "「あそこを抜ければ…」",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst7_JP.msg",
+  "idx": 10,
+  "budget": 24,
+  "jp": "「！？　エンジンが…！」",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst7_JP.msg",
+  "idx": 11,
+  "budget": 57,
+  "jp": "「エンジンに無理させ過ぎた…\n　もうスピードは出せないな」",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst7_JP.msg",
+  "idx": 12,
+  "budget": 34,
+  "jp": "「せっかくヌフが付けてくれたのに」",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst7_JP.msg",
+  "idx": 13,
+  "budget": 57,
+  "jp": "「前に進むときは加速して進もう。\n　後戻りは出来ないぞ！」",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst7_JP.msg",
+  "idx": 14,
+  "budget": 32,
+  "jp": "「あ！　下のあれが転送装置…？」",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst7_JP.msg",
+  "idx": 15,
+  "budget": 59,
+  "jp": "「中心近くに乗れば転送されるって、\n　エミーデが言ってた…」",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst7_JP.msg",
+  "idx": 16,
+  "budget": 38,
+  "jp": "システム「認証確認。　転送開始します」",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst7_JP.msg",
+  "idx": 17,
+  "budget": 53,
+  "jp": "システム「認証確認。\n　シークレットセルを開放します」",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst7_JP.msg",
+  "idx": 18,
+  "budget": 38,
+  "jp": "システム「認証不可能。　再認証します」",
+  "ko": null
+ }
+]

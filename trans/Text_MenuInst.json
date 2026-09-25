@@ -1,0 +1,884 @@
+[
+ {
+  "i": 0,
+  "off": 60,
+  "jp": "オルタとドラゴンの物語を体験します。",
+  "en": "Experience the adventure of\nOrta and her dragon.",
+  "ko": ""
+ },
+ {
+  "i": 1,
+  "off": 160,
+  "jp": "パンツァードラグーンの世界を\n色々な角度から楽しめます。\n条件を満たすことで増えていきます。",
+  "en": "Hidden features of the Panzer\nworld that will unlock whenever\ncertain criteria is met.",
+  "ko": ""
+ },
+ {
+  "i": 2,
+  "off": 312,
+  "jp": "操作方法をわかりやすく説明します。",
+  "en": "A simple explanation of the controls.",
+  "ko": ""
+ },
+ {
+  "i": 3,
+  "off": 408,
+  "jp": "設定を変更します。",
+  "en": "Change settings.",
+  "ko": ""
+ },
+ {
+  "i": 4,
+  "off": 488,
+  "jp": "最初からゲームを開始します。",
+  "en": "Start a new game.",
+  "ko": ""
+ },
+ {
+  "i": 5,
+  "off": 580,
+  "jp": "前回、セーブしたエピソードから開始します。\n",
+  "en": "Continue from last save game.\n",
+  "ko": ""
+ },
+ {
+  "i": 6,
+  "off": 684,
+  "jp": "簡単なゲームモードです。\nＮＯＲＭＡＬが難しすぎた方へ。",
+  "en": "For beginners\n(For those who find Normal Mode\ntoo difficult)",
+  "ko": ""
+ },
+ {
+  "i": 7,
+  "off": 800,
+  "jp": "通常のゲームモードです。\n初めはここからプレイすることをおすすめします。",
+  "en": "For advanced players\n(For those who have completed\nthe game in Normal mode.) ",
+  "ko": ""
+ },
+ {
+  "i": 8,
+  "off": 932,
+  "jp": "上級者用のゲームモードです。\nすでにＮＯＲＭＡＬをクリアされた方へ。",
+  "en": "Adjust BGM volume.\nMove the left thumbstick left or right\nto adjust. ",
+  "ko": ""
+ },
+ {
+  "i": 9,
+  "off": 1060,
+  "jp": "ＢＧＭの音量を設定します。\n左右を押して調整してください。",
+  "en": "Adjust SE volume. \nMove the left thumbstick left or right\nto adjust. ",
+  "ko": ""
+ },
+ {
+  "i": 10,
+  "off": 1180,
+  "jp": "効果音の音量を設定します。\n左右を押して調整してください。",
+  "en": "Adjust VOICE volume. \nMove the left thumbstick left or right\nto adjust. ",
+  "ko": ""
+ },
+ {
+  "i": 11,
+  "off": 1300,
+  "jp": "セリフの音量を設定します。\n左右を押して調整してください。",
+  "en": "Adjust on-screen display information.\nMove the left thumbstick left or right to adjust.",
+  "ko": ""
+ },
+ {
+  "i": 12,
+  "off": 1420,
+  "jp": "画面に表示する情報量を設定します。\n左右を押して調整してください。",
+  "en": "Adjust the brightness and contrast of the screen.\nPress the A button or START.  ",
+  "ko": ""
+ },
+ {
+  "i": 13,
+  "off": 1548,
+  "jp": "画面の明るさとコントラストを調整します。\nＡボタンかＳＴＡＲＴボタンを押してください。",
+  "en": "Change the controller configuration.  \nPress the A button or START. ",
+  "ko": ""
+ },
+ {
+  "i": 14,
+  "off": 1696,
+  "jp": "ゲーム中のボタン設定を変更します。\nＡボタンかＳＴＡＲＴボタンを押してください。",
+  "en": "Press the A button or START\nto exit the Options Menu.",
+  "ko": ""
+ },
+ {
+  "i": 15,
+  "off": 1836,
+  "jp": "ＡボタンかＳＴＡＲＴボタンを押すと\nオプションモードを終了します。",
+  "en": "Simple button configuration. \nMove crosshairs with left thumbstick. \nPress X/Y/A/B buttons to shoot, etc.",
+  "ko": ""
+ },
+ {
+  "i": 16,
+  "off": 1964,
+  "jp": "加減速をわかりやすくした配置。\n左スティックでカーソル操作、ＸＹＡＢで\n射撃などをおこなう。,",
+  "en": "Button configuration similar most first person\nand third person shooting games.\nUse both thumbsticks simultaneously. ",
+  "ko": ""
+ },
+ {
+  "i": 17,
+  "off": 2116,
+  "jp": "ガンヴァルキリー風の配置。\n左右スティックを同時に使い分ける。",
+  "en": "Set UP/DOWN configuration. \nMove the left thumbstick left or right\nto select. ",
+  "ko": ""
+ },
+ {
+  "i": 18,
+  "off": 2240,
+  "jp": "上昇下降の操作設定です。\n左右を押して調整してください。",
+  "en": "Set VIBRATION configuration. \nMove the left thumbstick left or right\nto select. ",
+  "ko": ""
+ },
+ {
+  "i": 19,
+  "off": 2356,
+  "jp": "振動の設定です。\n左右を押して調整してください。",
+  "en": "Change the controller configuration.  \nPress the A button or START.",
+  "ko": ""
+ },
+ {
+  "i": 20,
+  "off": 2464,
+  "jp": "ゲーム中のボタン設定を変更します。\nＡボタンかＳＴＡＲＴボタンを押してください。",
+  "en": "Press the A button or START\nto return to the Options Menu.",
+  "ko": ""
+ },
+ {
+  "i": 21,
+  "off": 2604,
+  "jp": "ＡボタンかＳＴＡＲＴボタンを押すと\nオプションモードに戻ります。",
+  "en": "CHANGE FORM",
+  "ko": ""
+ },
+ {
+  "i": 22,
+  "off": 2728,
+  "jp": "バルカン／レーザー発射",
+  "en": "INCREASE SPEED",
+  "ko": ""
+ },
+ {
+  "i": 23,
+  "off": 2812,
+  "jp": "ドラゴンの変形",
+  "en": "DECREASE SPEED",
+  "ko": ""
+ },
+ {
+  "i": 24,
+  "off": 2888,
+  "jp": "加速",
+  "en": "GRIDE ATTACK",
+  "ko": ""
+ },
+ {
+  "i": 25,
+  "off": 2956,
+  "jp": "減速",
+  "en": "BERSERK",
+  "ko": ""
+ },
+ {
+  "i": 26,
+  "off": 3024,
+  "jp": "体当たり攻撃",
+  "en": "VIEW CHANGE (LEFT)",
+  "ko": ""
+ },
+ {
+  "i": 27,
+  "off": 3100,
+  "jp": "バーサク",
+  "en": "VIEW CHANGE (RIGHT)",
+  "ko": ""
+ },
+ {
+  "i": 28,
+  "off": 3172,
+  "jp": "左方向への視界変更",
+  "en": "DEFAULT SETTINGS",
+  "ko": ""
+ },
+ {
+  "i": 29,
+  "off": 3252,
+  "jp": "右方向への視界変更",
+  "en": "Go back to the previous screen.",
+  "ko": ""
+ },
+ {
+  "i": 30,
+  "off": 3332,
+  "jp": "ボタン設定を初期設定に戻す。",
+  "en": "View your play records.",
+  "ko": ""
+ },
+ {
+  "i": 31,
+  "off": 3424,
+  "jp": "一画面戻ります。",
+  "en": "Play through an unknown adventure.",
+  "ko": ""
+ },
+ {
+  "i": 32,
+  "off": 3504,
+  "jp": "いままでのプレイ記録を見ることが\nできます。",
+  "en": "Simulated scenarios with Orta and\nthe dragon under various settings. ",
+  "ko": ""
+ },
+ {
+  "i": 33,
+  "off": 3608,
+  "jp": "知られなかった、別の戦いを\n体験します。",
+  "en": "View various facts and pictures of\nthe Panzer Dragoon world.",
+  "ko": ""
+ },
+ {
+  "i": 34,
+  "off": 3708,
+  "jp": "オルタとドラゴンの戦いを様々な設定で\nシミュレーションします。",
+  "en": "Misc. materials about the world.",
+  "ko": ""
+ },
+ {
+  "i": 35,
+  "off": 3832,
+  "jp": "世界の記録を閲覧できます。",
+  "en": "Close Pandora's Box.",
+  "ko": ""
+ },
+ {
+  "i": 36,
+  "off": 3920,
+  "jp": "ドラゴンと乗り手たちが残した\n様々な記録情報です。",
+  "en": "Play through a series of continuous battles.",
+  "ko": ""
+ },
+ {
+  "i": 37,
+  "off": 4032,
+  "jp": "パンドラボックスを閉じます。",
+  "en": "Play a single level. \nDifficulty level: EASY ",
+  "ko": ""
+ },
+ {
+  "i": 38,
+  "off": 4124,
+  "jp": "連続した戦いの記録を体験できます。",
+  "en": "Play a single level. \nDifficulty level: NORMAL",
+  "ko": ""
+ },
+ {
+  "i": 39,
+  "off": 4220,
+  "jp": "単独の戦いの記録を体験できます。\n難易度：簡単",
+  "en": "Play a single level. \nDifficulty level: HARD",
+  "ko": ""
+ },
+ {
+  "i": 40,
+  "off": 4328,
+  "jp": "単独の戦いの記録を体験できます。\n難易度：普通",
+  "en": "Go back to the previous screen.",
+  "ko": ""
+ },
+ {
+  "i": 41,
+  "off": 4436,
+  "jp": "単独の戦いの記録を体験できます。\n難易度：難しい",
+  "en": "Encyclopedia of information with\ndetails on creatures, weapons,\nand culture.",
+  "ko": ""
+ },
+ {
+  "i": 42,
+  "off": 4544,
+  "jp": "一つ前の画面に戻ります。",
+  "en": "Encyclopedia of information with\ndetails on creatures, weapons,\nand culture.",
+  "ko": ""
+ },
+ {
+  "i": 43,
+  "off": 4632,
+  "jp": "生物・兵器・世界について辞典形式に\nまとめたものです。",
+  "en": "View various events that Orta and her dragon\nencountered on their adventure.",
+  "ko": ""
+ },
+ {
+  "i": 44,
+  "off": 4748,
+  "jp": "生物・兵器・世界について辞典形式に\nまとめたものです。",
+  "en": "Go back to the previous screen.",
+  "ko": ""
+ },
+ {
+  "i": 45,
+  "off": 4864,
+  "jp": "オルタとドラゴンの戦いの中での\nできごとを選択して閲覧できます。",
+  "en": "Re-experience the epic adventure\nof the blue dragon. ",
+  "ko": ""
+ },
+ {
+  "i": 46,
+  "off": 4988,
+  "jp": "一つ前の画面に戻ります。",
+  "en": "Various graphical records of the Panzer world.",
+  "ko": ""
+ },
+ {
+  "i": 47,
+  "off": 5076,
+  "jp": "過去に出現した、青いドラゴンの戦いを\n再体験します。",
+  "en": "Various recordings of actual events in\nthe Panzer world.",
+  "ko": ""
+ },
+ {
+  "i": 48,
+  "off": 5188,
+  "jp": "様々な画像記録です。",
+  "en": "Go back to the previous screen.",
+  "ko": ""
+ },
+ {
+  "i": 49,
+  "off": 5272,
+  "jp": "様々な映像記録です。",
+  "en": "Imperial Boy \nStory about Iva, an Imperial youth.",
+  "ko": ""
+ },
+ {
+  "i": 50,
+  "off": 5356,
+  "jp": "一つ前の画面に戻ります。",
+  "en": "Go back to the previous screen.",
+  "ko": ""
+ },
+ {
+  "i": 51,
+  "off": 5444,
+  "jp": "帝国少年編\n少年イーヴァの物語です。",
+  "en": "MISSION 1\nA Shot in the Dark",
+  "ko": ""
+ },
+ {
+  "i": 52,
+  "off": 5540,
+  "jp": "一つ前の画面に戻ります。",
+  "en": "MISSION 2\nThe Fury of Mobo",
+  "ko": ""
+ },
+ {
+  "i": 53,
+  "off": 5628,
+  "jp": "ＭＩＳＳＩＯＮ　１\nｓｈｏｔ　ｉｎ　ｔｈｅ　ｄａｒｋ",
+  "en": "MISSION 3\nEnemy Attack!",
+  "ko": ""
+ },
+ {
+  "i": 54,
+  "off": 5740,
+  "jp": "ＭＩＳＳＩＯＮ　２\nモボ大いに怒る",
+  "en": "MISSION 4\nQuick Shooter 1",
+  "ko": ""
+ },
+ {
+  "i": 55,
+  "off": 5836,
+  "jp": "ＭＩＳＳＩＯＮ　３\nエネミーラッシュ！",
+  "en": "MISSION 5\nQuick Shooter 2",
+  "ko": ""
+ },
+ {
+  "i": 56,
+  "off": 5936,
+  "jp": "ＭＩＳＳＩＯＮ　４\nＱｕｉｃｋ　Ｓｈｏｏｔｅｒ　１",
+  "en": "MISSION6\nPlay a single level. ",
+  "ko": ""
+ },
+ {
+  "i": 57,
+  "off": 6048,
+  "jp": "ＭＩＳＳＩＯＮ　５\nＱｕｉｃｋ　Ｓｈｏｏｔｅｒ　２",
+  "en": "Go back to the previous screen.",
+  "ko": ""
+ },
+ {
+  "i": 58,
+  "off": 6160,
+  "jp": "ＭＩＳＳＩＯＮ　６\n単独の戦いの記録を体験できます。",
+  "en": "Illustrated creature book.",
+  "ko": ""
+ },
+ {
+  "i": 59,
+  "off": 6272,
+  "jp": "一つ前の画面に戻ります。",
+  "en": "Illustrated Imperial weaponry book.",
+  "ko": ""
+ },
+ {
+  "i": 60,
+  "off": 6360,
+  "jp": "生物図鑑です。",
+  "en": "Encyclopedia about the world.",
+  "ko": ""
+ },
+ {
+  "i": 61,
+  "off": 6436,
+  "jp": "帝国の兵器図鑑です。",
+  "en": "Go back to the previous screen.",
+  "ko": ""
+ },
+ {
+  "i": 62,
+  "off": 6520,
+  "jp": "世界図鑑です。",
+  "en": "Go back to the previous screen.",
+  "ko": ""
+ },
+ {
+  "i": 63,
+  "off": 6596,
+  "jp": "一つ前の画面に戻ります。",
+  "en": "Select an episode to begin from.",
+  "ko": ""
+ },
+ {
+  "i": 64,
+  "off": 6888,
+  "jp": "一つ前の画面に戻ります。",
+  "en": "Select game difficulty level.",
+  "ko": ""
+ },
+ {
+  "i": 65,
+  "off": 6976,
+  "jp": "開始するエピソードを設定します。",
+  "en": "Select player character.",
+  "ko": ""
+ },
+ {
+  "i": 66,
+  "off": 7072,
+  "jp": "難易度を設定します。",
+  "en": "Set health gauge.",
+  "ko": ""
+ },
+ {
+  "i": 67,
+  "off": 7156,
+  "jp": "操作するキャラクターを選択します。",
+  "en": "Set gun level.",
+  "ko": ""
+ },
+ {
+  "i": 68,
+  "off": 7252,
+  "jp": "ＬＩＦＥ量を設定します。",
+  "en": "Set laser level.",
+  "ko": ""
+ },
+ {
+  "i": 69,
+  "off": 7340,
+  "jp": "ショット性能を設定します。",
+  "en": "Select GLIDE GAUGE settings.",
+  "ko": ""
+ },
+ {
+  "i": 70,
+  "off": 7428,
+  "jp": "レーザー性能を設定します。",
+  "en": "Adjust the Berserk settings.\nSome Dragon types do not\nhave Berserk attacks.",
+  "ko": ""
+ },
+ {
+  "i": 71,
+  "off": 7516,
+  "jp": "加減速ゲージについて設定します。",
+  "en": "Adjust Base Wing's level. If the Dragon\nsetting is not set at \"Default Forms,\"\nthis setting will not affect anything.",
+  "ko": ""
+ },
+ {
+  "i": 72,
+  "off": 7612,
+  "jp": "バーサクについて設定します。\n「ＤＲＡＧＯＮ」の種類によっては\nバーサクができないものがあります。",
+  "en": "Adjust Heavy Wing's level. If the Dragon\nsetting is not set at \"Default Forms,\"\nthis setting will not affect anything.",
+  "ko": ""
+ },
+ {
+  "i": 73,
+  "off": 7772,
+  "jp": "ＢＡＳＥ　ＷＩＮＧのレベルを設定します。\n「ＤＲＡＧＯＮ」がＤＥＦＡＵＬＴ　ＦＯＲＭＳ\n以外の場合は、この設定は反映されません。",
+  "en": "Adjust Glide Wing's level. If the Dragon\nsetting is not set at \"Default Forms,\"\nthis setting will not affect anything.",
+  "ko": ""
+ },
+ {
+  "i": 74,
+  "off": 7960,
+  "jp": "HEAVY　ＷＩＮＧのレベルを設定します。\n「ＤＲＡＧＯＮ」がＤＥＦＡＵＬＴ　ＦＯＲＭＳ\n以外の場合は、この設定は反映されません。",
+  "en": "Select the dragon rider.\nDepending on the Dragon setting,\nthis setting may not affect anything.",
+  "ko": ""
+ },
+ {
+  "i": 75,
+  "off": 8144,
+  "jp": "GLIDE　ＷＩＮＧのレベルを設定します。\n「ＤＲＡＧＯＮ」がＤＥＦＡＵＬＴ　ＦＯＲＭＳ\n以外の場合は、この設定は反映されません。",
+  "en": "Select starting area of each episode.\nWhen BOSS is selected, Episode 6 will\nbe skipped, since there is no Boss.",
+  "ko": ""
+ },
+ {
+  "i": 76,
+  "off": 8328,
+  "jp": "ドラゴンの乗り手を設定します。\n「ＤＲＡＧＯＮ」の種類によっては、\nこの設定は反映されません。",
+  "en": "Select Rolling action.",
+  "ko": ""
+ },
+ {
+  "i": 77,
+  "off": 8484,
+  "jp": "エピソードの開始エリアを設定します。\nなお\"BOSS\"に設定した場合、EPISODE6には\nボスが登場しないので、自動的に次に進みます。",
+  "en": "Set the speed of the crosshairs.",
+  "ko": ""
+ },
+ {
+  "i": 78,
+  "off": 8668,
+  "jp": "ローリングの設定をします。",
+  "en": "Select FAT MODE.",
+  "ko": ""
+ },
+ {
+  "i": 79,
+  "off": 8756,
+  "jp": "照準の移動速度を設定します。",
+  "en": "Select MIRROR MODE.",
+  "ko": ""
+ },
+ {
+  "i": 80,
+  "off": 8848,
+  "jp": "ファットモードの設定をします。",
+  "en": "Adjust settings of replays.",
+  "ko": ""
+ },
+ {
+  "i": 81,
+  "off": 8940,
+  "jp": "ミラーモードの設定をします。",
+  "en": "Select Orta's outfit.\nIf the Rider setting is not set at \"Orta,\"\nthis setting will not affect anything.",
+  "ko": ""
+ },
+ {
+  "i": 82,
+  "off": 9032,
+  "jp": "エピソード終了時のリプレイの\n設定をします。",
+  "en": "Adjust the brightness of the screen.\nMove the left thumbstick left or right\nto adjust. ",
+  "ko": ""
+ },
+ {
+  "i": 83,
+  "off": 9136,
+  "jp": "オルタの服装の設定をします。\n「ＲＩＤＥＲ」がオルタ以外の場合は、\nこの設定は反映されません。",
+  "en": "Adjust the contrast of the screen.\nMove the left thumbstick left or right\nto adjust. ",
+  "ko": ""
+ },
+ {
+  "i": 84,
+  "off": 9292,
+  "jp": "画面の明るさを調整します。\n左右を押して調整してください。",
+  "en": "Return VIDEO SETTING configuration\nto default settings.\nPress the A button or START. ",
+  "ko": ""
+ },
+ {
+  "i": 85,
+  "off": 9412,
+  "jp": "画面のコントラストを調整します。\n左右を押して調整してください。",
+  "en": "Press the A button or START\nto return to the Options Menu.",
+  "ko": ""
+ },
+ {
+  "i": 86,
+  "off": 9536,
+  "jp": "明るさ、コントラストを初期設定にもどします。\nAボタンかSTARTボタンを押してください。",
+  "en": "Training for basics.",
+  "ko": ""
+ },
+ {
+  "i": 87,
+  "off": 9680,
+  "jp": "ＡボタンかＳＴＡＲＴボタンを押すと\nオプションモードに戻ります。",
+  "en": "Training for increasing &\ndecreasing speed.",
+  "ko": ""
+ },
+ {
+  "i": 88,
+  "off": 9804,
+  "jp": "基本操作を説明します。",
+  "en": "Training for change dragon form.",
+  "ko": ""
+ },
+ {
+  "i": 89,
+  "off": 9888,
+  "jp": "加減速について説明します。",
+  "en": "Episode 1 \nDeath of My Father ",
+  "ko": ""
+ },
+ {
+  "i": 90,
+  "off": 9976,
+  "jp": "ドラゴンの変形について説明します。",
+  "en": "Episode 2 \nImperial Military School ",
+  "ko": ""
+ },
+ {
+  "i": 91,
+  "off": 10072,
+  "jp": "第１章\n父様の死",
+  "en": "Episode 3 \nLoneliness ",
+  "ko": ""
+ },
+ {
+  "i": 92,
+  "off": 10148,
+  "jp": "第２章\n帝国軍学校",
+  "en": "Episode 4 \nFriends ",
+  "ko": ""
+ },
+ {
+  "i": 93,
+  "off": 10228,
+  "jp": "第３章\n孤独",
+  "en": "Episode 5\nVillage of the Seekers",
+  "ko": ""
+ },
+ {
+  "i": 94,
+  "off": 10300,
+  "jp": "第４章\n友達",
+  "en": "Episode 6 \nVengeance",
+  "ko": ""
+ },
+ {
+  "i": 95,
+  "off": 10372,
+  "jp": "第５章\nシーカーの里",
+  "en": "Episode 7 \nInescapable Fate",
+  "ko": ""
+ },
+ {
+  "i": 96,
+  "off": 10452,
+  "jp": "第６章\n仇",
+  "en": "Total scores. Pull either trigger to\nview the scores for each level.",
+  "ko": ""
+ },
+ {
+  "i": 97,
+  "off": 10524,
+  "jp": "第７章\n僕の生きる道",
+  "en": "Subscenario scores. Press the A button\nto see the scores for each level.",
+  "ko": ""
+ },
+ {
+  "i": 98,
+  "off": 10604,
+  "jp": "総合成績です。\n左/右トリガを引くと各面の成績が\n表示されます。",
+  "en": "Main Game (easy) scores. Press the A\nbutton to see the scores for each level.",
+  "ko": ""
+ },
+ {
+  "i": 99,
+  "off": 10728,
+  "jp": "サブシナリオの成績です。\nAボタンを押すと各面の成績の詳細が\n表示されます。",
+  "en": "Main Game (normal) scores. Press the A\nbutton to see the scores for each level.",
+  "ko": ""
+ },
+ {
+  "i": 100,
+  "off": 10864,
+  "jp": "メインゲーム（EASY）の成績です。\nAボタンを押すと各面の成績の詳細が\n表示されます。",
+  "en": "Main Game (hard) scores. Press the A\nbutton to see the scores for each level.",
+  "ko": ""
+ },
+ {
+  "i": 101,
+  "off": 11008,
+  "jp": "メインゲーム（NORMAL）の成績です。\nAボタンを押すと各面の成績の詳細が\n表示されます。",
+  "en": "Episode 1 scores. Press the B button to\nreturn to the previous screen.",
+  "ko": ""
+ },
+ {
+  "i": 102,
+  "off": 11152,
+  "jp": "メインゲーム（HARD）の成績です。\nAボタンを押すと各面の成績の詳細が\n表示されます。",
+  "en": "Episode 2 scores. Press the B button to\nreturn to the previous screen.",
+  "ko": ""
+ },
+ {
+  "i": 103,
+  "off": 11296,
+  "jp": "ＥＰＩＳＯＤＥ　１の詳細成績です。\nＢボタンを押すと一画面戻ります。",
+  "en": "Episode 3 scores. Press the B button to\nreturn to the previous screen.",
+  "ko": ""
+ },
+ {
+  "i": 104,
+  "off": 11424,
+  "jp": "ＥＰＩＳＯＤＥ　２の詳細成績です。\nＢボタンを押すと一画面戻ります。",
+  "en": "Episode 4 scores. Press the B button to\nreturn to the previous screen.",
+  "ko": ""
+ },
+ {
+  "i": 105,
+  "off": 11552,
+  "jp": "ＥＰＩＳＯＤＥ　３の詳細成績です。\nＢボタンを押すと一画面戻ります。",
+  "en": "Episode 5 scores. Press the B button to\nreturn to the previous screen.",
+  "ko": ""
+ },
+ {
+  "i": 106,
+  "off": 11680,
+  "jp": "ＥＰＩＳＯＤＥ　４の詳細成績です。\nＢボタンを押すと一画面戻ります。",
+  "en": "Episode 6 scores. Press the B button to\nreturn to the previous screen.",
+  "ko": ""
+ },
+ {
+  "i": 107,
+  "off": 11808,
+  "jp": "ＥＰＩＳＯＤＥ　５の詳細成績です。\nＢボタンを押すと一画面戻ります。",
+  "en": "Episode 7 scores. Press the B button to\nreturn to the previous screen.",
+  "ko": ""
+ },
+ {
+  "i": 108,
+  "off": 11936,
+  "jp": "ＥＰＩＳＯＤＥ　６の詳細成績です。\nＢボタンを押すと一画面戻ります。",
+  "en": "Episode 8 scores. Press the B button to\nreturn to the previous screen.",
+  "ko": ""
+ },
+ {
+  "i": 109,
+  "off": 12064,
+  "jp": "ＥＰＩＳＯＤＥ　７の詳細成績です。\nＢボタンを押すと一画面戻ります。",
+  "en": "Episode 9 scores. Press the B button to\nreturn to the previous screen.",
+  "ko": ""
+ },
+ {
+  "i": 110,
+  "off": 12192,
+  "jp": "ＥＰＩＳＯＤＥ　８の詳細成績です。\nＢボタンを押すと一画面戻ります。",
+  "en": "Episode 10 scores. Press the B button to\nreturn to the previous screen.",
+  "ko": ""
+ },
+ {
+  "i": 111,
+  "off": 12320,
+  "jp": "ＥＰＩＳＯＤＥ　９の詳細成績です。\nＢボタンを押すと一画面戻ります。",
+  "en": "Epeisodion Proto scores.\nPress the B button to return to\nthe previous screen.",
+  "ko": ""
+ },
+ {
+  "i": 112,
+  "off": 12448,
+  "jp": "ＥＰＩＳＯＤＥ　１０の詳細成績です。\nＢボタンを押すと一画面戻ります。",
+  "en": "Epeisodion Duoba scores.\nPress the B button to return to\nthe previous screen.",
+  "ko": ""
+ },
+ {
+  "i": 113,
+  "off": 12580,
+  "jp": "EPEISODION　ＰＲＯＴＯの詳細成績です。\nＢボタンを押すと一画面戻ります。",
+  "en": "Epeisodion Trine scores.\nPress the B button to return to\nthe previous screen.",
+  "ko": ""
+ },
+ {
+  "i": 114,
+  "off": 12712,
+  "jp": "EPEISODION　ＤＵＯＢＡの詳細成績です。\nＢボタンを押すと一画面戻ります。",
+  "en": "Epeisodion Quate scores.\nPress the B button to return to\nthe previous screen.",
+  "ko": ""
+ },
+ {
+  "i": 115,
+  "off": 12844,
+  "jp": "EPEISODION　ＴＲＩＮＥの詳細成績です。\nＢボタンを押すと一画面戻ります。",
+  "en": "Epeisodion Quini scores.\nPress the B button to return to\nthe previous screen.",
+  "ko": ""
+ },
+ {
+  "i": 116,
+  "off": 12976,
+  "jp": "EPEISODION　ＱＵＡＴＥの詳細成績です。\nＢボタンを押すと一画面戻ります。",
+  "en": "Epeisodion Sexi scores.\nPress the B button to return to\nthe previous screen.",
+  "ko": ""
+ },
+ {
+  "i": 117,
+  "off": 13108,
+  "jp": "EPEISODION　ＱＵＩＮＩの詳細成績です。\nＢボタンを押すと一画面戻ります。",
+  "en": "Epeisodion Septua scores.\nPress the B button to return to\nthe previous screen.",
+  "ko": ""
+ },
+ {
+  "i": 118,
+  "off": 13240,
+  "jp": "EPEISODION　ＳＥＸＩの詳細成績です。\nＢボタンを押すと一画面戻ります。",
+  "en": "Mission 1 scores. Press the B button to\nreturn to the previous screen.",
+  "ko": ""
+ },
+ {
+  "i": 119,
+  "off": 13372,
+  "jp": "EPEISODION　ＳＥＰＴＵＡの詳細成績です。\nＢボタンを押すと一画面戻ります。",
+  "en": "Mission 2 scores. Press the B button to\nreturn to the previous screen.",
+  "ko": ""
+ },
+ {
+  "i": 120,
+  "off": 13508,
+  "jp": "ＭＩＳＳＩＯＮ　１の詳細成績です。\nＢボタンを押すと一画面戻ります。",
+  "en": "Mission 3 scores. Press the B button to\nreturn to the previous screen.",
+  "ko": ""
+ },
+ {
+  "i": 121,
+  "off": 13636,
+  "jp": "ＭＩＳＳＩＯＮ　２の詳細成績です。\nＢボタンを押すと一画面戻ります。",
+  "en": "Mission 4 scores. Press the B button to\nreturn to the previous screen.",
+  "ko": ""
+ },
+ {
+  "i": 122,
+  "off": 13764,
+  "jp": "ＭＩＳＳＩＯＮ　３の詳細成績です。\nＢボタンを押すと一画面戻ります。",
+  "en": "Mission 5 scores. Press the B button to\nreturn to the previous screen.",
+  "ko": ""
+ },
+ {
+  "i": 123,
+  "off": 13892,
+  "jp": "ＭＩＳＳＩＯＮ　４の詳細成績です。\nＢボタンを押すと一画面戻ります。",
+  "en": "NOT USED",
+  "ko": ""
+ },
+ {
+  "i": 124,
+  "off": 14020,
+  "jp": "ＭＩＳＳＩＯＮ　５の詳細成績です。\nＢボタンを押すと一画面戻ります。",
+  "en": "",
+  "ko": ""
+ },
+ {
+  "i": 125,
+  "off": 14148,
+  "jp": "未使用",
+  "en": "",
+  "ko": ""
+ }
+]

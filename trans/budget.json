@@ -1,0 +1,258 @@
+{
+ "menudata\\TextData\\Text_MenuInst_JP.msg": {
+  "body": 6116,
+  "tail": 182,
+  "total": 6298,
+  "jp_chars": 3172,
+  "ko_max_chars": 3149,
+  "grow": 0
+ },
+ "menudata\\TextData\\Text_Movie_JP.msg": {
+  "body": 3135,
+  "tail": 218,
+  "total": 3353,
+  "jp_chars": 1580,
+  "ko_max_chars": 1676,
+  "grow": 0
+ },
+ "menudata\\TextData\\Text_OpeningDemo_JP.msg": {
+  "body": 1465,
+  "tail": 1367,
+  "total": 2832,
+  "jp_chars": 840,
+  "ko_max_chars": 1416,
+  "grow": 0
+ },
+ "menudata\\TextData\\Text_SubScenarioControl_JP.msg": {
+  "body": 1303,
+  "tail": 1034,
+  "total": 2337,
+  "jp_chars": 712,
+  "ko_max_chars": 1168,
+  "grow": 0
+ },
+ "menudata\\TextData\\Text_SubScenarioDemo_JP.msg": {
+  "body": 17982,
+  "tail": 430,
+  "total": 18412,
+  "jp_chars": 9454,
+  "ko_max_chars": 9206,
+  "grow": 0
+ },
+ "menudata\\TextData\\Text_comment_JP.msg": {
+  "body": 2611,
+  "tail": 1616,
+  "total": 4227,
+  "jp_chars": 1730,
+  "ko_max_chars": 2113,
+  "grow": 0
+ },
+ "menudata\\TextData\\text_pdb_db_creature_JP.msg": {
+  "body": 12402,
+  "tail": 526,
+  "total": 12928,
+  "jp_chars": 6498,
+  "ko_max_chars": 6464,
+  "grow": 0
+ },
+ "menudata\\TextData\\text_pdb_db_empire_JP.msg": {
+  "body": 9878,
+  "tail": 374,
+  "total": 12300,
+  "jp_chars": 5129,
+  "ko_max_chars": 5126,
+  "grow": 2048
+ },
+ "menudata\\TextData\\text_pdb_db_world_JP.msg": {
+  "body": 24880,
+  "tail": 650,
+  "total": 27578,
+  "jp_chars": 13049,
+  "ko_max_chars": 12765,
+  "grow": 2048
+ },
+ "messageevent\\MesData_Stage01_JP.msg": {
+  "body": 1097,
+  "tail": 920,
+  "total": 2017,
+  "jp_chars": 563,
+  "ko_max_chars": 1008,
+  "grow": 0
+ },
+ "messageevent\\MesData_Stage02_JP.msg": {
+  "body": 1099,
+  "tail": 1209,
+  "total": 2308,
+  "jp_chars": 580,
+  "ko_max_chars": 1154,
+  "grow": 0
+ },
+ "messageevent\\MesData_Stage03_JP.msg": {
+  "body": 2589,
+  "tail": 686,
+  "total": 3275,
+  "jp_chars": 1326,
+  "ko_max_chars": 1637,
+  "grow": 0
+ },
+ "messageevent\\MesData_Stage04_JP.msg": {
+  "body": 1188,
+  "tail": 500,
+  "total": 1688,
+  "jp_chars": 605,
+  "ko_max_chars": 844,
+  "grow": 0
+ },
+ "messageevent\\MesData_Stage05_JP.msg": {
+  "body": 254,
+  "tail": 1170,
+  "total": 1424,
+  "jp_chars": 133,
+  "ko_max_chars": 712,
+  "grow": 0
+ },
+ "messageevent\\MesData_Stage06_JP.msg": {
+  "body": 629,
+  "tail": 212,
+  "total": 841,
+  "jp_chars": 327,
+  "ko_max_chars": 420,
+  "grow": 0
+ },
+ "messageevent\\MesData_Stage07_JP.msg": {
+  "body": 2856,
+  "tail": 834,
+  "total": 3690,
+  "jp_chars": 1503,
+  "ko_max_chars": 1845,
+  "grow": 0
+ },
+ "messageevent\\MesData_Stage08_JP.msg": {
+  "body": 965,
+  "tail": 1505,
+  "total": 2470,
+  "jp_chars": 494,
+  "ko_max_chars": 1235,
+  "grow": 0
+ },
+ "messageevent\\MesData_Stage09_JP.msg": {
+  "body": 252,
+  "tail": 1365,
+  "total": 1617,
+  "jp_chars": 130,
+  "ko_max_chars": 808,
+  "grow": 0
+ },
+ "messageevent\\MesData_Stage10_JP.msg": {
+  "body": 191,
+  "tail": 1506,
+  "total": 1697,
+  "jp_chars": 99,
+  "ko_max_chars": 848,
+  "grow": 0
+ },
+ "messageevent\\MesData_Tutorial_JP.msg": {
+  "body": 6311,
+  "tail": 481,
+  "total": 6792,
+  "jp_chars": 3341,
+  "ko_max_chars": 3396,
+  "grow": 0
+ },
+ "messageevent\\MesData_ms1_JP.msg": {
+  "body": 224,
+  "tail": 1010,
+  "total": 1234,
+  "jp_chars": 112,
+  "ko_max_chars": 617,
+  "grow": 0
+ },
+ "messageevent\\MesData_ms2_JP.msg": {
+  "body": 108,
+  "tail": 1752,
+  "total": 1860,
+  "jp_chars": 54,
+  "ko_max_chars": 930,
+  "grow": 0
+ },
+ "messageevent\\MesData_ms3_JP.msg": {
+  "body": 28,
+  "tail": 1960,
+  "total": 1988,
+  "jp_chars": 14,
+  "ko_max_chars": 994,
+  "grow": 0
+ },
+ "messageevent\\MesData_ms4_JP.msg": {
+  "body": 111,
+  "tail": 1755,
+  "total": 1866,
+  "jp_chars": 57,
+  "ko_max_chars": 933,
+  "grow": 0
+ },
+ "messageevent\\MesData_ms5_JP.msg": {
+  "body": 108,
+  "tail": 1756,
+  "total": 1864,
+  "jp_chars": 54,
+  "ko_max_chars": 932,
+  "grow": 0
+ },
+ "messageevent\\MesData_sst1_JP.msg": {
+  "body": 654,
+  "tail": 436,
+  "total": 1090,
+  "jp_chars": 331,
+  "ko_max_chars": 545,
+  "grow": 0
+ },
+ "messageevent\\MesData_sst2_JP.msg": {
+  "body": 607,
+  "tail": 491,
+  "total": 1098,
+  "jp_chars": 310,
+  "ko_max_chars": 549,
+  "grow": 0
+ },
+ "messageevent\\MesData_sst3_JP.msg": {
+  "body": 597,
+  "tail": 623,
+  "total": 1220,
+  "jp_chars": 304,
+  "ko_max_chars": 610,
+  "grow": 0
+ },
+ "messageevent\\MesData_sst4_JP.msg": {
+  "body": 927,
+  "tail": 842,
+  "total": 1769,
+  "jp_chars": 468,
+  "ko_max_chars": 884,
+  "grow": 0
+ },
+ "messageevent\\MesData_sst5_JP.msg": {
+  "body": 264,
+  "tail": 1164,
+  "total": 1428,
+  "jp_chars": 133,
+  "ko_max_chars": 714,
+  "grow": 0
+ },
+ "messageevent\\MesData_sst6_JP.msg": {
+  "body": 452,
+  "tail": 759,
+  "total": 1211,
+  "jp_chars": 231,
+  "ko_max_chars": 605,
+  "grow": 0
+ },
+ "messageevent\\MesData_sst7_JP.msg": {
+  "body": 637,
+  "tail": 218,
+  "total": 855,
+  "jp_chars": 321,
+  "ko_max_chars": 427,
+  "grow": 0
+ }
+}

@@ -1,0 +1,744 @@
+[
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 162,
+  "budget": 14,
+  "jp": "攻性プログラム",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 163,
+  "budget": 23,
+  "jp": "アンチプログラムver2.00",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 164,
+  "budget": 23,
+  "jp": "アンチプログラムver2.00",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 165,
+  "budget": 23,
+  "jp": "アンチプログラムver2.00",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 166,
+  "budget": 14,
+  "jp": "攻性プログラム",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 167,
+  "budget": 23,
+  "jp": "アンチプログラムver2.60",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 168,
+  "budget": 23,
+  "jp": "アンチプログラムver2.60",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 169,
+  "budget": 23,
+  "jp": "アンチプログラムver2.60",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 170,
+  "budget": 14,
+  "jp": "攻性プログラム",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 171,
+  "budget": 19,
+  "jp": "ディオドピュールLv1",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 172,
+  "budget": 19,
+  "jp": "ディオドピュールLv1",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 173,
+  "budget": 19,
+  "jp": "ディオドピュールLv1",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 174,
+  "budget": 14,
+  "jp": "攻性プログラム",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 175,
+  "budget": 19,
+  "jp": "ディオドピュールLv2",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 176,
+  "budget": 19,
+  "jp": "ディオドピュールLv2",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 177,
+  "budget": 19,
+  "jp": "ディオドピュールLv2",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 178,
+  "budget": 14,
+  "jp": "攻性プログラム",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 179,
+  "budget": 18,
+  "jp": "キャリアシーランス",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 180,
+  "budget": 18,
+  "jp": "キャリアシーランス",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 181,
+  "budget": 18,
+  "jp": "キャリアシーランス",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 182,
+  "budget": 14,
+  "jp": "攻性プログラム",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 183,
+  "budget": 20,
+  "jp": "意識融合体オヴニール",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 184,
+  "budget": 20,
+  "jp": "意識融合体オヴニール",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 185,
+  "budget": 20,
+  "jp": "意識融合体オヴニール",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 186,
+  "budget": 14,
+  "jp": "攻性プログラム",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 187,
+  "budget": 201,
+  "jp": "$c0＜シャム＞\n　河川に棲息する飛行型攻性生物。\n攻性生物特有の強力な外殻と、\n死を恐れない突撃が脅威。\n　一匹一匹には思考能力がなく、\n集団として連係したとき初めて自律した\n意思を持つのではと見られている。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 188,
+  "budget": 175,
+  "jp": "$c0＜プトゥ＞\n　密生した植物の葉に擬態して獲物を\n待つ攻性生物。\n　ゴレンガと共生関係にあるらしく、\n人間には感知できぬ手段で外敵や\n侵入者に関する情報を共有している\nふしがある。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 189,
+  "budget": 197,
+  "jp": "$c0＜ゴレンガ＞\n　光学擬態で岩石や空などの背景に\n溶け込む能力を持つ植生物。\n　神経系の毒を放って侵入した生物を\nマヒさせ、プトゥが解体消化した死体の\n養分を地面から吸収するという\n連携捕食をおこなう。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 190,
+  "budget": 218,
+  "jp": "$c0＜ヤーヴァ＞\n　河川・湖沼地帯などの水源周辺に\n棲息する攻性生物。\n　数十年より前の記録に残っていない\nところを見ると、奇形種がそのまま支配種\nとなったらしい。\n　旅慣れた者は、この生物の姿から近くに\n水があると判断する。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 191,
+  "budget": 248,
+  "jp": "$c0＜キャリアヤーヴァ＞\n　微細菌に汚染され、変異中の個体。\n攻性生物たちは、他種と接触することで\nも変異を開始する。これは単に他種という\n環境の変化に対応しているだけではなく、\n他種の遺伝基構成になんらかの\n直接影響を受けているのではないかと\nいわれる。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 192,
+  "budget": 227,
+  "jp": "$c0＜ムーイムーイ＞\n　巨大なヒレで空中を浮遊する変異種。\nかつては旗艦的攻性生物として、周囲の\n攻性生物を遠隔制御していた痕跡が\nみられるが、現在は日陰と保護を求めて\n小飛行生物が集うのみとなっている。\n６本の捕尾で捕食をおこなう。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 193,
+  "budget": 214,
+  "jp": "$c0＜ヨンドムーイ＞\n　森林奥地に棲んでいるムーイムーイの\n亜種。\n　多くの水流が養分を運んでくる場所で\n育ったためか、並外れて巨大な身体を\n持っている。ぶ厚い装甲皮に覆われて\nいるのに安心してか、さほど好戦的では\nない。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 194,
+  "budget": 179,
+  "jp": "$c0＜ロキュプル＞\n　海や河川に棲息している生物。水中の\n微生命を捕食しているが、水中での\n呼吸機能がないので、一定周期で\n水面に飛び跳ねる。\n　骨と皮膜でできた羽の模様は大変\n美しい。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 195,
+  "budget": 224,
+  "jp": "$c0＜バトゥン＞\n　広大な草原や砂漠に棲む二足歩行型\n攻性生物。\n　クーリアの亜種といわれているが、\n気性が荒いため、家畜化されなかった。\n　帝国軍将校の中には、空中から狩り\n倒したバトゥンの一部を船室や自宅に\n飾る者もいるという。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 196,
+  "budget": 298,
+  "jp": "$c0＜ヨンドワーム＞\n　汚染された河川や湿地帯に好んで\n棲息する水陸棲のワーム。\n　水に含まれる水銀を消化吸収する器官\nを持ち、一説にはこのワームの棲んだ後の\n水は人にも無害な真水になるという。\n　ワーム種の攻性生物は砂漠や森林\nなどに多く生息しているが、水陸棲の\nワームはリ・ヴィス地方でのみ\n観測される。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 197,
+  "budget": 240,
+  "jp": "$c0＜ブブク＞\n攻性生物の身体についた微細菌を食う\nことを生業とするムシのいい虫のコロニー。\nこの虫に付着した微細菌がほかの動植物\nに運ばれることで、生態系全体の変異化\nをさらに促進しているらしい。\n生物学者にとっては、またとない研究材料\nである。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 198,
+  "budget": 295,
+  "jp": "$c0＜イクラクラブ＞\n　河川奥に浮遊する巨大な攻性変異\n植物。\n　全身から甘い香りを放ち、それに集まっ\nてきた生物を補虫液で捕らえて食根に\n絡めとる。\n　腐敗した時の強烈な臭さは有名で、\n２０００リーン上空で観測していた\n帝国アカデミー船の乗組員ほぼ全員が\n人事不省におちいったという逸話が\n残されている。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 199,
+  "budget": 309,
+  "jp": "$c0＜ワームライダー＞\n　「攻性乗り」「虫追い」などとも呼ばれる\n卑賊を乗せた攻性生物。\n　本来、人間に対し無限の戦闘本能を\n持つ攻性生物がなぜ人間と共棲できて\nいるのかは現在のところまったく不明。\n　人間がワームを操っているのではなく、\nワームが人間を一種の薬物で麻痺させて\n使役しているのではないかという説もある。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 200,
+  "budget": 314,
+  "jp": "$c0＜ディーディ＞\n　氷河地帯に生息する歩行型の攻性\n生物変異種。攻性としてはめずらしく、\n長く伸びた剛毛を生やしている。\n　２本の足を動かすことで呼吸器系を\n駆動している。このため、睡眠をとりながら\nでも、つねに歩き続けている。\n　外敵には生体弾で抗戦するが、真に\n脅威なのはその体重をかけた二本足に\nよる踏みつけである。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 201,
+  "budget": 174,
+  "jp": "$c0＜ニディーディ＞\nディーディのたてがみの生えていない種。\n当初はディーディのメス種かと思われて\nいたが、臓器の配置などから\nかなりの昔に分化した同系別種であると\n見られている。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 202,
+  "budget": 133,
+  "jp": "$c0＜マディーディ＞\n　ディーディの変異個体。\n　氷河地域では微細菌は休眠に入るの\nで、これはなんらかの環境変化による\n変異と考えられる。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 203,
+  "budget": 190,
+  "jp": "$c0＜ヤーヴァ・ラウム＞\n　河川で見られるヤーヴァの亜種。\n　雪原での活動に適応して、体色が\n変化している。変異種となるのは、\n純血種の中でも、このような適応力の\n特に高い種だと言っていいだろう。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 204,
+  "budget": 199,
+  "jp": "$c0＜ウリマサーン＞\n　敵が近づくと出現し攻撃してくる。\n自分に都合が悪くなると雪原に姿を隠す\n狡猾な生き物。\n　だが、この行為は補食活動というよりは\n純血種であったころの戦闘本能の名残\nなのかもしれない。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 205,
+  "budget": 265,
+  "jp": "$c0＜エキメタル＞\n　帝国南部メッカニア地方に生息する\nゴライアスと呼ばれる種の亜種。\n　普段は雪の中で休眠しているが、\n侵入者を感知すると雪中を高速で\n移動して充分に接近すると飛びかかる。\n　捕食する生物が無くとも、微弱な\n太陽光を養分として雪中で数十年でも\n生き続ける。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 206,
+  "budget": 166,
+  "jp": "$c0＜ウォントムーイ＞\n　空中を浮遊する飛行型の攻性生物。\n温暖地方の変異種が北上していくうち\nに耐寒種になったと思われる。\n　ディーディの排泄物を摂取し、栄養源\nとする。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 207,
+  "budget": 223,
+  "jp": "$c0＜プッサ・ブーボ＞\n　変異種の中でも巨大な部類に入る\n生命体。\n　侵入者を感知すると跳ね上がり、\nその巨体で侵入者を押しつぶす。\n　氷河地帯を旅する者が\n「山が動くのを見た」\nと言う場合、この生物のことを指すことが\n大半である。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 208,
+  "budget": 377,
+  "jp": "$c0＜エルス・エノラ＞\n　変異種の女王と呼ばれるに相応しい\n偉容を持つ生命体。\n　氷河地帯上空の乱気流に棲み、\nまれに繁殖のために地表近くに下りて\nくるという。巨大なものの年齢は数千年\nにも達する。\n　全身をおおう体毛は雲母に似た物質\nからできており、温度変化や他種族の\n攻撃から身を守っていると思われる。\n　また、乳腺から打ち出される結晶化した\n体液は、戦艦の鉄甲すらたやすく貫き\n通す。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 209,
+  "budget": 195,
+  "jp": "$c0＜タムチチ＞\n　辺境に棲む飛行型の生物。\n　攻性生物に分類されているが比較的\nおとなしく、人間がこれに襲われたという\n報告はこれまでにない。\n　辺境の蛮族にはこれを家畜としている\nものもいるという。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 210,
+  "budget": 263,
+  "jp": "$c0＜ピーラ＞\n　空中を浮遊する生命体。\n　左右のヒレをなびかせて上空の風に\n乗り、えさとなる空中の鉱生物を求めて\n広大な大陸中を移動する。\n　鉱生物は人間の肺に深刻な害を\n与えるので、この生物の飛んでいく方向\nと逆に行くと長生きできると辺境の者たち\nには信じられている。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 211,
+  "budget": 185,
+  "jp": "$c0＜セーバ＞\n　移動速度に応じて外殻を開閉する\n変形機構を備えた純血種攻性生物。\n　侵入者に対し迅速に到達して迎撃\nする、高機動性と火力の両方を兼ね\n備えた戦闘航空機型の攻性生物と\nいえる。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 212,
+  "budget": 170,
+  "jp": "$c0＜クル＞\n　一見、無害な様子で浮かんでいるが、\n敵性物体が接近すると雷撃を発する\n攻性型ユニット。\n　対象と衝突し行動不能とする浮遊機雷\nの役目を期待されていたのだろうか。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 213,
+  "budget": 250,
+  "jp": "$c0＜ラムジャナキ＞\n　敵性物体に対し、外殻を展開して盾と\nする攻性生物。\n　盾は周辺空間の偏光率をいちじるしく\n歪め、その方向からの光学兵器攻撃を\nほぼ無力化する特性を持つ。\n　他の純血種ユニットと連係して、まさに\n「盾」となる役割を負っていたと見られる。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 214,
+  "budget": 216,
+  "jp": "$c0＜チュムチュミ＞\n　触手を後に引きながら低速で空中を\n浮遊する攻性生物。\n　純血種としては反応が緩慢だが、\n攻撃を感知すると強力な高圧粒子砲\nで反撃し、再度の攻撃を許さない。\n　拠点確保用の自動砲台だったと\n考えられる。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 215,
+  "budget": 301,
+  "jp": "$c0＜キャリアセーバ＞\n　変異誘発遺伝基に汚染された\n純血種。\n　純血種の場合、変異を誘発する\n遺伝基を持った個体がまず発生し、\nそれに刺激されて他の個体が変異を\n開始する。\n　変異個体が同属種にずたずたに\n引き裂かれていることがあるが、これは\n淘汰ではなく、変異誘発遺伝基を\n同属で広くわけあっているのである。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 216,
+  "budget": 345,
+  "jp": "$c0＜カチャピ＞\n　純血種攻性ユニットの中でも\nずば抜けた戦闘能力を持つ個体。\n　活動を停止した同種が何体か発見\nされており、かつて戦場に多数投入\nされた破壊兵器の一種と見られる。\n　四肢による疾走、飛行形態での砲撃、\n二足歩行による格闘と状況に応じ\n柔軟に戦闘様式を使い分ける。\n　攻性化部隊により捕獲に成功したとの\n情報もあり、研究の成果が期待される。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 217,
+  "budget": 195,
+  "jp": "$c0＜チューク＞\n　旧世紀遺跡内で存在が確認されて\nいる自動砲台。壁面や床に影のように\nとけ込んで移動、浮上して侵入者を\n攻撃する。これが個体固有のものか、\n遺跡の持つ機能なのかは現在判明して\nいない。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 218,
+  "budget": 139,
+  "jp": "$c0＜デグ＞\n　遺跡内を飛行する防御用の飛行体。\n　高速で侵入者に近寄り、攻撃ののち\n一撃離脱する。爆発物を投下する型と\n光学弾を放つ型がいる。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 219,
+  "budget": 253,
+  "jp": "$c0＜ガトワル＆コトワル＞\n　旧世紀の遺跡から侵入者を排除する\n防衛機構。純血種の一種と思われる。\n常に３体で行動、侵入者を包囲し\n攻撃を加える。\n　周期的に放電をおこなうが、このとき\n蓄電担当の青い種（コトワル）を\n攻撃すると防衛本能から放電を繰り\n返される。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 220,
+  "budget": 195,
+  "jp": "$c0＜ナヤク＞\n　中型の純血種攻性生物。\n　後部に光輪状の光学兵器投射器が\nあり、敵に側面を向けて攻撃する特性が\nある。\n　角らしきものを持っているので、一部の\n遺跡あらしに「イッカク」と呼ばれている。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 221,
+  "budget": 290,
+  "jp": "$c0＜キャリアナヤク＞\n　ナヤクの変異個体。\n厳密にいえば、純血種も個体それぞれに\n微妙な変異を遂げている。\n　しかし、種全体を誘導するような変異\n個体が出ないかぎり、全体としての変異\nは起こらない。\n　逆を言えば、たった一体の変異個体、\nひとつの例外から全体の流れは\n変わっていくということである。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 222,
+  "budget": 302,
+  "jp": "$c0＜フッカーヒ・アティシュ＞\n　遺跡通路の一部でありつつ、みずから\n侵入者を識別排除する攻性建築物。\n　発射される爆雷は一定距離で爆発し\n周囲へ無差別に大ダメージをあたえる。\n　捕食器のような中央の口には回転式の\n歯がついており、これで違法侵入者を\n粉砕する。\n　また、後方防御用の遠隔光学砲台を\n備えている。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 223,
+  "budget": 288,
+  "jp": "$c0＜クルベキ＞\n　雷撃波を双方に放ち続けている一対の\nユニット。トラップや防衛兵器の一種で\nあり、破壊はきわめて困難。\n　雷撃は直撃時のダメージに加え、\n生物の神経情報を瞬時にして停止させ、\n生きながら死に至らしめるという恐ろしい\n効果を持つ。\n　独特の放電音を耳にしたら、近づくべき\nではない。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 224,
+  "budget": 140,
+  "jp": "$c0＜アンチプログラムver1.00＞\n　世界回路を回遊している迎撃\nプログラムの一種。\n　空間に突如出現、一定時間後に\n抗体ルーチンを射出して消える。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 225,
+  "budget": 188,
+  "jp": "$c0＜アンチプログラムver1.50＞\n　世界回路を回遊している迎撃\nプログラムの一種。\n　空間に突如出現、一定時間後に\n抗体ルーチンを射出して消える。\n　みずからプログラム的に変異した\n上位種らしい。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 226,
+  "budget": 160,
+  "jp": "$c0＜意識融合体シーランス＞\n　世界回路を回遊している迎撃\nプログラムの一種。\n　その形状は、シェルクーフ事件の際\n目撃された攻性生物「シーランス」に\n酷似している。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 227,
+  "budget": 169,
+  "jp": "$c0＜アンチプログラムver2.00＞\n　世界回路を回遊している迎撃\nプログラムの一種。\n　出現ののち、回避不能な抗体ルーチン\nを射出していく。\n　下位種を周囲に配している事が多い。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 228,
+  "budget": 163,
+  "jp": "$c0＜アンチプログラムver2.60＞\n　世界回路を回遊している迎撃\nプログラムの一種。\n　出現ののち、回避不能な抗体ルーチン\nを射出していく。\n　先の迎撃プログラムの上位種。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 229,
+  "budget": 154,
+  "jp": "$c0＜ディオドピュールLv1＞\n　世界回路中で、侵入者の進行を\n止めつつ対象を破壊する大型迎撃\nプログラム。攻撃を無効化するミラージュ\n発生ルーチンを持っている。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 230,
+  "budget": 200,
+  "jp": "$c0＜ディオドピュールLv2＞\n　世界回路中で、侵入者の進行を\n止めつつ対象を破壊する大型迎撃\nプログラム。攻撃を無効化するミラージュ\n発生ルーチンを持っている。\n　同型種ディオドピュールLv１の上位種\nである。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 231,
+  "budget": 273,
+  "jp": "$c0＜キャリアシーランス＞\n　世界回路を回遊している迎撃\nプログラムの一種。攻性生物\n「シーランス」の亜種と思われる。\n　セストレンはつねに地上世界を解析し、\nその膨大な情報を内部に取り込んで\nいる。あるいは、地上世界自体、\nセストレンを満たすための一種の実験場\nなのかもしれない。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 232,
+  "budget": 170,
+  "jp": "$c0＜意識融合体オヴニール＞\n　世界回路に生息している生物型\n情報体。\n　ワームによく似た構造を持っており、\n近辺の自律プログラムを捕食して\nその情報を吸収していると思われる。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 233,
+  "budget": 9,
+  "jp": "$c0変異種",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 234,
+  "budget": 6,
+  "jp": "純血種",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_creature_JP.msg",
+  "idx": 235,
+  "budget": 6,
+  "jp": "その他",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_empire_JP.msg",
+  "idx": 0,
+  "budget": 14,
+  "jp": "戦闘空艇ブート",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_empire_JP.msg",
+  "idx": 1,
+  "budget": 14,
+  "jp": "戦闘空艇ブート",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_empire_JP.msg",
+  "idx": 2,
+  "budget": 14,
+  "jp": "戦闘空艇ブート",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_empire_JP.msg",
+  "idx": 3,
+  "budget": 6,
+  "jp": "帝国軍",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_empire_JP.msg",
+  "idx": 4,
+  "budget": 12,
+  "jp": "駆逐砲車ダラ",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_empire_JP.msg",
+  "idx": 5,
+  "budget": 3,
+  "jp": "h内",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_empire_JP.msg",
+  "idx": 6,
+  "budget": 12,
+  "jp": "駆逐砲車ダラ",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_empire_JP.msg",
+  "idx": 7,
+  "budget": 12,
+  "jp": "駆逐砲車ダラ",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_empire_JP.msg",
+  "idx": 8,
+  "budget": 6,
+  "jp": "帝国軍",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_empire_JP.msg",
+  "idx": 9,
+  "budget": 8,
+  "jp": "ブート改",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_empire_JP.msg",
+  "idx": 10,
+  "budget": 8,
+  "jp": "ブート改",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_empire_JP.msg",
+  "idx": 11,
+  "budget": 8,
+  "jp": "ブート改",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_empire_JP.msg",
+  "idx": 12,
+  "budget": 6,
+  "jp": "帝国軍",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_empire_JP.msg",
+  "idx": 13,
+  "budget": 12,
+  "jp": "ドラゴンメア",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_empire_JP.msg",
+  "idx": 14,
+  "budget": 12,
+  "jp": "ドラゴンメア",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_empire_JP.msg",
+  "idx": 15,
+  "budget": 12,
+  "jp": "ドラゴンメア",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_empire_JP.msg",
+  "idx": 16,
+  "budget": 6,
+  "jp": "帝国軍",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_empire_JP.msg",
+  "idx": 17,
+  "budget": 18,
+  "jp": "強襲空母ヴァーマナ",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_empire_JP.msg",
+  "idx": 18,
+  "budget": 18,
+  "jp": "強襲空母ヴァーマナ",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_empire_JP.msg",
+  "idx": 19,
+  "budget": 18,
+  "jp": "強襲空母ヴァーマナ",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_empire_JP.msg",
+  "idx": 20,
+  "budget": 6,
+  "jp": "帝国軍",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_empire_JP.msg",
+  "idx": 21,
+  "budget": 8,
+  "jp": "誘導爆雷",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_empire_JP.msg",
+  "idx": 22,
+  "budget": 8,
+  "jp": "誘導爆雷",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_empire_JP.msg",
+  "idx": 23,
+  "budget": 8,
+  "jp": "誘導爆雷",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_empire_JP.msg",
+  "idx": 24,
+  "budget": 6,
+  "jp": "帝国軍",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_empire_JP.msg",
+  "idx": 25,
+  "budget": 6,
+  "jp": "帝国兵",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_empire_JP.msg",
+  "idx": 26,
+  "budget": 6,
+  "jp": "帝国兵",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_empire_JP.msg",
+  "idx": 27,
+  "budget": 6,
+  "jp": "帝国兵",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_empire_JP.msg",
+  "idx": 28,
+  "budget": 6,
+  "jp": "帝国軍",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_empire_JP.msg",
+  "idx": 29,
+  "budget": 12,
+  "jp": "戦闘機カーマ",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_empire_JP.msg",
+  "idx": 30,
+  "budget": 12,
+  "jp": "戦闘機カーマ",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_empire_JP.msg",
+  "idx": 31,
+  "budget": 12,
+  "jp": "戦闘機カーマ",
+  "ko": null
+ }
+]

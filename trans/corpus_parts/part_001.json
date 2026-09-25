@@ -1,0 +1,1171 @@
+[
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 0,
+  "budget": 36,
+  "jp": "オルタとドラゴンの物語を体験します。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 1,
+  "budget": 90,
+  "jp": "パンツァードラグーンの世界を\n色々な角度から楽しめます。\n条件を満たすことで増えていきます。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 2,
+  "budget": 34,
+  "jp": "操作方法をわかりやすく説明します。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 3,
+  "budget": 18,
+  "jp": "設定を変更します。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 4,
+  "budget": 28,
+  "jp": "最初からゲームを開始します。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 5,
+  "budget": 43,
+  "jp": "前回、セーブしたエピソードから開始します。\n",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 6,
+  "budget": 55,
+  "jp": "簡単なゲームモードです。\nＮＯＲＭＡＬが難しすぎた方へ。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 7,
+  "budget": 71,
+  "jp": "通常のゲームモードです。\n初めはここからプレイすることをおすすめします。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 8,
+  "budget": 67,
+  "jp": "上級者用のゲームモードです。\nすでにＮＯＲＭＡＬをクリアされた方へ。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 9,
+  "budget": 57,
+  "jp": "ＢＧＭの音量を設定します。\n左右を押して調整してください。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 10,
+  "budget": 57,
+  "jp": "効果音の音量を設定します。\n左右を押して調整してください。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 11,
+  "budget": 57,
+  "jp": "セリフの音量を設定します。\n左右を押して調整してください。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 12,
+  "budget": 65,
+  "jp": "画面に表示する情報量を設定します。\n左右を押して調整してください。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 13,
+  "budget": 85,
+  "jp": "画面の明るさとコントラストを調整します。\nＡボタンかＳＴＡＲＴボタンを押してください。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 14,
+  "budget": 79,
+  "jp": "ゲーム中のボタン設定を変更します。\nＡボタンかＳＴＡＲＴボタンを押してください。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 15,
+  "budget": 65,
+  "jp": "ＡボタンかＳＴＡＲＴボタンを押すと\nオプションモードを終了します。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 16,
+  "budget": 91,
+  "jp": "加減速をわかりやすくした配置。\n左スティックでカーソル操作、ＸＹＡＢで\n射撃などをおこなう。,",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 17,
+  "budget": 61,
+  "jp": "ガンヴァルキリー風の配置。\n左右スティックを同時に使い分ける。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 18,
+  "budget": 55,
+  "jp": "上昇下降の操作設定です。\n左右を押して調整してください。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 19,
+  "budget": 47,
+  "jp": "振動の設定です。\n左右を押して調整してください。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 20,
+  "budget": 79,
+  "jp": "ゲーム中のボタン設定を変更します。\nＡボタンかＳＴＡＲＴボタンを押してください。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 21,
+  "budget": 63,
+  "jp": "ＡボタンかＳＴＡＲＴボタンを押すと\nオプションモードに戻ります。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 22,
+  "budget": 22,
+  "jp": "バルカン／レーザー発射",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 23,
+  "budget": 14,
+  "jp": "ドラゴンの変形",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 24,
+  "budget": 4,
+  "jp": "加速",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 25,
+  "budget": 4,
+  "jp": "減速",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 26,
+  "budget": 12,
+  "jp": "体当たり攻撃",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 27,
+  "budget": 8,
+  "jp": "バーサク",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 28,
+  "budget": 18,
+  "jp": "左方向への視界変更",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 29,
+  "budget": 18,
+  "jp": "右方向への視界変更",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 30,
+  "budget": 28,
+  "jp": "ボタン設定を初期設定に戻す。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 31,
+  "budget": 16,
+  "jp": "一画面戻ります。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 32,
+  "budget": 43,
+  "jp": "いままでのプレイ記録を見ることが\nできます。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 33,
+  "budget": 39,
+  "jp": "知られなかった、別の戦いを\n体験します。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 34,
+  "budget": 61,
+  "jp": "オルタとドラゴンの戦いを様々な設定で\nシミュレーションします。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 35,
+  "budget": 26,
+  "jp": "世界の記録を閲覧できます。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 36,
+  "budget": 49,
+  "jp": "ドラゴンと乗り手たちが残した\n様々な記録情報です。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 37,
+  "budget": 28,
+  "jp": "パンドラボックスを閉じます。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 38,
+  "budget": 34,
+  "jp": "連続した戦いの記録を体験できます。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 39,
+  "budget": 45,
+  "jp": "単独の戦いの記録を体験できます。\n難易度：簡単",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 40,
+  "budget": 45,
+  "jp": "単独の戦いの記録を体験できます。\n難易度：普通",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 41,
+  "budget": 47,
+  "jp": "単独の戦いの記録を体験できます。\n難易度：難しい",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 42,
+  "budget": 24,
+  "jp": "一つ前の画面に戻ります。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 43,
+  "budget": 53,
+  "jp": "生物・兵器・世界について辞典形式に\nまとめたものです。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 44,
+  "budget": 53,
+  "jp": "生物・兵器・世界について辞典形式に\nまとめたものです。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 45,
+  "budget": 63,
+  "jp": "オルタとドラゴンの戦いの中での\nできごとを選択して閲覧できます。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 46,
+  "budget": 24,
+  "jp": "一つ前の画面に戻ります。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 47,
+  "budget": 51,
+  "jp": "過去に出現した、青いドラゴンの戦いを\n再体験します。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 48,
+  "budget": 20,
+  "jp": "様々な画像記録です。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 49,
+  "budget": 20,
+  "jp": "様々な映像記録です。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 50,
+  "budget": 24,
+  "jp": "一つ前の画面に戻ります。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 51,
+  "budget": 35,
+  "jp": "帝国少年編\n少年イーヴァの物語です。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 52,
+  "budget": 24,
+  "jp": "一つ前の画面に戻ります。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 53,
+  "budget": 51,
+  "jp": "ＭＩＳＳＩＯＮ　１\nｓｈｏｔ　ｉｎ　ｔｈｅ　ｄａｒｋ",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 54,
+  "budget": 33,
+  "jp": "ＭＩＳＳＩＯＮ　２\nモボ大いに怒る",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 55,
+  "budget": 37,
+  "jp": "ＭＩＳＳＩＯＮ　３\nエネミーラッシュ！",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 56,
+  "budget": 49,
+  "jp": "ＭＩＳＳＩＯＮ　４\nＱｕｉｃｋ　Ｓｈｏｏｔｅｒ　１",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 57,
+  "budget": 49,
+  "jp": "ＭＩＳＳＩＯＮ　５\nＱｕｉｃｋ　Ｓｈｏｏｔｅｒ　２",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 58,
+  "budget": 51,
+  "jp": "ＭＩＳＳＩＯＮ　６\n単独の戦いの記録を体験できます。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 59,
+  "budget": 24,
+  "jp": "一つ前の画面に戻ります。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 60,
+  "budget": 14,
+  "jp": "生物図鑑です。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 61,
+  "budget": 20,
+  "jp": "帝国の兵器図鑑です。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 62,
+  "budget": 14,
+  "jp": "世界図鑑です。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 63,
+  "budget": 24,
+  "jp": "一つ前の画面に戻ります。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 64,
+  "budget": 4,
+  "jp": "DOC1",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 65,
+  "budget": 4,
+  "jp": "DOC2",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 66,
+  "budget": 4,
+  "jp": "DOC3",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 67,
+  "budget": 24,
+  "jp": "一つ前の画面に戻ります。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 68,
+  "budget": 32,
+  "jp": "開始するエピソードを設定します。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 69,
+  "budget": 20,
+  "jp": "難易度を設定します。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 70,
+  "budget": 34,
+  "jp": "操作するキャラクターを選択します。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 71,
+  "budget": 24,
+  "jp": "ＬＩＦＥ量を設定します。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 72,
+  "budget": 26,
+  "jp": "ショット性能を設定します。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 73,
+  "budget": 26,
+  "jp": "レーザー性能を設定します。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 74,
+  "budget": 32,
+  "jp": "加減速ゲージについて設定します。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 75,
+  "budget": 96,
+  "jp": "バーサクについて設定します。\n「ＤＲＡＧＯＮ」の種類によっては\nバーサクができないものがあります。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 76,
+  "budget": 126,
+  "jp": "ＢＡＳＥ　ＷＩＮＧのレベルを設定します。\n「ＤＲＡＧＯＮ」がＤＥＦＡＵＬＴ　ＦＯＲＭＳ\n以外の場合は、この設定は反映されません。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 77,
+  "budget": 123,
+  "jp": "HEAVY　ＷＩＮＧのレベルを設定します。\n「ＤＲＡＧＯＮ」がＤＥＦＡＵＬＴ　ＦＯＲＭＳ\n以外の場合は、この設定は反映されません。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 78,
+  "budget": 123,
+  "jp": "GLIDE　ＷＩＮＧのレベルを設定します。\n「ＤＲＡＧＯＮ」がＤＥＦＡＵＬＴ　ＦＯＲＭＳ\n以外の場合は、この設定は反映されません。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 79,
+  "budget": 92,
+  "jp": "ドラゴンの乗り手を設定します。\n「ＤＲＡＧＯＮ」の種類によっては、\nこの設定は反映されません。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 80,
+  "budget": 120,
+  "jp": "エピソードの開始エリアを設定します。\nなお\"BOSS\"に設定した場合、EPISODE6には\nボスが登場しないので、自動的に次に進みます。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 81,
+  "budget": 26,
+  "jp": "ローリングの設定をします。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 82,
+  "budget": 28,
+  "jp": "照準の移動速度を設定します。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 83,
+  "budget": 30,
+  "jp": "ファットモードの設定をします。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 84,
+  "budget": 28,
+  "jp": "ミラーモードの設定をします。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 85,
+  "budget": 43,
+  "jp": "エピソード終了時のリプレイの\n設定をします。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 86,
+  "budget": 92,
+  "jp": "オルタの服装の設定をします。\n「ＲＩＤＥＲ」がオルタ以外の場合は、\nこの設定は反映されません。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 87,
+  "budget": 57,
+  "jp": "画面の明るさを調整します。\n左右を押して調整してください。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 88,
+  "budget": 63,
+  "jp": "画面のコントラストを調整します。\n左右を押して調整してください。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 89,
+  "budget": 83,
+  "jp": "明るさ、コントラストを初期設定にもどします。\nAボタンかSTARTボタンを押してください。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 90,
+  "budget": 63,
+  "jp": "ＡボタンかＳＴＡＲＴボタンを押すと\nオプションモードに戻ります。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 91,
+  "budget": 22,
+  "jp": "基本操作を説明します。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 92,
+  "budget": 26,
+  "jp": "加減速について説明します。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 93,
+  "budget": 34,
+  "jp": "ドラゴンの変形について説明します。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 94,
+  "budget": 15,
+  "jp": "第１章\n父様の死",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 95,
+  "budget": 17,
+  "jp": "第２章\n帝国軍学校",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 96,
+  "budget": 11,
+  "jp": "第３章\n孤独",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 97,
+  "budget": 11,
+  "jp": "第４章\n友達",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 98,
+  "budget": 19,
+  "jp": "第５章\nシーカーの里",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 99,
+  "budget": 9,
+  "jp": "第６章\n仇",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 100,
+  "budget": 19,
+  "jp": "第７章\n僕の生きる道",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 101,
+  "budget": 61,
+  "jp": "総合成績です。\n左/右トリガを引くと各面の成績が\n表示されます。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 102,
+  "budget": 73,
+  "jp": "サブシナリオの成績です。\nAボタンを押すと各面の成績の詳細が\n表示されます。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 103,
+  "budget": 81,
+  "jp": "メインゲーム（EASY）の成績です。\nAボタンを押すと各面の成績の詳細が\n表示されます。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 104,
+  "budget": 83,
+  "jp": "メインゲーム（NORMAL）の成績です。\nAボタンを押すと各面の成績の詳細が\n表示されます。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 105,
+  "budget": 81,
+  "jp": "メインゲーム（HARD）の成績です。\nAボタンを押すと各面の成績の詳細が\n表示されます。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 106,
+  "budget": 67,
+  "jp": "ＥＰＩＳＯＤＥ　１の詳細成績です。\nＢボタンを押すと一画面戻ります。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 107,
+  "budget": 67,
+  "jp": "ＥＰＩＳＯＤＥ　２の詳細成績です。\nＢボタンを押すと一画面戻ります。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 108,
+  "budget": 67,
+  "jp": "ＥＰＩＳＯＤＥ　３の詳細成績です。\nＢボタンを押すと一画面戻ります。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 109,
+  "budget": 67,
+  "jp": "ＥＰＩＳＯＤＥ　４の詳細成績です。\nＢボタンを押すと一画面戻ります。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 110,
+  "budget": 67,
+  "jp": "ＥＰＩＳＯＤＥ　５の詳細成績です。\nＢボタンを押すと一画面戻ります。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 111,
+  "budget": 67,
+  "jp": "ＥＰＩＳＯＤＥ　６の詳細成績です。\nＢボタンを押すと一画面戻ります。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 112,
+  "budget": 67,
+  "jp": "ＥＰＩＳＯＤＥ　７の詳細成績です。\nＢボタンを押すと一画面戻ります。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 113,
+  "budget": 67,
+  "jp": "ＥＰＩＳＯＤＥ　８の詳細成績です。\nＢボタンを押すと一画面戻ります。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 114,
+  "budget": 67,
+  "jp": "ＥＰＩＳＯＤＥ　９の詳細成績です。\nＢボタンを押すと一画面戻ります。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 115,
+  "budget": 69,
+  "jp": "ＥＰＩＳＯＤＥ　１０の詳細成績です。\nＢボタンを押すと一画面戻ります。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 116,
+  "budget": 71,
+  "jp": "EPEISODION　ＰＲＯＴＯの詳細成績です。\nＢボタンを押すと一画面戻ります。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 117,
+  "budget": 71,
+  "jp": "EPEISODION　ＤＵＯＢＡの詳細成績です。\nＢボタンを押すと一画面戻ります。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 118,
+  "budget": 71,
+  "jp": "EPEISODION　ＴＲＩＮＥの詳細成績です。\nＢボタンを押すと一画面戻ります。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 119,
+  "budget": 71,
+  "jp": "EPEISODION　ＱＵＡＴＥの詳細成績です。\nＢボタンを押すと一画面戻ります。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 120,
+  "budget": 71,
+  "jp": "EPEISODION　ＱＵＩＮＩの詳細成績です。\nＢボタンを押すと一画面戻ります。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 121,
+  "budget": 69,
+  "jp": "EPEISODION　ＳＥＸＩの詳細成績です。\nＢボタンを押すと一画面戻ります。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 122,
+  "budget": 73,
+  "jp": "EPEISODION　ＳＥＰＴＵＡの詳細成績です。\nＢボタンを押すと一画面戻ります。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 123,
+  "budget": 67,
+  "jp": "ＭＩＳＳＩＯＮ　１の詳細成績です。\nＢボタンを押すと一画面戻ります。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 124,
+  "budget": 67,
+  "jp": "ＭＩＳＳＩＯＮ　２の詳細成績です。\nＢボタンを押すと一画面戻ります。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 125,
+  "budget": 67,
+  "jp": "ＭＩＳＳＩＯＮ　３の詳細成績です。\nＢボタンを押すと一画面戻ります。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 126,
+  "budget": 67,
+  "jp": "ＭＩＳＳＩＯＮ　４の詳細成績です。\nＢボタンを押すと一画面戻ります。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 127,
+  "budget": 67,
+  "jp": "ＭＩＳＳＩＯＮ　５の詳細成績です。\nＢボタンを押すと一画面戻ります。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_MenuInst_JP.msg",
+  "idx": 128,
+  "budget": 6,
+  "jp": "未使用",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 0,
+  "budget": 41,
+  "jp": "\n少女は、暗い牢でずっと鎖につながれていた",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 1,
+  "budget": 47,
+  "jp": "\n幼い頃から…　世界も、　自分自身も知らぬまま…",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 2,
+  "budget": 43,
+  "jp": "\n\"伝聞\"は…　うまく伝わらなかったのだろうか",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 3,
+  "budget": 35,
+  "jp": "\nエヴレーン隊長！　娘を見つけました",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 4,
+  "budget": 13,
+  "jp": "\n全騎、続け！",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 5,
+  "budget": 5,
+  "jp": "\n了解",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 6,
+  "budget": 7,
+  "jp": "\n了解！",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 7,
+  "budget": 27,
+  "jp": "\n夜が明けたら畑に麦を播こう",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 8,
+  "budget": 21,
+  "jp": "\n日差しが土を焼く前に",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 9,
+  "budget": 27,
+  "jp": "\n雨がやんだら畑に麦を播こう",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 10,
+  "budget": 27,
+  "jp": "\n水銀の霧が私の喉を焼く前に",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 11,
+  "budget": 25,
+  "jp": "\n亜麻の布を織り　羊を追い",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 12,
+  "budget": 29,
+  "jp": "\nぶどう棚の陰にある小さな家で",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 13,
+  "budget": 25,
+  "jp": "\nここにはもういない貴方と",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 14,
+  "budget": 27,
+  "jp": "\n同じ歌口ずさみ生きていこう",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 15,
+  "budget": 27,
+  "jp": "\n夜が明けたら畑に麦を播こう",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 16,
+  "budget": 21,
+  "jp": "\n風が土を凍らせる前に",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 17,
+  "budget": 27,
+  "jp": "\n雨がやんだら畑に麦を播こう",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 18,
+  "budget": 29,
+  "jp": "\n涙の塩が私の目を凍らせる前に",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 19,
+  "budget": 16,
+  "jp": "エッジ、どうだ？",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 20,
+  "budget": 20,
+  "jp": "何もない、異常なしだ",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 21,
+  "budget": 22,
+  "jp": "こんなものか、実戦って",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 22,
+  "budget": 20,
+  "jp": "気楽でいいな、子供は",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 23,
+  "budget": 22,
+  "jp": "ルーアは知ってるのか？",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 24,
+  "budget": 28,
+  "jp": "僕らがここで何を守ってるのか",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 25,
+  "budget": 10,
+  "jp": "どうして？",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 26,
+  "budget": 18,
+  "jp": "知りたくないのか？",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 27,
+  "budget": 10,
+  "jp": "ごめんだね",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 28,
+  "budget": 36,
+  "jp": "経験から言うと、帝国に首を突っ込むと",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 29,
+  "budget": 16,
+  "jp": "ろくなことがない",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 30,
+  "budget": 30,
+  "jp": "今だってろくなことなんてないさ",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 31,
+  "budget": 32,
+  "jp": "いいか、よけいなことに関わるなよ",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 32,
+  "budget": 18,
+  "jp": "それが俺達の鉄則だ",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 33,
+  "budget": 22,
+  "jp": "俺達は帝国軍に雇われて",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 34,
+  "budget": 20,
+  "jp": "この発掘所を守ってる",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 35,
+  "budget": 10,
+  "jp": "それだけだ",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 36,
+  "budget": 22,
+  "jp": "必要以上の詮索は無用、",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_Movie_JP.msg",
+  "idx": 37,
+  "budget": 18,
+  "jp": "死にたくないならな",
+  "ko": null
+ }
+]

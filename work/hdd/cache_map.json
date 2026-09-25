@@ -1,0 +1,41 @@
+{
+ "sprite\\Font\\Arial_h_tbl.bin": [
+  497061888,
+  1655692190
+ ],
+ "sprite\\Font\\Reisyo_Cmn_z_tbl_cmn.bin": [
+  497127424
+ ],
+ "sprite\\Font\\Reisyo_Menu_z_tbl.bin": [
+  500846592
+ ],
+ "sprite\\Font\\Reisyo_Stage1_z_tbl.bin": [
+  507416576
+ ],
+ "sprite\\Font\\Reisyo_Tutorial_z_tbl.bin": [
+  518082560
+ ],
+ "sprite\\Font\\Zenkaku_Menu.txb": [
+  500879360
+ ],
+ "sprite\\Font\\Zenkaku_Stage1.txb": [
+  507449344
+ ],
+ "sprite\\Font\\Zenkaku_Tutorial.txb": [
+  518115328
+ ],
+ "sprite\\Font\\font_hs_test_arial.txb": [
+  497078272
+ ],
+ "sprite\\Font\\Zenkaku_Common.txb": [
+  497160192
+ ],
+ "messageevent\\MesData_Stage01_JP.msg": [
+  538284032,
+  2083171865,
+  2091945984
+ ],
+ "messageevent\\MesData_Tutorial_JP.msg": [
+  521850880
+ ]
+}

@@ -1,0 +1,1185 @@
+[
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 15,
+  "budget": 39,
+  "jp": "Tutorial 1-3\nショットの使い方（その１）",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 16,
+  "budget": 59,
+  "jp": "$c4ショットボタン$c7を押すと、\n前方にショットを発射します。",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 17,
+  "budget": 71,
+  "jp": "敵弾はレーザーでは消せませんので、\n近づく前にショットで撃ち落とします。",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 18,
+  "budget": 61,
+  "jp": "ショットで対処しきれない場合は、\n回避するのも一つの方法です。",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 19,
+  "budget": 3,
+  "jp": "(吝",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 20,
+  "budget": 45,
+  "jp": "体当たりや敵弾に当たると\nダメージを受けます。",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 21,
+  "budget": 3,
+  "jp": "@主",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 22,
+  "budget": 53,
+  "jp": "左下のライフゲージが０になると、\nゲームオーバーです。",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 23,
+  "budget": 38,
+  "jp": "弾を撃ち消すか、あるいは避けましょう。",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 24,
+  "budget": 3,
+  "jp": "h√",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 25,
+  "budget": 39,
+  "jp": "Tutorial 1-4\nショットの使い方（その２）",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 26,
+  "budget": 53,
+  "jp": "特に敵が至近距離の場合、\nレーザーだけで攻撃するよりも",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 27,
+  "budget": 63,
+  "jp": "ショットを交ぜて攻撃した方が、\nより早く破壊することができます。",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 28,
+  "budget": 28,
+  "jp": "硬い敵を撃ち落としましょう。",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 29,
+  "budget": 21,
+  "jp": "Tutorial 1-5\n視点変更",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 30,
+  "budget": 33,
+  "jp": "右上のサークルは、\nレーダーです。",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 31,
+  "budget": 53,
+  "jp": "ドラゴンを中心にして、敵の\n位置が光点で表示されます。",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 32,
+  "budget": 65,
+  "jp": "敵が横や後ろにいる場合は、\n$c3左／右トリガ$c7で視点を変更します。",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 33,
+  "budget": 57,
+  "jp": "トリガを一度引く毎に、左右に\n９０度ずつ視点が移動します。",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 34,
+  "budget": 59,
+  "jp": "また、この状態では$c5左スティック$c7\nでも視点を動かせます。",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 35,
+  "budget": 65,
+  "jp": "$c3左／右トリガ$c7を同時に引くと、\n視点が１８０度切り替わります。",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 36,
+  "budget": 45,
+  "jp": "上手に利用して、素早く\n視点を変更しましょう。",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 37,
+  "budget": 41,
+  "jp": "視点を切り替えて\n敵を撃ち落としましょう。",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 38,
+  "budget": 25,
+  "jp": "Tutorial 1-6\nバーサク攻撃",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 39,
+  "budget": 35,
+  "jp": "左下のゲージは\nバーサクゲージです。",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 40,
+  "budget": 39,
+  "jp": "このゲージがフルの時に\n黒ボタンを押すと",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 41,
+  "budget": 39,
+  "jp": "バーサク攻撃という\n特殊な攻撃が出ます。",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 42,
+  "budget": 45,
+  "jp": "バーサク攻撃を使うと、\nゲージは０になります。",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 43,
+  "budget": 57,
+  "jp": "バーサクゲージは、敵に攻撃を\n当てる毎に増加していきます。",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 44,
+  "budget": 41,
+  "jp": "敵の群れをバーサク攻撃で\n殲滅しましょう。",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 45,
+  "budget": 39,
+  "jp": "基本チュートリアルは\nこれで終了します。",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 46,
+  "budget": 51,
+  "jp": "他のチュートリアルも一度、\nプレイしてみてください。",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 47,
+  "budget": 25,
+  "jp": "Tutorial 2-1\nグライド操作",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 48,
+  "budget": 59,
+  "jp": "ドラゴンの飛行速度を一時的に\n加速や減速することができます。",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 49,
+  "budget": 41,
+  "jp": "この操作を\n「$c3グライド$c7」と呼びます。",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 50,
+  "budget": 37,
+  "jp": "$c5Ｘボタン$c7を押すと\n加速グライド、",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 51,
+  "budget": 47,
+  "jp": "$c2Ｂボタン$c7を押すと\n減速グライドになります。",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 52,
+  "budget": 57,
+  "jp": "グライドを一回行う毎に、\nグライドゲージを一本消費します。",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 53,
+  "budget": 35,
+  "jp": "グライドゲージは\n時間で回復します。",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 54,
+  "budget": 67,
+  "jp": "加速グライド中は、敵に体当たりして\nダメージを与えることができます。",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 55,
+  "budget": 51,
+  "jp": "これが体当たり攻撃\n「$c3グライドアタック$c7」です。",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 56,
+  "budget": 43,
+  "jp": "グライドアタックで\n敵編隊を撃墜しましょう。",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 57,
+  "budget": 29,
+  "jp": "Tutorial 2-2\nグライドの使い方",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 58,
+  "budget": 63,
+  "jp": "グライドは、主に障害物や敵、\n敵の弾などを避けるために使います。",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 59,
+  "budget": 51,
+  "jp": "そのまま進むとダメージを\n受けてしまいそうなときは、",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 60,
+  "budget": 27,
+  "jp": "加速グライドで\n前に出たり、",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 61,
+  "budget": 37,
+  "jp": "減速グライドで\nやり過ごしたりします。",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 62,
+  "budget": 41,
+  "jp": "グライドを上手く使って\n通り抜けましょう。",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 63,
+  "budget": 31,
+  "jp": "Tutorial 2-3\nボス戦でのグライド",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 64,
+  "budget": 49,
+  "jp": "通常、グライドボタンを押すと\n加速・減速しますが、",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 65,
+  "budget": 73,
+  "jp": "特定のボス戦では、加速・減速グライド\nで回り込み行動を行うことができます。",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 66,
+  "budget": 22,
+  "jp": "ボスの左側で加速すると",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 67,
+  "budget": 22,
+  "jp": "左側面に回り込みます。",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 68,
+  "budget": 28,
+  "jp": "減速すると、後方に戻ります。",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 69,
+  "budget": 47,
+  "jp": "ボスの右側で加速すると\n右側面にも移動できます。",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 70,
+  "budget": 59,
+  "jp": "タイミング良く回り込めば、\nボスの攻撃を簡単に避けられます。",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 71,
+  "budget": 57,
+  "jp": "ボスの横でもう一度加速すると、\n前方に出ることができます。",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 72,
+  "budget": 41,
+  "jp": "ボスの弱点には弱点マークが\n表示されます。",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 73,
+  "budget": 55,
+  "jp": "表示されない時は、別方向に\n回り込んで探してみましょう。",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 74,
+  "budget": 35,
+  "jp": "ボスの弱点を探して\n攻撃しましょう。",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 75,
+  "budget": 43,
+  "jp": "グライドチュートリアルは\nこれで終了します。",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 76,
+  "budget": 67,
+  "jp": "グライドはとても重要ですので、\n使い方を色々と工夫してみてください。",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 77,
+  "budget": 33,
+  "jp": "Tutorial 3-1\nモーフィング（変形）",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 78,
+  "budget": 51,
+  "jp": "ドラゴンは、３種類の形態に\n変形することができます。",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 79,
+  "budget": 63,
+  "jp": "どれも一長一短ありますので、\n状況によっての使い分けが重要です。",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 80,
+  "budget": 57,
+  "jp": "$c6Ｙボタン$c7を押すと、\n別のドラゴンタイプに変形します。",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 81,
+  "budget": 31,
+  "jp": "基本形態の\nベースウイングから、",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 82,
+  "budget": 29,
+  "jp": "攻撃力の高い\nヘビーウイング、",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 83,
+  "budget": 29,
+  "jp": "高機動型の\nグライドウイング、",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 84,
+  "budget": 59,
+  "jp": "もう一度押すと、ループして\n最初のベースウイングに戻ります。",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 85,
+  "budget": 3,
+  "jp": "h∝",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 86,
+  "budget": 31,
+  "jp": "Tutorial 3-2\nベースウイング形態",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 87,
+  "budget": 59,
+  "jp": "ベースウイングは、３形態の中で\n最も基本となるドラゴンです。",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 88,
+  "budget": 59,
+  "jp": "ベースウイングは、３形態中で\n最大のロックオン数を誇ります。",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 89,
+  "budget": 49,
+  "jp": "グライドも使えるので、\n大抵の状況に対応できます。",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 90,
+  "budget": 53,
+  "jp": "慣れないうちはこの形態を\nメインに使うと良いでしょう。",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 91,
+  "budget": 33,
+  "jp": "バーサクは\nレーザーを乱射します。",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 92,
+  "budget": 33,
+  "jp": "敵が多い場所で使うと\n効果的です。",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 93,
+  "budget": 31,
+  "jp": "Tutorial 3-3\nヘビーウイング形態",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 94,
+  "budget": 61,
+  "jp": "ヘビーウイングは、レーザーの威力が\n高い攻撃型のドラゴンです。",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 95,
+  "budget": 65,
+  "jp": "ベースウイングと比べて、非常に\n大きな威力のレーザーを発射します。",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 96,
+  "budget": 59,
+  "jp": "しかし、ベースウイングよりも\nロックオン数が少なくなります。",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 97,
+  "budget": 59,
+  "jp": "ヘビーウイングは、グライド操作を\n一切行うことが出来ません。",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 98,
+  "budget": 57,
+  "jp": "そのため、不利な局面や倒すことが\n困難なボスが存在します。",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 99,
+  "budget": 35,
+  "jp": "バーサクは\nレーザーの集中攻撃です。",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 100,
+  "budget": 59,
+  "jp": "ボスなどの堅い敵に有効な、\n集中攻撃専用のバーサク攻撃です。",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 101,
+  "budget": 49,
+  "jp": "ヘビーウイングを使って、\n敵編隊を撃墜しましょう。",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 102,
+  "budget": 33,
+  "jp": "Tutorial 3-4\nグライドウイング形態",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 103,
+  "budget": 51,
+  "jp": "グライドウイングは、\n高機動・防御型のドラゴンです。",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 104,
+  "budget": 63,
+  "jp": "この形態では、グライドゲージの\n上限が２本から３本に増加します。",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 105,
+  "budget": 71,
+  "jp": "グライドウイングのショットは、\n照準内の敵を近い順に自動的に攻撃します。",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 106,
+  "budget": 40,
+  "jp": "ボタンを押し続けることで連射が可能です。",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 107,
+  "budget": 67,
+  "jp": "撃つのを止め、もう一度ショットボタンを\n押すと、再照準しなおします。",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 108,
+  "budget": 51,
+  "jp": "グライドウイングはレーザーを\n撃つことができません。",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 109,
+  "budget": 51,
+  "jp": "そのため、特に遠距離の敵に対しては\n不利になります。",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 110,
+  "budget": 39,
+  "jp": "バーサクは\n特殊なグライドアタックです。",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 111,
+  "budget": 59,
+  "jp": "このバーサク攻撃で敵を攻撃すると、\n体力ゲージが回復します。",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 112,
+  "budget": 61,
+  "jp": "グライドアタックとショットを使い分け\n敵を撃ち落としましょう。",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 113,
+  "budget": 35,
+  "jp": "Tutorial 3-5\nドラゴンのレベルアップ",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 114,
+  "budget": 63,
+  "jp": "敵を倒すと、アイテム『$c3遺伝基$c7』が\n出現する場合があります。",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 115,
+  "budget": 55,
+  "jp": "遺伝基をいくつか取ると、\nドラゴンがレベルアップします。",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 116,
+  "budget": 67,
+  "jp": "レベルが上がると、ＨＰの最大値や\n発射するレーザーの本数が増えます。",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 117,
+  "budget": 47,
+  "jp": "ドラゴンの３タイプそれぞれに\nレベルがあるので、",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 118,
+  "budget": 43,
+  "jp": "成長させたいタイプで\n遺伝基を取りましょう。",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 119,
+  "budget": 71,
+  "jp": "また、ポーズメニューでは３形態全ての\n現在のレベルを一覧で確認できます。",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 120,
+  "budget": 53,
+  "jp": "ドラゴンセレクトのチュートリアルは\nこれで終了します。",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 121,
+  "budget": 63,
+  "jp": "ドラゴンのタイプによって、ステージの\n難易度は大きく変化します。",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 122,
+  "budget": 53,
+  "jp": "状況に応じたタイプを見つけて、\n上手く活用しましょう。",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 123,
+  "budget": 69,
+  "jp": "グライド操作で回り込みが可能になった\n場合はレーダー表示が変化します。",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 124,
+  "budget": 61,
+  "jp": "それが合図になりますので、\n見逃さないよう気をつけてください。",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 125,
+  "budget": 51,
+  "jp": "このショットは、敵弾を消すときに\n特に有効ですので、",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 126,
+  "budget": 57,
+  "jp": "敵弾が四方八方から押し寄せて\n対処しきれないような場所では",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 127,
+  "budget": 57,
+  "jp": "グライドウイングに変形すると\n楽に切り抜けられるでしょう。",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 128,
+  "budget": 63,
+  "jp": "横や後方を向いているときは、\nドラゴンを動かすことが出来ません。",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 129,
+  "budget": 53,
+  "jp": "左スティックを動かしてもドラゴンは\n移動しませんので、",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 130,
+  "budget": 75,
+  "jp": "敵弾を確実に撃ち落とさないとダメージを\n受けてしまいます。注意してください。",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 131,
+  "budget": 65,
+  "jp": "障害物などを避ける場合には、\n視点を正面に戻して操作してください。",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 132,
+  "budget": 65,
+  "jp": "変形後及びアイテム出現後の際に、\n右下に成長ゲージが表示されます。",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 133,
+  "budget": 37,
+  "jp": "遺伝基を取るとスロットが一つ埋まり、\n",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 134,
+  "budget": 63,
+  "jp": "全てのスロットが埋まると、ドラゴンが\n一段階レベルアップします。",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 135,
+  "budget": 55,
+  "jp": "成長ゲージは、一定時間が過ぎると\n表示されなくなります。",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 136,
+  "budget": 71,
+  "jp": "なおグライドは、プレイヤーがどの方向を\n向いていても行うことができます。",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_ms1_JP.msg",
+  "idx": 0,
+  "budget": 22,
+  "jp": "しっかり狙ってくれよ！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_ms1_JP.msg",
+  "idx": 1,
+  "budget": 6,
+  "jp": "うお！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_ms1_JP.msg",
+  "idx": 2,
+  "budget": 6,
+  "jp": "ちっ！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_ms1_JP.msg",
+  "idx": 3,
+  "budget": 10,
+  "jp": "しまった！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_ms1_JP.msg",
+  "idx": 4,
+  "budget": 12,
+  "jp": "お、落ちる！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_ms1_JP.msg",
+  "idx": 5,
+  "budget": 10,
+  "jp": "隊長ー！！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_ms1_JP.msg",
+  "idx": 6,
+  "budget": 12,
+  "jp": "うわーああ！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_ms1_JP.msg",
+  "idx": 7,
+  "budget": 8,
+  "jp": "いいぞ！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_ms1_JP.msg",
+  "idx": 8,
+  "budget": 18,
+  "jp": "なにをしてるんだ！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_ms1_JP.msg",
+  "idx": 9,
+  "budget": 28,
+  "jp": "くそ、全滅だ！　作戦失敗！！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_ms1_JP.msg",
+  "idx": 10,
+  "budget": 36,
+  "jp": "よし、抜けたな！　爆撃を仕掛ける！！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_ms1_JP.msg",
+  "idx": 11,
+  "budget": 26,
+  "jp": "な、なんだあれは、まさか…",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_ms1_JP.msg",
+  "idx": 12,
+  "budget": 30,
+  "jp": "うわああああああああああ！！！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_ms2_JP.msg",
+  "idx": 0,
+  "budget": 40,
+  "jp": "こいつら、絶対戦艦には逃げこませねえぞ！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_ms2_JP.msg",
+  "idx": 1,
+  "budget": 40,
+  "jp": "あ、あれは…オルタ！　オルタじゃねえか！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_ms2_JP.msg",
+  "idx": 2,
+  "budget": 28,
+  "jp": "ちくしょう、逃がしちまった！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_ms3_JP.msg",
+  "idx": 0,
+  "budget": 28,
+  "jp": "ちくしょう、逃がしちまった！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_ms4_JP.msg",
+  "idx": 0,
+  "budget": 35,
+  "jp": "アクセスを確認、\n認証を開始します…",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_ms4_JP.msg",
+  "idx": 1,
+  "budget": 35,
+  "jp": "認証を確認しました　\n隔壁を開きます",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_ms4_JP.msg",
+  "idx": 2,
+  "budget": 41,
+  "jp": "認証に失敗しました　\nレベル解放不可能です",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_ms5_JP.msg",
+  "idx": 0,
+  "budget": 34,
+  "jp": "アクセスを確認、認証を開始します…",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_ms5_JP.msg",
+  "idx": 1,
+  "budget": 34,
+  "jp": "認証を確認しました　隔壁を開きます",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_ms5_JP.msg",
+  "idx": 2,
+  "budget": 40,
+  "jp": "認証に失敗しました　レベル解放不可能です",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst1_JP.msg",
+  "idx": 0,
+  "budget": 49,
+  "jp": "「右上、真ん中下、左上の\n　順番で通るんだっけ？」",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst1_JP.msg",
+  "idx": 1,
+  "budget": 16,
+  "jp": "「しまった…！」",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst1_JP.msg",
+  "idx": 2,
+  "budget": 10,
+  "jp": "「あ―！」",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst1_JP.msg",
+  "idx": 3,
+  "budget": 53,
+  "jp": "教官「ポッドを操作して、\n　　指定地点に着地させろ！」",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst1_JP.msg",
+  "idx": 4,
+  "budget": 79,
+  "jp": "教官「Ａボタン、もしくは左トリガ＋右トリガで\n　　上昇する！　離せば落下する！」",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst1_JP.msg",
+  "idx": 5,
+  "budget": 63,
+  "jp": "教官「照準を上下に動かして\n　　常に進行方向を見るようにしろ！」",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst1_JP.msg",
+  "idx": 6,
+  "budget": 34,
+  "jp": "教官「だめだ、もっと速度を殺せ！」",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst1_JP.msg",
+  "idx": 7,
+  "budget": 24,
+  "jp": "教官「よし！　合格だ！」",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst1_JP.msg",
+  "idx": 8,
+  "budget": 53,
+  "jp": "教官「だめだ、着地地点が\n　　遠すぎる。　もう一度だ」",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst1_JP.msg",
+  "idx": 9,
+  "budget": 34,
+  "jp": "教官「よし！　いい腕だ！　合格！」",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst1_JP.msg",
+  "idx": 10,
+  "budget": 55,
+  "jp": "教官「…残念ながら不合格だ。\n　　速やかに退出したまえ」",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst1_JP.msg",
+  "idx": 11,
+  "budget": 63,
+  "jp": "教官「静かに着地させなければ、\n　　　ポッドが壊れてしまうぞ！」",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst1_JP.msg",
+  "idx": 12,
+  "budget": 43,
+  "jp": "教官「よーし、皇帝の\n　　肖像に着陸しろ！」",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst1_JP.msg",
+  "idx": 13,
+  "budget": 24,
+  "jp": "教官「後は体で覚えろ！」",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst1_JP.msg",
+  "idx": 14,
+  "budget": 34,
+  "jp": "「こんなとこ、抜けられるのかな…」",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst1_JP.msg",
+  "idx": 15,
+  "budget": 20,
+  "jp": "「慎重に、慎重に…」",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst2_JP.msg",
+  "idx": 0,
+  "budget": 37,
+  "jp": "「これが攻性生物か…\n　初めて見た…」",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst2_JP.msg",
+  "idx": 1,
+  "budget": 16,
+  "jp": "「しまった…！」",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst2_JP.msg",
+  "idx": 2,
+  "budget": 10,
+  "jp": "「あ―！」",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst2_JP.msg",
+  "idx": 3,
+  "budget": 45,
+  "jp": "教官「ポッドを操作し、\n　　攻性生物を倒せ！」",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst2_JP.msg",
+  "idx": 4,
+  "budget": 33,
+  "jp": "教官「機連銃はＸかＢボタンだ！」\n",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst2_JP.msg",
+  "idx": 5,
+  "budget": 27,
+  "jp": "教官「Xなら連射が利くぞ！」",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst2_JP.msg",
+  "idx": 6,
+  "budget": 51,
+  "jp": "教官「駄目だ、撃墜率が悪すぎる！\n　　もう一度だ！」",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_sst2_JP.msg",
+  "idx": 7,
+  "budget": 51,
+  "jp": "教官「よーし！　まずまずだ！\n　　上がっていいぞ！」",
+  "ko": null
+ }
+]

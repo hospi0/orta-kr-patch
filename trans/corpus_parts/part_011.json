@@ -1,0 +1,1276 @@
+[
+ {
+  "file": "messageevent\\MesData_Stage04_JP.msg",
+  "idx": 13,
+  "budget": 39,
+  "jp": "娘はあとで拾う！\nドラゴンを完全に潰せ！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage04_JP.msg",
+  "idx": 14,
+  "budget": 20,
+  "jp": "　こいつ、しぶとい！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage04_JP.msg",
+  "idx": 15,
+  "budget": 45,
+  "jp": "砲撃目標、近すぎです！\n船体が被弾しています！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage04_JP.msg",
+  "idx": 16,
+  "budget": 39,
+  "jp": "多少の犠牲はやむをえん。\nかまわず撃て！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage04_JP.msg",
+  "idx": 17,
+  "budget": 32,
+  "jp": "護人像の対光学装甲、起動します！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage04_JP.msg",
+  "idx": 18,
+  "budget": 43,
+  "jp": "いまいましい亞人種め…\nひねりつぶしてやれ！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage04_JP.msg",
+  "idx": 19,
+  "budget": 32,
+  "jp": "対光学装甲が機能停止しました…！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage04_JP.msg",
+  "idx": 20,
+  "budget": 24,
+  "jp": "対光学装甲、復旧します！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage04_JP.msg",
+  "idx": 21,
+  "budget": 24,
+  "jp": "オルタ、あぶない、前だ！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage04_JP.msg",
+  "idx": 22,
+  "budget": 22,
+  "jp": "亞人種…　わたしが…？",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage04_JP.msg",
+  "idx": 24,
+  "budget": 56,
+  "jp": "わたしも、アバドと同じ…\nいくさのために造られた 人形…？",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage04_JP.msg",
+  "idx": 25,
+  "budget": 32,
+  "jp": "はじめから…  ひとりだったんだ…",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage04_JP.msg",
+  "idx": 26,
+  "budget": 26,
+  "jp": "　隊長、娘とドラゴンです！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage04_JP.msg",
+  "idx": 27,
+  "budget": 36,
+  "jp": "エヴレーン：　今度こそ逃がさないよ！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage04_JP.msg",
+  "idx": 28,
+  "budget": 46,
+  "jp": "亞人は世界に 死と破壊を呼ぶ…\n噂のとおりだな！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage04_JP.msg",
+  "idx": 29,
+  "budget": 37,
+  "jp": "その呪われた身体…　切り刻んでやる！ ",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage04_JP.msg",
+  "idx": 30,
+  "budget": 34,
+  "jp": "　きさまが残すのは死と破壊だけか！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage04_JP.msg",
+  "idx": 31,
+  "budget": 42,
+  "jp": "　娘はあとで拾う！　ドラゴンを完全に潰せ！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage04_JP.msg",
+  "idx": 32,
+  "budget": 71,
+  "jp": "エヴレーン：　これで最期か…\n　　　　　　　　　 とんだ醜態だな… ハッ！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage04_JP.msg",
+  "idx": 33,
+  "budget": 3,
+  "jp": "0維",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage04_JP.msg",
+  "idx": 34,
+  "budget": 30,
+  "jp": "だが、きさまの命もらっていく！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage04_JP.msg",
+  "idx": 35,
+  "budget": 22,
+  "jp": "あーっはっはっはっは！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage04_JP.msg",
+  "idx": 36,
+  "budget": 16,
+  "jp": "死んでしまえ！！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage05_JP.msg",
+  "idx": 0,
+  "budget": 13,
+  "jp": "\n……静かだね",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage05_JP.msg",
+  "idx": 1,
+  "budget": 3,
+  "jp": "p杓",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage05_JP.msg",
+  "idx": 2,
+  "budget": 6,
+  "jp": "！！！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage05_JP.msg",
+  "idx": 3,
+  "budget": 29,
+  "jp": "あの程度も 破壊できないのか？",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage05_JP.msg",
+  "idx": 4,
+  "budget": 22,
+  "jp": "…殺す必要はなかった！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage05_JP.msg",
+  "idx": 5,
+  "budget": 24,
+  "jp": "アバド…　なぜ…殺すの？",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage05_JP.msg",
+  "idx": 6,
+  "budget": 40,
+  "jp": "それが 私の…\n　　　　  　　私は…　私…",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage05_JP.msg",
+  "idx": 7,
+  "budget": 53,
+  "jp": "…我が 本来の目的は 失われた\nだから お前が 必要なのだ",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage05_JP.msg",
+  "idx": 8,
+  "budget": 10,
+  "jp": "付いてこい",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage05_JP.msg",
+  "idx": 9,
+  "budget": 28,
+  "jp": "オルタ：　（子供がいたのか）",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage05_JP.msg",
+  "idx": 10,
+  "budget": 26,
+  "jp": "（家族か…　わたしには…）",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage06_JP.msg",
+  "idx": 0,
+  "budget": 57,
+  "jp": "生物、植物…　生命の情報は\nすべて \"遺伝基\" で受け継がれる",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage06_JP.msg",
+  "idx": 1,
+  "budget": 50,
+  "jp": "だが われわれ亞人種は\n遺伝基を増やすことができない",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage06_JP.msg",
+  "idx": 2,
+  "budget": 46,
+  "jp": "子孫を残すことも無く\n製造され 消費されるだけだ",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage06_JP.msg",
+  "idx": 4,
+  "budget": 20,
+  "jp": "唯一の例外を除いて…",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage06_JP.msg",
+  "idx": 5,
+  "budget": 31,
+  "jp": "ここが おまえの誕生した場所だ…",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage06_JP.msg",
+  "idx": 6,
+  "budget": 48,
+  "jp": "\nそこで おまえ自身の\n誕生の記憶を 見つけるのだ…",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage06_JP.msg",
+  "idx": 7,
+  "budget": 62,
+  "jp": "\nこの先に 世界のすべてを記録した\n記憶回路へと通じる部屋が ある",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage06_JP.msg",
+  "idx": 8,
+  "budget": 23,
+  "jp": "『システム 再起動中…』",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage06_JP.msg",
+  "idx": 9,
+  "budget": 20,
+  "jp": "『認証を開始します』",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage06_JP.msg",
+  "idx": 10,
+  "budget": 58,
+  "jp": "『遺伝基コード１２ を検知…\n  帰還を歓迎します、マスター』",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage06_JP.msg",
+  "idx": 11,
+  "budget": 34,
+  "jp": "『情報化ゲートへの通路を開きます』",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage06_JP.msg",
+  "idx": 12,
+  "budget": 22,
+  "jp": "『情報化ゲートを開放』",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage06_JP.msg",
+  "idx": 13,
+  "budget": 24,
+  "jp": "『世界回路へ転送します』",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage06_JP.msg",
+  "idx": 14,
+  "budget": 19,
+  "jp": "『隔壁 閉鎖します』",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage06_JP.msg",
+  "idx": 15,
+  "budget": 19,
+  "jp": "『隔壁 開放します』",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage06_JP.msg",
+  "idx": 16,
+  "budget": 22,
+  "jp": "『隔壁を開放しました』",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage06_JP.msg",
+  "idx": 17,
+  "budget": 22,
+  "jp": "『隔壁を閉鎖しました』",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage06_JP.msg",
+  "idx": 18,
+  "budget": 30,
+  "jp": "声：　『違法要素の侵入を感知』",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage06_JP.msg",
+  "idx": 19,
+  "budget": 20,
+  "jp": "『排除を開始します』",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage07_JP.msg",
+  "idx": 0,
+  "budget": 44,
+  "jp": "『帝国のドラゴンメアに、仲間が沢山やられた』",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage07_JP.msg",
+  "idx": 1,
+  "budget": 76,
+  "jp": "『もっと ドラゴンメアを造らせるために\n  帝国は亞人を追ってるのさ…　へっ！』",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage07_JP.msg",
+  "idx": 2,
+  "budget": 55,
+  "jp": "『\"厄災のドラゴン\"…\n　ドラゴンメアに呼ばれ、甦ったか』",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage07_JP.msg",
+  "idx": 3,
+  "budget": 75,
+  "jp": "『生命炉に眠る ドラゴンメア一千騎、\n　あの娘さえ捕らえれば 我らのものだ！』",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage07_JP.msg",
+  "idx": 4,
+  "budget": 57,
+  "jp": "『まさか、前帝を滅ぼしたという\n　\"厄災のドラゴン\"か…？』",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage07_JP.msg",
+  "idx": 5,
+  "budget": 30,
+  "jp": "『その迷信、ここで葬ってやる』",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage07_JP.msg",
+  "idx": 6,
+  "budget": 26,
+  "jp": "『全騎、攻撃制限を解除！』",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage07_JP.msg",
+  "idx": 7,
+  "budget": 49,
+  "jp": "『奴らみんな、大昔の\n　旧世紀人に作られた兵器さ』",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage07_JP.msg",
+  "idx": 8,
+  "budget": 61,
+  "jp": "『オレたちが乗ってるコイツも、\n　千年も昔は兵器だったそうだ』",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage07_JP.msg",
+  "idx": 9,
+  "budget": 34,
+  "jp": "『娘は亞人種だ、遠慮せずに撃て！』",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage07_JP.msg",
+  "idx": 10,
+  "budget": 34,
+  "jp": "『この娘は、未来に残された希望だ』",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage07_JP.msg",
+  "idx": 11,
+  "budget": 36,
+  "jp": "『その日まで我々が守らねばならない』",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage07_JP.msg",
+  "idx": 12,
+  "budget": 43,
+  "jp": "『生きてるんじゃない。\n　生かされてるんだ』",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage07_JP.msg",
+  "idx": 13,
+  "budget": 30,
+  "jp": "『あの旧世紀の亡霊たちにな…』",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage07_JP.msg",
+  "idx": 14,
+  "budget": 45,
+  "jp": "『全ユニット作動\n　地表面の制圧を開始します』",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage07_JP.msg",
+  "idx": 15,
+  "budget": 43,
+  "jp": "『奴を…塔に行かせるな…\n　行けば…再び…』",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage07_JP.msg",
+  "idx": 16,
+  "budget": 22,
+  "jp": "『バグの追放を確認…』",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage07_JP.msg",
+  "idx": 17,
+  "budget": 24,
+  "jp": "『彼は今も…　僕と共に』",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage07_JP.msg",
+  "idx": 18,
+  "budget": 71,
+  "jp": "亞人の声『私は人間たちから逃れ、\n                その亜人種を探した…』",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage07_JP.msg",
+  "idx": 19,
+  "budget": 59,
+  "jp": "『…我がいにしえの主人達の\n　蘇生は、すでに完全に不可能…』",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage07_JP.msg",
+  "idx": 20,
+  "budget": 59,
+  "jp": "『…旧命令の実行を中止\n　これより独自判断により行動する…』",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage07_JP.msg",
+  "idx": 21,
+  "budget": 66,
+  "jp": "声：　《 命令はすでに完了している。\n　　　　 それでも…戻るのか 》",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage07_JP.msg",
+  "idx": 22,
+  "budget": 30,
+  "jp": "《 その肉体はもろく有限だ… 》",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage07_JP.msg",
+  "idx": 23,
+  "budget": 44,
+  "jp": "《 地上に戻れば、いずれ寿命が訪れるだろう 》",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage07_JP.msg",
+  "idx": 24,
+  "budget": 22,
+  "jp": "《 そうか、わかった 》",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage07_JP.msg",
+  "idx": 25,
+  "budget": 28,
+  "jp": "《 さようなら、我が分身… 》",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage07_JP.msg",
+  "idx": 26,
+  "budget": 28,
+  "jp": "《 私はここで眠るとしよう 》",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage07_JP.msg",
+  "idx": 27,
+  "budget": 26,
+  "jp": "《 友人たちに…よろしく 》",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage07_JP.msg",
+  "idx": 28,
+  "budget": 30,
+  "jp": "　（いまのは…あなたの記憶？）",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage07_JP.msg",
+  "idx": 29,
+  "budget": 36,
+  "jp": "　（おまえはここからやってきたの？）",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage07_JP.msg",
+  "idx": 30,
+  "budget": 73,
+  "jp": "声：　《 あなたが ここへ訪れる日のために、\n　　　　 この記録を残します 》",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage07_JP.msg",
+  "idx": 31,
+  "budget": 60,
+  "jp": "《 なぜ、私たちは  この荒れ果てた\n   地上に生まれたのか… 》",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage07_JP.msg",
+  "idx": 32,
+  "budget": 53,
+  "jp": "《 砂嵐に吹かれ　飢えに蝕まれ\n  争いの続く世界に… 》",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage07_JP.msg",
+  "idx": 33,
+  "budget": 57,
+  "jp": "《 ただ、自分の意志で、\n  生き方を選ぶことはできるはず 》",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage07_JP.msg",
+  "idx": 34,
+  "budget": 65,
+  "jp": "《 私の子…　あなたが私たちの\n  意志を継ぐかはわからないけれど 》",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage07_JP.msg",
+  "idx": 35,
+  "budget": 59,
+  "jp": "《 答の出ない旅を続けた私の…\n  唯一の答があなたなのです 》",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage07_JP.msg",
+  "idx": 36,
+  "budget": 77,
+  "jp": "《 人と亞人、両方の情報を持つあなたは\n  この世界すら変える力を持っています 》",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage07_JP.msg",
+  "idx": 37,
+  "budget": 73,
+  "jp": "《 つらい目に会うかもしれない…\n  ただ、私はいつもあなたを思っています 》",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage07_JP.msg",
+  "idx": 38,
+  "budget": 45,
+  "jp": "《 オルタ…\n　  　あなたの名は…　オルタ… 》",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage07_JP.msg",
+  "idx": 39,
+  "budget": 38,
+  "jp": "《 亞人の私と、\"彼\"の魂を継いだ子… 》",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage07_JP.msg",
+  "idx": 40,
+  "budget": 14,
+  "jp": "《 オルタ… 》",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage07_JP.msg",
+  "idx": 41,
+  "budget": 22,
+  "jp": "わたしの…　お母さん…",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage07_JP.msg",
+  "idx": 42,
+  "budget": 68,
+  "jp": "なるほど… 世界回路で情報化した\n人間と 亞人の遺伝基を 交配させたのか",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage07_JP.msg",
+  "idx": 43,
+  "budget": 58,
+  "jp": "お前の身体さえ 手に入れば\n私は 自己を 無限に複製できる…！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage07_JP.msg",
+  "idx": 44,
+  "budget": 10,
+  "jp": "近付くな！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage07_JP.msg",
+  "idx": 45,
+  "budget": 51,
+  "jp": "拒むな…　我々 亞人種が\nこの世界を 継ぐべきなのだ！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage07_JP.msg",
+  "idx": 46,
+  "budget": 43,
+  "jp": "『システムロックが\n  強制開放されました…』",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage07_JP.msg",
+  "idx": 47,
+  "budget": 75,
+  "jp": "システム：　『地表ブロック ２８９\n 　　　　　　 　　兵器生産を 再開します』",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage07_JP.msg",
+  "idx": 48,
+  "budget": 38,
+  "jp": "『マスター承認… ２８９に 転送します』",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage07_JP.msg",
+  "idx": 49,
+  "budget": 34,
+  "jp": "アバドが生命炉に…！　止めないと！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage07_JP.msg",
+  "idx": 50,
+  "budget": 28,
+  "jp": "『もはや… 戻る道は ない…』",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage07_JP.msg",
+  "idx": 51,
+  "budget": 66,
+  "jp": "\nシステム：　『回路内に未登録の\n                  情報体を発見…』",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage07_JP.msg",
+  "idx": 52,
+  "budget": 28,
+  "jp": "『情報体の属性を確認する…』",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage07_JP.msg",
+  "idx": 53,
+  "budget": 28,
+  "jp": "『情報体が記憶領域へ侵入…』",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage07_JP.msg",
+  "idx": 54,
+  "budget": 24,
+  "jp": "『情報体の解析を開始…』",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage07_JP.msg",
+  "idx": 55,
+  "budget": 16,
+  "jp": "『解析は成功…』",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage07_JP.msg",
+  "idx": 56,
+  "budget": 22,
+  "jp": "『対象を記憶階層へ…』",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage07_JP.msg",
+  "idx": 57,
+  "budget": 22,
+  "jp": "『記憶階層…レベル１』",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage07_JP.msg",
+  "idx": 58,
+  "budget": 16,
+  "jp": "『解析に失敗…』",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage07_JP.msg",
+  "idx": 59,
+  "budget": 28,
+  "jp": "『対象の情報体を捕獲する…』",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage07_JP.msg",
+  "idx": 60,
+  "budget": 26,
+  "jp": "『情報体の再解析を開始…』",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage07_JP.msg",
+  "idx": 61,
+  "budget": 16,
+  "jp": "『解析は成功…』",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage07_JP.msg",
+  "idx": 62,
+  "budget": 22,
+  "jp": "『対象を記憶階層へ…』",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage07_JP.msg",
+  "idx": 63,
+  "budget": 22,
+  "jp": "『記憶階層…レベル２』",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage07_JP.msg",
+  "idx": 64,
+  "budget": 28,
+  "jp": "『情報体の解析を放棄する…』",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage07_JP.msg",
+  "idx": 65,
+  "budget": 30,
+  "jp": "『対象は未処理物件庫へ移送…』",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage07_JP.msg",
+  "idx": 66,
+  "budget": 16,
+  "jp": "『解析は成功…』",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage07_JP.msg",
+  "idx": 67,
+  "budget": 22,
+  "jp": "『対象を記憶階層へ…』",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage07_JP.msg",
+  "idx": 68,
+  "budget": 22,
+  "jp": "『記憶階層…レベル３』",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage07_JP.msg",
+  "idx": 69,
+  "budget": 22,
+  "jp": "『記憶階層…レベル４』",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage07_JP.msg",
+  "idx": 70,
+  "budget": 34,
+  "jp": "『特別記憶階層へ対象を移送する…』",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage07_JP.msg",
+  "idx": 71,
+  "budget": 22,
+  "jp": "『記憶階層…レベル５』",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage08_JP.msg",
+  "idx": 0,
+  "budget": 52,
+  "jp": "元帥閣下！　休止していた\n生命炉が… 活性化しました！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage08_JP.msg",
+  "idx": 1,
+  "budget": 61,
+  "jp": "ようし！　これでドラゴンメアたちを\n目覚めさせることができる！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage08_JP.msg",
+  "idx": 2,
+  "budget": 68,
+  "jp": "夜明けだ… ドラゴンメアの力を得て、\n世界はふたたび人間のものになる！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage08_JP.msg",
+  "idx": 3,
+  "budget": 60,
+  "jp": "哨戒隊長、 帝都地下研究所に…\nドラゴン型ユニットの襲撃です！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage08_JP.msg",
+  "idx": 4,
+  "budget": 41,
+  "jp": "馬鹿な…馬鹿なっ！！\nいったいどこから！？",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage08_JP.msg",
+  "idx": 5,
+  "budget": 45,
+  "jp": "これが…帝国？\n旧世紀遺跡に寄生しているのか…",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage08_JP.msg",
+  "idx": 6,
+  "budget": 37,
+  "jp": "ドラゴンが工場区に侵入！\n迎撃します！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage08_JP.msg",
+  "idx": 7,
+  "budget": 41,
+  "jp": "奴の目的は生命炉だ！\n絶対に地上に出すな！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage08_JP.msg",
+  "idx": 8,
+  "budget": 39,
+  "jp": "保存庫のドラゴンメア幼体、\n全滅です！！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage08_JP.msg",
+  "idx": 9,
+  "budget": 51,
+  "jp": "俺がヴァーマナで相手をする！\n造船室の扉を開けろ！　",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage08_JP.msg",
+  "idx": 10,
+  "budget": 55,
+  "jp": "アカデミー研究区に侵入された！\n哨戒部隊、歓迎してやれ！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage08_JP.msg",
+  "idx": 11,
+  "budget": 37,
+  "jp": "敵は地下造船室への\n通路を進んでいます",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage08_JP.msg",
+  "idx": 12,
+  "budget": 51,
+  "jp": "ぬうっ…　浮遊機雷兵、出撃！\nこなみじんにしてやる！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage08_JP.msg",
+  "idx": 13,
+  "budget": 24,
+  "jp": "上層区に侵入されました！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage08_JP.msg",
+  "idx": 14,
+  "budget": 17,
+  "jp": "\nぐあぁ…くそっ…",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage08_JP.msg",
+  "idx": 15,
+  "budget": 13,
+  "jp": "\n隊長ーーっ！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage08_JP.msg",
+  "idx": 16,
+  "budget": 69,
+  "jp": "我々は ドラゴンを造る力を手に入れた！\nきさまら亞人種は もはや不要だ！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage08_JP.msg",
+  "idx": 17,
+  "budget": 22,
+  "jp": "強攻形態への移行用意！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage08_JP.msg",
+  "idx": 18,
+  "budget": 10,
+  "jp": "準備よし！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage08_JP.msg",
+  "idx": 19,
+  "budget": 10,
+  "jp": "準備よし！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage08_JP.msg",
+  "idx": 20,
+  "budget": 55,
+  "jp": "厄災のドラゴンよ、皇帝陛下の\nご叡智、その目で確かめろ！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage08_JP.msg",
+  "idx": 21,
+  "budget": 30,
+  "jp": "けがらわしい攻性生物どもめ！！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage08_JP.msg",
+  "idx": 22,
+  "budget": 12,
+  "jp": "主砲、発射！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage08_JP.msg",
+  "idx": 23,
+  "budget": 16,
+  "jp": "くたばるがいい！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage08_JP.msg",
+  "idx": 24,
+  "budget": 14,
+  "jp": "よけられまい！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage08_JP.msg",
+  "idx": 25,
+  "budget": 35,
+  "jp": "うおおおおっ！！\n皇帝陛下、万歳…！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage09_JP.msg",
+  "idx": 0,
+  "budget": 39,
+  "jp": "生命炉からメアが次々に…\n制御不能です！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage09_JP.msg",
+  "idx": 1,
+  "budget": 3,
+  "jp": "0獻",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage09_JP.msg",
+  "idx": 2,
+  "budget": 41,
+  "jp": "こちら第二艦隊！\n生命炉からメアが次々に…",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage09_JP.msg",
+  "idx": 3,
+  "budget": 10,
+  "jp": "わあーっ！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage09_JP.msg",
+  "idx": 4,
+  "budget": 49,
+  "jp": "遅くなって悪い悪い！\nオレの獲物は残ってるよな！？",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage09_JP.msg",
+  "idx": 5,
+  "budget": 51,
+  "jp": "我が目覚めは早すぎた…\n汚れた地上は　ただ滅び行く…",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage09_JP.msg",
+  "idx": 6,
+  "budget": 59,
+  "jp": "我々が 地上の主人となるほかに\nどのような選択が あるのだ…！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage10_JP.msg",
+  "idx": 0,
+  "budget": 3,
+  "jp": "0獻",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage10_JP.msg",
+  "idx": 1,
+  "budget": 21,
+  "jp": "\n数千年の夢なき眠り…",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage10_JP.msg",
+  "idx": 2,
+  "budget": 31,
+  "jp": "\n虚無…　それは恐怖…そのもの…",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage10_JP.msg",
+  "idx": 3,
+  "budget": 43,
+  "jp": "\n未来なき…　この…世界を…　救うために……",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage10_JP.msg",
+  "idx": 4,
+  "budget": 25,
+  "jp": "\nオルタ…　お前が必要だ…",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage10_JP.msg",
+  "idx": 5,
+  "budget": 22,
+  "jp": "お前 が…　必要… だ…",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage10_JP.msg",
+  "idx": 6,
+  "budget": 16,
+  "jp": "…どうしたの……",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage10_JP.msg",
+  "idx": 7,
+  "budget": 20,
+  "jp": "ねぇ……目を開けて…",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage10_JP.msg",
+  "idx": 8,
+  "budget": 10,
+  "jp": "おねがい…",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 0,
+  "budget": 30,
+  "jp": "次のチュートリアルに進みます。",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 1,
+  "budget": 8,
+  "jp": "good！！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 2,
+  "budget": 3,
+  "jp": " 問",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 3,
+  "budget": 22,
+  "jp": "もう一度やり直しです。",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 4,
+  "budget": 27,
+  "jp": "Tutorial 1-1\nドラゴンの移動",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 5,
+  "budget": 3,
+  "jp": "8槫",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 6,
+  "budget": 43,
+  "jp": "ドラゴンは$c5左スティック$c7で\n操作します。",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 7,
+  "budget": 3,
+  "jp": "x裹",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 8,
+  "budget": 65,
+  "jp": "上下の移動は、オプションメニューで\n設定を変更することができます。",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 9,
+  "budget": 32,
+  "jp": "３０秒以内に画面を一周しましょう",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 10,
+  "budget": 31,
+  "jp": "Tutorial 1-2\nロックオンレーザー",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 11,
+  "budget": 67,
+  "jp": "$c4ショットボタン$c7を押しつづけると、\nロックの準備状態になります。",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 12,
+  "budget": 49,
+  "jp": "このまま照準を敵に合わせると、\nロックオンします。",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 13,
+  "budget": 61,
+  "jp": "敵をロックオンした後にボタンを\n離すと、レーザーを発射します。",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Tutorial_JP.msg",
+  "idx": 14,
+  "budget": 35,
+  "jp": "敵をレーザーで\n撃ち落としましょう。",
+  "ko": null
+ }
+]

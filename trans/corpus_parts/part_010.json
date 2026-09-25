@@ -1,0 +1,1213 @@
+[
+ {
+  "file": "menudata\\TextData\\text_pdb_db_world_JP.msg",
+  "idx": 154,
+  "budget": 319,
+  "jp": "$c0＜灰の海＞\n　大陸北西、旧リ・ヴィス領に広がる\n焼け果てた地。\n　旧世紀の大都市があったといわれる\nが、今はただ乾いた風の中に文明の\nしかばねが白くさらされている。\n　中心部には「曝心地」と呼ばれる\n巨大な傷跡が大地に刻まれている。\n　この地域に足を踏み入れる人間は\n少なく、多くの攻性生物純血種が\n昔のままの姿で眠っている。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_world_JP.msg",
+  "idx": 155,
+  "budget": 266,
+  "jp": "$c0＜氷河地帯＞\n　北方に広がる広大な永久氷河地帯。\n　発掘調査によると、この氷河は旧世紀\nの終焉と同時期に生まれたものらしい。\n　上空には激しい気流が渦巻いており、\n航空による侵入は困難である。\n　終わらぬ冬を生き抜くために、独自の\n変異を遂げた生物が生息しているという。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_world_JP.msg",
+  "idx": 156,
+  "budget": 354,
+  "jp": "$c0＜辺境＞\n　大陸の北部および西部に広がる荒地。\n　一般に気候や環境が厳しく、\n人間の居住可能な場所は少ない。\n　それゆえに帝国も支配力が行き\n届かず、一部に衛星都市を築いているに\nすぎない。\n　それ以外には、各地を渡り歩き特産品\nを行商するキャラバン、そして農耕・\n狩猟・放牧生活をおこなう少数民族が\n汚染されていない水源と土地に\nしがみつくように暮らしている。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_world_JP.msg",
+  "idx": 157,
+  "budget": 170,
+  "jp": "$c0\n　彼ら少数民族は、厳しい環境の中で\n音楽や美術、舞踏、酒など素朴で\n独特な文化をはぐくんでおり、それらを\n集めたしなむのが帝都一部上級階級\nの人々の間で流行となっている。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_world_JP.msg",
+  "idx": 158,
+  "budget": 209,
+  "jp": "$c0＜旧メッカニア連邦＞\n　かつて大陸南において帝国と並ぶ\n勢力を誇っていた集合国家。\n　雷撃兵器など旧世紀の兵器を活用\nする技術を持っていたが、帝国暦７２年に\n武力制圧され、雷撃技術は領土と共に\n帝国に吸収された。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_world_JP.msg",
+  "idx": 159,
+  "budget": 178,
+  "jp": "$c0＜旧リ・ヴィス＞\n　帝都北に存在したオアシス国家。\n　砂漠の水源地帯を中心に狩猟放牧\n社会を築いていたが、攻性生物駆逐を\n名乗り侵攻してきた帝国により、\n帝国暦４５年に併合される。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_world_JP.msg",
+  "idx": 160,
+  "budget": 166,
+  "jp": "$c0＜旧ディド＞\n　帝国東の辺境に位置していた\nオアシス国家。\n　土俗信仰に生きる人々が中心となり、\nメッカニア北部の森林地帯に暮らして\nいたが、４３年に帝国に併合された。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_world_JP.msg",
+  "idx": 161,
+  "budget": 15,
+  "jp": "$c0ドラゴン関係",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_world_JP.msg",
+  "idx": 162,
+  "budget": 8,
+  "jp": "帝国関係",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_world_JP.msg",
+  "idx": 163,
+  "budget": 2,
+  "jp": "2u",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_world_JP.msg",
+  "idx": 164,
+  "budget": 10,
+  "jp": "旧世紀関係",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_world_JP.msg",
+  "idx": 165,
+  "budget": 12,
+  "jp": "攻性生物関係",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\text_pdb_db_world_JP.msg",
+  "idx": 166,
+  "budget": 14,
+  "jp": "大陸・地理関係",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage01_JP.msg",
+  "idx": 0,
+  "budget": 45,
+  "jp": "\nエヴレーン：　まさか、あれは…　ドラゴン！？",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage01_JP.msg",
+  "idx": 1,
+  "budget": 17,
+  "jp": "\nふふん、面白い！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage01_JP.msg",
+  "idx": 2,
+  "budget": 31,
+  "jp": "\n奴を追え！　娘を捕らえるんだ！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage01_JP.msg",
+  "idx": 3,
+  "budget": 66,
+  "jp": "士官：　逃亡中の目標を発見！！\n　　　　　 飛行型攻性生物の上です！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage01_JP.msg",
+  "idx": 4,
+  "budget": 3,
+  "jp": "P鰥",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage01_JP.msg",
+  "idx": 5,
+  "budget": 62,
+  "jp": "艦長：　戦闘空艇部隊を出撃させろ！\n　　　　　 ここで捕獲するぞ",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage01_JP.msg",
+  "idx": 6,
+  "budget": 6,
+  "jp": "了解！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage01_JP.msg",
+  "idx": 7,
+  "budget": 24,
+  "jp": "誘導爆雷弾、発射準備完了",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage01_JP.msg",
+  "idx": 8,
+  "budget": 20,
+  "jp": "　よし、羽根を狙え！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage01_JP.msg",
+  "idx": 9,
+  "budget": 37,
+  "jp": "飛空艇ハッチ、炎上！\n発進できません！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage01_JP.msg",
+  "idx": 10,
+  "budget": 28,
+  "jp": "これ以上、好き勝手させるな！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage01_JP.msg",
+  "idx": 11,
+  "budget": 39,
+  "jp": "前に回られたぞ！\n艦首砲座、撃ちまくれ！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage01_JP.msg",
+  "idx": 12,
+  "budget": 31,
+  "jp": "艦首砲座、大破！\n増援の要請を！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage01_JP.msg",
+  "idx": 13,
+  "budget": 20,
+  "jp": "奴は、不死身か…！？",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage01_JP.msg",
+  "idx": 14,
+  "budget": 25,
+  "jp": "\nこちら操舵室、操艦不能！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage01_JP.msg",
+  "idx": 15,
+  "budget": 23,
+  "jp": "\n揚力低下！　沈みます！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage01_JP.msg",
+  "idx": 16,
+  "budget": 43,
+  "jp": "艦体各部に異常発生！\nこの攻撃能力、奴は……",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage01_JP.msg",
+  "idx": 17,
+  "budget": 41,
+  "jp": "ドラゴン…　か…。\n枢軸部に無電、緊急だ！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage01_JP.msg",
+  "idx": 18,
+  "budget": 39,
+  "jp": "損傷が大きすぎます！\nこのままでは……！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage01_JP.msg",
+  "idx": 19,
+  "budget": 37,
+  "jp": "騎兵隊はどうした？\nまだ戻らないのか！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage01_JP.msg",
+  "idx": 20,
+  "budget": 22,
+  "jp": "敵光学弾、誘導します！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage01_JP.msg",
+  "idx": 21,
+  "budget": 24,
+  "jp": "なぜ、　わたしを助けた？",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage01_JP.msg",
+  "idx": 22,
+  "budget": 32,
+  "jp": "エヴレーン：　こいつ、母艦を！？",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage01_JP.msg",
+  "idx": 23,
+  "budget": 81,
+  "jp": "帝国騎兵：　まさか、前帝を滅ぼしたという\n　　　　　　　　　\"厄災のドラゴン\"か…？",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage01_JP.msg",
+  "idx": 24,
+  "budget": 3,
+  "jp": "H槿",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage01_JP.msg",
+  "idx": 25,
+  "budget": 6,
+  "jp": "黙れ！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage01_JP.msg",
+  "idx": 26,
+  "budget": 26,
+  "jp": "その迷信、ここで葬ってやる",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage01_JP.msg",
+  "idx": 27,
+  "budget": 30,
+  "jp": "エヴレーン：　あれは…アバド！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage01_JP.msg",
+  "idx": 28,
+  "budget": 34,
+  "jp": "亞人種めが、我ら人間にたてつくか！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage01_JP.msg",
+  "idx": 29,
+  "budget": 16,
+  "jp": "ちっ！　厄介な！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage01_JP.msg",
+  "idx": 30,
+  "budget": 47,
+  "jp": "娘！　あんたはあたしが\n必ず片付けてやるからね！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage01_JP.msg",
+  "idx": 31,
+  "budget": 12,
+  "jp": "一旦引くぞ！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage01_JP.msg",
+  "idx": 32,
+  "budget": 3,
+  "jp": "X杢",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage01_JP.msg",
+  "idx": 33,
+  "budget": 26,
+  "jp": "オルタ\nおまえを 探していた",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage01_JP.msg",
+  "idx": 34,
+  "budget": 32,
+  "jp": "わたしのことを…知っているのか？",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage01_JP.msg",
+  "idx": 35,
+  "budget": 50,
+  "jp": "未来なき この世界を 救うため\nおまえの存在が 必要だ",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage01_JP.msg",
+  "idx": 36,
+  "budget": 16,
+  "jp": "…彼を追って…！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage02_JP.msg",
+  "idx": 0,
+  "budget": 74,
+  "jp": "将校：　娘を乗せたドラゴン型ユニットは、\n　　　　　 亞人アバドと共に北上中",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage02_JP.msg",
+  "idx": 1,
+  "budget": 41,
+  "jp": "ドラゴンメア騎兵隊が\n奴らを追跡しています",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage02_JP.msg",
+  "idx": 2,
+  "budget": 68,
+  "jp": "提督：　\"厄災のドラゴン\"…\n　　　　　 ドラゴンメアに呼ばれ、甦ったか",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage02_JP.msg",
+  "idx": 3,
+  "budget": 69,
+  "jp": "生命炉に眠る ドラゴンメア一千騎、\nあの娘さえ捕らえれば 我らのものだ！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage02_JP.msg",
+  "idx": 4,
+  "budget": 6,
+  "jp": "はっ…",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage02_JP.msg",
+  "idx": 5,
+  "budget": 15,
+  "jp": "\n…彼はどこへ？",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage02_JP.msg",
+  "idx": 6,
+  "budget": 27,
+  "jp": "\nよーし、大物みつけたぜー！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage02_JP.msg",
+  "idx": 7,
+  "budget": 15,
+  "jp": "\nおっかけろー！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage02_JP.msg",
+  "idx": 8,
+  "budget": 17,
+  "jp": "\nそれ、先回りだ！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage02_JP.msg",
+  "idx": 9,
+  "budget": 29,
+  "jp": "\nやっばいぞ、怒らせちまった！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage02_JP.msg",
+  "idx": 10,
+  "budget": 25,
+  "jp": "\nいててっ！　逃げろーっ！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage02_JP.msg",
+  "idx": 11,
+  "budget": 27,
+  "jp": "\nこいつ！　おとなしくしろ！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage02_JP.msg",
+  "idx": 12,
+  "budget": 34,
+  "jp": "\nこのモボさまに つかまっちゃいな！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage02_JP.msg",
+  "idx": 13,
+  "budget": 27,
+  "jp": "\nん？　はじめて見る顔だな…",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage02_JP.msg",
+  "idx": 14,
+  "budget": 27,
+  "jp": "\n見てないで加勢してくれよ！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage02_JP.msg",
+  "idx": 15,
+  "budget": 31,
+  "jp": "オレのいう通りしてれば 大丈夫！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage02_JP.msg",
+  "idx": 16,
+  "budget": 58,
+  "jp": "加速や減速を使って、ヤツの\nシッポのほうに まわりこむんだ！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage02_JP.msg",
+  "idx": 17,
+  "budget": 50,
+  "jp": "そこから見える 白い花を撃て！\nそれがヤツの弱点だ！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage02_JP.msg",
+  "idx": 18,
+  "budget": 29,
+  "jp": "よお～し、きいてる きいてる！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage02_JP.msg",
+  "idx": 19,
+  "budget": 55,
+  "jp": "その実は、はじけるまえに撃って\nしぼませたほうがいいぜ！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage02_JP.msg",
+  "idx": 20,
+  "budget": 71,
+  "jp": "ヤツは弱点を撃たなきゃ倒せない\nシッポのほうに回りこんで、白い花を撃て！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage02_JP.msg",
+  "idx": 21,
+  "budget": 25,
+  "jp": "\nおつかれさん、助かったぜ",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage02_JP.msg",
+  "idx": 22,
+  "budget": 45,
+  "jp": "\nん？　だれだおまえ？　…帝国のドラゴンか！？",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage02_JP.msg",
+  "idx": 23,
+  "budget": 43,
+  "jp": "\nちっくしょう、帝国め！　オレをだましたな！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage02_JP.msg",
+  "idx": 24,
+  "budget": 22,
+  "jp": "蘇生プロセス　再実行…",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage02_JP.msg",
+  "idx": 25,
+  "budget": 18,
+  "jp": "    　…失敗…    ",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage02_JP.msg",
+  "idx": 26,
+  "budget": 62,
+  "jp": "…やはり 我が いにしえの主人達の\n蘇生は、すでに 完全に不可能…",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage02_JP.msg",
+  "idx": 27,
+  "budget": 22,
+  "jp": "残るは自分　ただ独り…",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage02_JP.msg",
+  "idx": 28,
+  "budget": 20,
+  "jp": "       独り…       ",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage02_JP.msg",
+  "idx": 29,
+  "budget": 47,
+  "jp": "…旧命令の実行を 中止\n独自判断により 行動する…",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage03_JP.msg",
+  "idx": 0,
+  "budget": 19,
+  "jp": "\nくたばれ、帝国め！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage03_JP.msg",
+  "idx": 1,
+  "budget": 28,
+  "jp": "ずいぶん手ごわいな、こいつ…",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage03_JP.msg",
+  "idx": 2,
+  "budget": 43,
+  "jp": "おーい、待て待て！\nお前、帝国兵じゃないな？",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage03_JP.msg",
+  "idx": 3,
+  "budget": 37,
+  "jp": "オレの名はモボ。\n勘違いして悪かった！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage03_JP.msg",
+  "idx": 4,
+  "budget": 55,
+  "jp": "でもまぁ、こっちもずいぶん\nヤラれたし、おあいこだよな？",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage03_JP.msg",
+  "idx": 5,
+  "budget": 45,
+  "jp": "このあたりは危ない。\nオレたちの棲みかにこい！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage03_JP.msg",
+  "idx": 6,
+  "budget": 43,
+  "jp": "奴らみんな、大昔の\n旧世紀人に作られた兵器さ",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage03_JP.msg",
+  "idx": 7,
+  "budget": 55,
+  "jp": "オレたちが乗ってるコイツも、\n千年も昔は兵器だったそうだ",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage03_JP.msg",
+  "idx": 8,
+  "budget": 37,
+  "jp": "近道するぞ\nちとせまいが、はぐれるなよ",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage03_JP.msg",
+  "idx": 9,
+  "budget": 53,
+  "jp": "帝国のドラゴン…　ドラゴンメアに、\n仲間が沢山やられた",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage03_JP.msg",
+  "idx": 10,
+  "budget": 57,
+  "jp": "亞人アバドに会ったって？\n帝国のドラゴンを作ったヤツだな！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage03_JP.msg",
+  "idx": 11,
+  "budget": 61,
+  "jp": "人の形をした 旧世紀のカイブツだ って、\nポンタ爺さんがいってた",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage03_JP.msg",
+  "idx": 12,
+  "budget": 70,
+  "jp": "もっと ドラゴンメアを造らせるために\n帝国は亞人を追ってるのさ…　へっ！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage03_JP.msg",
+  "idx": 13,
+  "budget": 43,
+  "jp": "この砂漠をこえれば、\nオレたちの棲みかがある",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage03_JP.msg",
+  "idx": 14,
+  "budget": 45,
+  "jp": "気をつけろ…ここらの罠は\nまだ生きているからな",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage03_JP.msg",
+  "idx": 15,
+  "budget": 8,
+  "jp": "きたぞ！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage03_JP.msg",
+  "idx": 16,
+  "budget": 16,
+  "jp": "煙幕弾、いくぞ！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage03_JP.msg",
+  "idx": 17,
+  "budget": 26,
+  "jp": "奴の目を奪ったすきに倒せ！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage03_JP.msg",
+  "idx": 18,
+  "budget": 23,
+  "jp": "狙い よーし！　せーの！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage03_JP.msg",
+  "idx": 19,
+  "budget": 25,
+  "jp": "浮いてる奴に あたるなよ！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage03_JP.msg",
+  "idx": 20,
+  "budget": 20,
+  "jp": "うひょーーーーーっ！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage03_JP.msg",
+  "idx": 21,
+  "budget": 37,
+  "jp": "立ち止まるとあぶない、\n一気に抜けるぞ",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage03_JP.msg",
+  "idx": 22,
+  "budget": 26,
+  "jp": "どうだい、俺の乗りこなし！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage03_JP.msg",
+  "idx": 23,
+  "budget": 30,
+  "jp": "あとからあとから、きりがないな",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage03_JP.msg",
+  "idx": 24,
+  "budget": 24,
+  "jp": "旧世紀のガードシステムだ",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage03_JP.msg",
+  "idx": 25,
+  "budget": 31,
+  "jp": "一万年も前のだけど まだ生きてる",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage03_JP.msg",
+  "idx": 26,
+  "budget": 28,
+  "jp": "撃っても無駄だ、よけていこう",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage03_JP.msg",
+  "idx": 27,
+  "budget": 18,
+  "jp": "タイミングが大事だ",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage03_JP.msg",
+  "idx": 28,
+  "budget": 27,
+  "jp": "ここを抜ければ あとすこしだ",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage03_JP.msg",
+  "idx": 29,
+  "budget": 16,
+  "jp": "追いかけてきた！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage03_JP.msg",
+  "idx": 30,
+  "budget": 38,
+  "jp": "すごい景色だろ？\n旧世紀人の いくさ跡だ",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage03_JP.msg",
+  "idx": 31,
+  "budget": 10,
+  "jp": "前から来た",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage03_JP.msg",
+  "idx": 32,
+  "budget": 16,
+  "jp": "後ろ、気をつけろ",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage03_JP.msg",
+  "idx": 33,
+  "budget": 8,
+  "jp": "右にいる",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage03_JP.msg",
+  "idx": 34,
+  "budget": 10,
+  "jp": "左を見ろ！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage03_JP.msg",
+  "idx": 35,
+  "budget": 16,
+  "jp": "奴らの背中を取れ",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage03_JP.msg",
+  "idx": 36,
+  "budget": 18,
+  "jp": "オレ、狙われてる！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage03_JP.msg",
+  "idx": 37,
+  "budget": 6,
+  "jp": "くっ！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage03_JP.msg",
+  "idx": 38,
+  "budget": 6,
+  "jp": "ぐわ！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage03_JP.msg",
+  "idx": 39,
+  "budget": 10,
+  "jp": "いってぇー",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage03_JP.msg",
+  "idx": 40,
+  "budget": 50,
+  "jp": "ありがとうよ！\nひょっとして、オレのこと 好きか？  ",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage03_JP.msg",
+  "idx": 41,
+  "budget": 37,
+  "jp": "ふぅ! 　…おまえ、すごく かわいいな！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage03_JP.msg",
+  "idx": 42,
+  "budget": 22,
+  "jp": "まずい、ふりきれない！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage03_JP.msg",
+  "idx": 43,
+  "budget": 8,
+  "jp": "くらえ！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage03_JP.msg",
+  "idx": 44,
+  "budget": 12,
+  "jp": "ざまぁみれ！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage03_JP.msg",
+  "idx": 45,
+  "budget": 16,
+  "jp": "まかせとけって！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage03_JP.msg",
+  "idx": 46,
+  "budget": 24,
+  "jp": "おいおい、オレの獲物を…",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage03_JP.msg",
+  "idx": 47,
+  "budget": 30,
+  "jp": "きいてるぞ！　あそこが弱点だ！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage03_JP.msg",
+  "idx": 48,
+  "budget": 35,
+  "jp": "ここからじゃだめだ。\n前へ回り込もう",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage03_JP.msg",
+  "idx": 49,
+  "budget": 30,
+  "jp": "仮面が外れた！　あの下を狙おう",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage03_JP.msg",
+  "idx": 50,
+  "budget": 29,
+  "jp": "ここの罠は危険だ。\n油断するな",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage03_JP.msg",
+  "idx": 51,
+  "budget": 14,
+  "jp": "道を開けたぞ！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage03_JP.msg",
+  "idx": 52,
+  "budget": 20,
+  "jp": "うまい！そっちだな？",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage03_JP.msg",
+  "idx": 53,
+  "budget": 16,
+  "jp": "まかせとけって！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage03_JP.msg",
+  "idx": 54,
+  "budget": 41,
+  "jp": "この場所はヤバい。\nほかの位置から狙おう！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage03_JP.msg",
+  "idx": 55,
+  "budget": 49,
+  "jp": "マズいな。奴をほっとくと\n焼け野原が外まで広がるぞ",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage03_JP.msg",
+  "idx": 56,
+  "budget": 27,
+  "jp": "どうにか ここで止めるんだ！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage03_JP.msg",
+  "idx": 57,
+  "budget": 66,
+  "jp": "将校：　眼下、大型生物を確認\n 　　　　  目標とドラゴンはその上に！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage03_JP.msg",
+  "idx": 58,
+  "budget": 68,
+  "jp": "提督：　ワームライダーどもの巣か\n 　　　　  攻畜と交わる不浄の民め…",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage03_JP.msg",
+  "idx": 59,
+  "budget": 53,
+  "jp": "ドラゴンを殲滅し、娘を回収する！\n容赦なくいぶりだせ！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage03_JP.msg",
+  "idx": 60,
+  "budget": 39,
+  "jp": "クソ、帝国の奴ら！\n後悔させてやるぜ！！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage03_JP.msg",
+  "idx": 61,
+  "budget": 20,
+  "jp": "おうおう、おやおや…",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage03_JP.msg",
+  "idx": 62,
+  "budget": 16,
+  "jp": "ポンタ爺さんだ！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage03_JP.msg",
+  "idx": 63,
+  "budget": 60,
+  "jp": "ポンタ爺：　おや まあ\n 　　　　　　　 これは珍しいお客さんね",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage03_JP.msg",
+  "idx": 64,
+  "budget": 6,
+  "jp": "ふむ…",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage03_JP.msg",
+  "idx": 65,
+  "budget": 42,
+  "jp": "おまえさんの心は、\nひどく こごえているね…",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage03_JP.msg",
+  "idx": 66,
+  "budget": 55,
+  "jp": "たった一人で、おびえ、怒っていた…\nかわいそうな生き物ね",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage03_JP.msg",
+  "idx": 67,
+  "budget": 51,
+  "jp": "なぜ、それほどに世界を憎む！\nなぜ、すべてを拒む！？",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage03_JP.msg",
+  "idx": 68,
+  "budget": 57,
+  "jp": "街の人はみんな、わたしを恐れた…\n世界を滅ぼす魔女だ、って",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage03_JP.msg",
+  "idx": 69,
+  "budget": 55,
+  "jp": "戦いに必要になるまで、\nずっと牢屋に閉じ込めておけって！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage03_JP.msg",
+  "idx": 70,
+  "budget": 34,
+  "jp": "友だちも、家族も、誰ひとりいない…",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage03_JP.msg",
+  "idx": 71,
+  "budget": 29,
+  "jp": "みんな、わたしを 嫌いなんだ！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage03_JP.msg",
+  "idx": 72,
+  "budget": 8,
+  "jp": "フムム…",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage03_JP.msg",
+  "idx": 73,
+  "budget": 49,
+  "jp": "オルタ！　悲しい顔するな！\nオレにいい考えがある！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage03_JP.msg",
+  "idx": 74,
+  "budget": 63,
+  "jp": "おまえ、オレの嫁になればいい！\nずっと、オレたちと一緒に暮らせ！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage03_JP.msg",
+  "idx": 75,
+  "budget": 22,
+  "jp": "ひゃっ、はっはっはっ！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage03_JP.msg",
+  "idx": 76,
+  "budget": 43,
+  "jp": "モボ、おぬし３人も嫁がいて\nまだ足らんのか？",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage03_JP.msg",
+  "idx": 77,
+  "budget": 32,
+  "jp": "いや、しかしヤツのいうとおりね！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage03_JP.msg",
+  "idx": 78,
+  "budget": 59,
+  "jp": "ここには おまえさんを縛るものはない\n好きなだけ いるがいいね",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage03_JP.msg",
+  "idx": 79,
+  "budget": 18,
+  "jp": "はっ、はっ、はっ…",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage04_JP.msg",
+  "idx": 0,
+  "budget": 32,
+  "jp": "村が逃げるまで持たせられるか！？",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage04_JP.msg",
+  "idx": 1,
+  "budget": 20,
+  "jp": "いくぞ！　急降下だ！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage04_JP.msg",
+  "idx": 2,
+  "budget": 16,
+  "jp": "一気に上がるぞ！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage04_JP.msg",
+  "idx": 3,
+  "budget": 18,
+  "jp": "へっ、あたるかよ！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage04_JP.msg",
+  "idx": 4,
+  "budget": 39,
+  "jp": "小物相手はきりがない、\n旗艦をさがそう！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage04_JP.msg",
+  "idx": 5,
+  "budget": 22,
+  "jp": "対攻性艦を向かわせろ！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage04_JP.msg",
+  "idx": 6,
+  "budget": 56,
+  "jp": "対攻性処理が効いてるぞ。\nドラゴンの光の矢を はじいてる！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage04_JP.msg",
+  "idx": 7,
+  "budget": 37,
+  "jp": "横につかれたぞ！\n側面砲台、撃ち落せ！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage04_JP.msg",
+  "idx": 8,
+  "budget": 18,
+  "jp": "敵、護人像に接近！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage04_JP.msg",
+  "idx": 9,
+  "budget": 34,
+  "jp": "ドラゴンメア部隊、じき到着します！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage04_JP.msg",
+  "idx": 10,
+  "budget": 24,
+  "jp": "将校：　目標、一騎撃墜！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage04_JP.msg",
+  "idx": 11,
+  "budget": 62,
+  "jp": "提督：　それは虫ケラだ。\n　　　　　 もう一匹のほうを仕留めろ！",
+  "ko": null
+ },
+ {
+  "file": "messageevent\\MesData_Stage04_JP.msg",
+  "idx": 12,
+  "budget": 31,
+  "jp": "\n娘は亞人種だ、遠慮せずに撃て！",
+  "ko": null
+ }
+]

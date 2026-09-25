@@ -1,0 +1,793 @@
+[
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioControl_JP.msg",
+  "idx": 67,
+  "budget": 14,
+  "jp": "自機・照準移動",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioControl_JP.msg",
+  "idx": 68,
+  "budget": 28,
+  "jp": "各レベルの敵を８０％以上倒せ",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioControl_JP.msg",
+  "idx": 69,
+  "budget": 10,
+  "jp": "後ろを向く",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioControl_JP.msg",
+  "idx": 70,
+  "budget": 12,
+  "jp": "左／右を向く",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioControl_JP.msg",
+  "idx": 71,
+  "budget": 28,
+  "jp": "ショット／ロックオンレーザー",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioControl_JP.msg",
+  "idx": 72,
+  "budget": 14,
+  "jp": "自機・照準移動",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioControl_JP.msg",
+  "idx": 73,
+  "budget": 18,
+  "jp": "敵を１５体以上倒せ",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioControl_JP.msg",
+  "idx": 74,
+  "budget": 10,
+  "jp": "後ろを向く",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioControl_JP.msg",
+  "idx": 75,
+  "budget": 12,
+  "jp": "左／右を向く",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioControl_JP.msg",
+  "idx": 76,
+  "budget": 16,
+  "jp": "ドラゴンチェンジ",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioControl_JP.msg",
+  "idx": 77,
+  "budget": 28,
+  "jp": "ショット／ロックオンレーザー",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioControl_JP.msg",
+  "idx": 78,
+  "budget": 14,
+  "jp": "自機・照準移動",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioControl_JP.msg",
+  "idx": 79,
+  "budget": 22,
+  "jp": "敵を１５セット以上倒せ",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 0,
+  "budget": 104,
+  "jp": "\n\n\n人間って愚かだ。\n\n憎んだり、殺し合ったり、道を間違えたり…\n何より、僕自身が一番愚かだと\n思っていた ―",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 1,
+  "budget": 30,
+  "jp": "イーヴァ「帝国は間違ってる！」",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 2,
+  "budget": 73,
+  "jp": "父「黙れ…」\n\nイーヴァ「父様だって同じだ。\n　　ただの人殺しじゃないか！」",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 3,
+  "budget": 124,
+  "jp": "― 父様はアカデミーの研究者。\n　　今夜は貴重な研究材料を\n　　手に入れるため、イエリコの渓谷、\n　　シーカーの里を襲いに行く。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 4,
+  "budget": 123,
+  "jp": "父「そこを退け」\n\nイーヴァ「待ってよ！\n　　父様がどんな兵器を\n　　作ってるか知らないけど、\n　　人を殺す為のものでしょ？！」",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 5,
+  "budget": 119,
+  "jp": "\n父「薬、飲むのを忘れるな」\n\nイーヴァ「薬なんて飲みたくない！\n　　僕の話を聞いてよ！\n　　いつも仕事ばかりじゃないか！」",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 6,
+  "budget": 72,
+  "jp": "イーヴァ「父様なんて…$w0020\n\n　　…もう、帰ってこなければいいんだ！！」",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 7,
+  "budget": 27,
+  "jp": "その夜、$w0020\n父様は死んだ",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 8,
+  "budget": 129,
+  "jp": "シーカーの里を攻略中\n現れた凶暴な攻性生物に\n艦隊ごと皆殺しにされたそうだ。\n\n皆殺しに行って、逆に皆殺しにされる。\n全く馬鹿な話だ。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 9,
+  "budget": 83,
+  "jp": "僕は孤児になった。\n$w0020\nでも、悲しくなんかない。$w0020\n少しも、寂しくなんかない…",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 10,
+  "budget": 128,
+  "jp": "アカデミーの職員が、父様の形見だ\nという御守りを持ってきた。\n$w0030\n\n\n\n$w0030\nあの冷酷な父様が、\n僕に御守りを残すなんて、意外だ。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 11,
+  "budget": 134,
+  "jp": "僕は選択を迫られた。\n帝国軍の訓練学校に入るか、\n帝国を去るか…\n$w0030\n\n\n帝国を出て、あの死の砂漠で\n生きてくなんて、\nできるわけない…。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 12,
+  "budget": 212,
+  "jp": "教官「入校試験を開始する。\n　　ホバーポッドを操作し、\n　　目標地点に着陸することが\n　　課題だ。\n$w0030\n　　途中の障壁には進路を\n　　表す矢印が表記してある。\n　　ポッドの操作に関する\n　　注意点は以下のとおりだ！」",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 13,
+  "budget": 208,
+  "jp": "教官「上昇ボタンはこまめに押せ！\n　　高度の維持が楽になる！\n\n　　視点を進みたい方向に\n　　向けるようにしろ！\n　　上昇したい時には上\n　　下降したい時には下を\n　　向くようにすれば\n    抜ける道がわかりやすい！」",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 14,
+  "budget": 57,
+  "jp": "教官「我々は諸君ら全員の\n　　合格を祈っている。　以上！」",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 15,
+  "budget": 191,
+  "jp": "― 教官が言っていたな…\n\n教官「機体の高度を保つには\n　　こまめに上昇ボタンを押すことだ。\n\n　　照準を進みたい方向に向けて進路を\n　　確認するのも重要だぞ！\n\n　　ルートを示す矢印にも注意しろ！」",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 16,
+  "budget": 167,
+  "jp": "― 僕は帝国を追放された。\nわずかな食料と、原始的な武器だけ\n与えられて…\n\nそれでも、\n僕は生きていかなければならない。\n僕は歩き始める。\n帝国の外へ、\n僕の知らない世界へ。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 17,
+  "budget": 104,
+  "jp": "\n\nしかし ―$w0020\n５０日経った今、僕は命を落とす。\n攻性生物に食われるのでもなく\n賊に襲われるのでもなく…",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 18,
+  "budget": 102,
+  "jp": "僕は昔から体が弱かった。\nたまに酷い発作を起こす。\n\n学校にも行かず、\n家からあまり出たことがなかった。　",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 19,
+  "budget": 45,
+  "jp": "そんな僕が、軍隊でやっていけるの\nだろうか…？",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 20,
+  "budget": 74,
+  "jp": "黒い薬 ―$w0040\n\n父様がいつも持ってきた、\n物心付く前から飲み続けている薬…",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 21,
+  "budget": 79,
+  "jp": "毎日飲まないと、\n僕は死んでしまうらしい。\n$w0020\n薬の残りは、あと５０日分…　　",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 22,
+  "budget": 114,
+  "jp": "― 教官が言っていた…\n\n教官「一度高く上昇してから、\n　　落下中に敵を狙え！\n　　Xボタンならオートで連射が可能だ！」",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 23,
+  "budget": 60,
+  "jp": "― 僕は訓練中に命を落とした。\n　　あまりにあっけない幕切れ…",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 24,
+  "budget": 28,
+  "jp": "友達なんていらない。　　　　",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 25,
+  "budget": 111,
+  "jp": "沢山の生徒達の中で、\n僕はいつも一人だ。\n\n今までだって、\n友達は一人もいなかった。\n何も変わらない。　　　　　　　",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 26,
+  "budget": 73,
+  "jp": "少しも寂しくなんかない。\n僕は強いから。\n\n一人でだって生きていける。　　　",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 27,
+  "budget": 154,
+  "jp": "― 教官が言っていた…\n\n教官「一度高く上昇してから、\n　　落下中に敵を狙え！\n　　追撃砲は着弾するまで次を撃てない。\n　　機連銃で追い撃ちするのを忘れるな！」",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 28,
+  "budget": 70,
+  "jp": "― 僕は訓練中に命を落とした。\n　　でも、これで良かったのかもしれない。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 29,
+  "budget": 105,
+  "jp": "訓練が終わり、ちょっと気を抜いた\nその瞬間 ― \n突然、大型の攻性生物が、\n僕のポッド目掛けて突っ込んできて…",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 30,
+  "budget": 21,
+  "jp": "― 避けられない…！！",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 31,
+  "budget": 104,
+  "jp": "でも、僕は生きていた。$w0020\n\n小型飛空艇に乗った上級生が、\n攻性生物に体当たりし、\n僕を助けてくれたんだ…",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 32,
+  "budget": 75,
+  "jp": "上級生「大丈夫か？」\n\nイーヴァ「は、はい…ありがとう\n　　…ございました…」",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 33,
+  "budget": 98,
+  "jp": "上級生「お前、凄いな。\n　　才能あるよ。　すぐ実戦に\n　　出られるんじゃないか？」\n\nイーヴァ「え？」",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 34,
+  "budget": 115,
+  "jp": "上級生「俺は、ストラテ・ウラスだ」\n\nイーヴァ「ぼ…僕は、\n　　イーヴァ・デミルコル…です」\n\nストラテ「デミルコル…」",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 35,
+  "budget": 171,
+  "jp": "ストラテ「あの、アカデミー最高位博士\n　　レトラール・ナウス・デミルコルの\n　　子息か？」\n\nイーヴァ「…はい」\n\nストラテ「噂には聞いている。\n　　お父上は残念なことをした…」",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 36,
+  "budget": 67,
+  "jp": "ストラテ「ともかく…　　\n　　よろしくな！　仲良くやろう！」　　　　",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 37,
+  "budget": 24,
+  "jp": "イーヴァ「……」　　　　",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 38,
+  "budget": 152,
+  "jp": "ストラテ「お、おい、どうしたんだよ？！」\n\nイーヴァ「……父様に会いたい…\n　　父様に、会いたいよう…\n　　家に…家に、帰りたいよう……」\n\nストラテ「……」",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 39,
+  "budget": 133,
+  "jp": "イーヴァ「僕、父様なんて、\n　　死んじゃえばいいって、思ったんだ\n　　そしたら、ほんとに、死んじゃった、\n　　んだ…。　僕のせいだ……」",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 40,
+  "budget": 156,
+  "jp": "ストラテ「おいおい！\n　　そんなわけないだろ？\n　　お前のお父上は、確かドラゴンに\n　　殺されたのではなかったか？\n　　噂は聞いているな？」\n\nイーヴァ「うん…」",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 41,
+  "budget": 147,
+  "jp": "イーヴァ「でも、ドラゴンなんて\n　　辺境の民のおとぎ話でしょ…？\n　　ほんとに居るのかな…」\n\nストラテ「居るさ！\n　　一艦隊、全滅させられたんだぞ？」",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 42,
+  "budget": 159,
+  "jp": "ストラテ「…イーヴァ、憎むべきは\n　　自分ではなく、父上を倒した\n　　厄災のドラゴンと、その乗り手では\n　　ないのか？」\n\nイーヴァ「……」\n　　― 厄災のドラゴン…",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 43,
+  "budget": 21,
+  "jp": "２週間が経ち ―$w0001",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 44,
+  "budget": 91,
+  "jp": "ある日、軍学校の上級生達が\n実戦に駆り出される事になった。\n\n飛空艇乗りが足りないのだという。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 45,
+  "budget": 66,
+  "jp": "アラドの砂漠へ赴き、\n作戦上重要な研究材料を\n奪回するという作戦だ…",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 46,
+  "budget": 130,
+  "jp": "明らかにされていなかったが、\n上級生の間ではもっぱらの噂だった。$w0001\n\n今回の敵は、あの厄災のドラゴンと、\nその上に乗った魔女だと…",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 47,
+  "budget": 110,
+  "jp": "かつて「翼持つ死」と呼ばれた、\n旧世紀の悪夢…\n\n嵐の空を駆け、楽しむかのように\n破壊と殺戮を繰り返す、伝説の獣…",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 48,
+  "budget": 16,
+  "jp": "父様を殺した仇…",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 49,
+  "budget": 53,
+  "jp": "僕は、ストラテが乗る小型艇に、\nこっそり潜り込んだ…。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 50,
+  "budget": 173,
+  "jp": "イーヴァ「イテッ…」$w0060\n\nストラテ「ん？…イーヴァ？！」\n\nイーヴァ「見つかっちゃった」\n\nストラテ「“見つかっちゃった”じゃないだろ！\n　　忍び込んだのか？　懲罰ものだぞ！」",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 51,
+  "budget": 80,
+  "jp": "イーヴァ「うん…。　ごめん」\n\nストラテ「俺に謝られても困る」\n\nイーヴァ「僕……」",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 52,
+  "budget": 61,
+  "jp": "イーヴァ「どうしても、\n　　この目でドラゴンを見たいんだ！！」",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 53,
+  "budget": 147,
+  "jp": "ストラテ「……。\n　　うーん、仕方のない奴だな…。$w0020\n　　ほら、これを着ろよ」\n\nイーヴァ「え？　それ、ストラテの\n　　防護服でしょ？　駄目だよ！」",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 54,
+  "budget": 176,
+  "jp": "ストラテ「お前、生まれてから一度も\n　　怪我したことないような\n　　生活してたろ？\n　　いいから、着てろって。\n　　俺の体は丈夫に出来てるんだ」\n\nイーヴァ「…うん…。　ありがと…」",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 55,
+  "budget": 52,
+  "jp": "$w0030ストラテ「イーヴァ？」　　\n\nイーヴァ「なに？」",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 56,
+  "budget": 122,
+  "jp": "ストラテ「操縦してみるか？」\n\nイーヴァ「え？ほんとに？！　いいの？」\n\nストラテ「みんなには内緒だぞ？」\n\nイーヴァ「うん！」",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 57,
+  "budget": 79,
+  "jp": "無電「攻性生物だ！」\n\n無電「攻性生物出現！　殲滅せよ！…」\n\n\nストラテ「了解！」",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 58,
+  "budget": 54,
+  "jp": "ストラテ「イーヴァ…できるか？」\n\nイーヴァ「…うん！」",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 59,
+  "budget": 108,
+  "jp": "― ストラテの言葉を思い出した…\n\nストラテ「イーヴァ！　自分を信じるんだ！\n　　感じた方向に素早く振り向け！」",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 60,
+  "budget": 104,
+  "jp": "― 僕らは、空の上で命を落とした。\n\n　　僕がもっとちゃんとしてれば…\n　　もっと感覚を研ぎ澄ましていれば…",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 61,
+  "budget": 36,
+  "jp": "男の声「帝国の人間を助けるなんて…」",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 62,
+  "budget": 98,
+  "jp": "男の声「密偵かもしれない…\n　　今のうちに殺すべきか…？」\n\n\n\n\n女の声「野蛮人！　まだ子供だよ？！」",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 63,
+  "budget": 19,
+  "jp": "― 僕は…生きてる？",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 64,
+  "budget": 36,
+  "jp": "女の声「ドラゴンに、やられたんだよ」",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 65,
+  "budget": 60,
+  "jp": "― ドラゴン…\n\n　あの姿、速さ。\n　そして空を切り裂く光の矢…",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 66,
+  "budget": 72,
+  "jp": "― 僕は恐ろしい。\n\n　あんなものが、この世に存在して\n　良いのだろうか…？",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 67,
+  "budget": 61,
+  "jp": "男の声「しかし、傷一つないとは…\n　　おかしいと思わないか？」",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 68,
+  "budget": 47,
+  "jp": "男の声「一緒に乗っていた少年は\n　　死んでいた」",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 69,
+  "budget": 79,
+  "jp": "― ああ…\n\n　なぜ、僕は生きてるんだ…\n　生きてるべきなのは、\n　ストラテの方だ…",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 70,
+  "budget": 44,
+  "jp": "― みんな、みんな、\n　死んでしまったのか…？",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 71,
+  "budget": 27,
+  "jp": "― ドラゴンと、その乗り手…",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 72,
+  "budget": 55,
+  "jp": "……悪魔！！\nお前達は悪魔だ！\n\nお前達だけは許せない！！",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 73,
+  "budget": 4,
+  "jp": "僕が",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 74,
+  "budget": 8,
+  "jp": "この手で",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 75,
+  "budget": 3,
+  "jp": "0＾",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 76,
+  "budget": 16,
+  "jp": "殺してやる！！！",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 77,
+  "budget": 125,
+  "jp": "無骨な男「この里の場所を知られたら、\n　　また帝国軍の襲撃が…」\n\n若い女「あ！　目を覚ましたみたい！」\n\nイーヴァ「…ここは…」",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 78,
+  "budget": 160,
+  "jp": "若い女「ここは、シーカーの里よ」\n\n無骨な男「おい！」\n\n若い女「お願い！　もしものことがあったら\n　　あたしが自分で…\n　　片を付けるから…」\n\n無骨な男「うーむ…」",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 79,
+  "budget": 166,
+  "jp": "若い女「あなた、名前はなんていうの？　\n　　あたしは、エミーデ」\n\nイーヴァ「僕は…」\n　　― 僕はイーヴァ\nイーヴァ「……わからない」\n\nエミーデ「？！…まさか、記憶が…」",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 80,
+  "budget": 84,
+  "jp": "イーヴァ「わからない…」\n\n　　― 今は大人しくして、\n　　　脱出する機会をうかがおう…",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 81,
+  "budget": 110,
+  "jp": "\nエミーデ「あ！　ダーマード様」　　　　　　\n\n無骨な男「長！」\n\nダーマード「エミーデの気持ちは\n　　分かるが…」",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 82,
+  "budget": 122,
+  "jp": "ダーマード「少年、君がこの里に\n　　ふさわしい人間かどうか、\n　　試させてもらって良いかな？」\n\nイーヴァ「……わかりました」",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 83,
+  "budget": 175,
+  "jp": "ダーマード「ポッドを操作し、\n　　水を汲んでくるのだ。\n　　くれぐれも水に落ちないよう注意しろ。\n　　浄化する前の水は微細菌に\n　　汚染されている。\n　　苦しんで死ぬことになるぞ」",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 84,
+  "budget": 166,
+  "jp": "― ダーマード族長が言ってたな…\n\nダーマード「川の中に棲む\n　　“ヨンドワーム”はとても危険だ…\n　　やつの頭が見えたら無理せず逃げて、\n　　何度かに分けて水を汲むのだ」",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 85,
+  "budget": 89,
+  "jp": "― 厄災のドラゴンと、その乗り手を\n　　倒すどころか、\n　　こんなところで命を落とすなんて…",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 86,
+  "budget": 57,
+  "jp": "シーカーの里で、ささやかだが、\n僕を歓迎する宴が開かれた。",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 87,
+  "budget": 181,
+  "jp": "無骨な男「よくやったな！　　　　　　　　\n　　青っ白いガキだと思ってたが、\n　　お前は一人前の男だ！\n\n　　昨日はすまなかった。\n　　俺はヌフだ、よろしくな！」\n\nイーヴァ「こちらこそ…」",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 88,
+  "budget": 120,
+  "jp": "エミーデ「さ、これを食べて？」　　　　　\n\nイーヴァ「あ、ありがとう…」\n\n　　― その実は甘くて、\n　　　　優しい味がした…",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 89,
+  "budget": 142,
+  "jp": "イーヴァ「おいしい…」\n\nヌフ「あ、ザアルの実じゃないか。\n　    俺達だって滅多に\n　　　食えないのに…。　ずるいぞ」\n\nエミーデ「うるさいな～！」",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 90,
+  "budget": 180,
+  "jp": "エミーデ「つべこべ言ってると、\n　　明日からあなたの食事は\n　　プーキオの皮だけよ？！」\n\nヌフ「う、それだけは勘弁…」\n\nイーヴァ「はははは…」\n\nエミーデ「あ、初めて笑ったねっ？」　　",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 91,
+  "budget": 118,
+  "jp": "ヌフ「よう！\n　　お前のポッドに、\n　　この旧世紀エンジン、\n　　取り付けてやるよ。\n　　飛行速度が格段に速くなるはずだ」",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 92,
+  "budget": 221,
+  "jp": "エミーデ「あたしたちシーカーは、\n　　ずっと昔から、この大陸中を\n　　移り住んでるの。\n\n　　こんな世界を、どうにか人の住める\n　　土地にできないかって、\n　　いろいろ調べたり、\n　　こっそり戦ったりしてるの」　　　　　　　　　",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 93,
+  "budget": 157,
+  "jp": "エミーデ「私たちの里は\n　　ここから少し東の、イエリコの渓谷に\n　　あったんだけど…」\n\n\n― ！！　父様が攻略に行って、\n　　ドラゴンに殺された、シーカーの里だ…",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 94,
+  "budget": 164,
+  "jp": "エミーデ「でも、帝国に襲われて…　　　　　\n　　あ！　ごめんね、こんな話して…」\n\nイーヴァ「ううん……」\n\nエミーデ「そっか…、あなたはもう\n　　私達の仲間だものね…」",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 95,
+  "budget": 150,
+  "jp": "エミーデ「その里をね、$w0001\n　　帝国のドラゴンメア部隊に\n　　奇襲攻撃されたの」\n\nイーヴァ「帝国のドラゴン…？」\n　　― まさか…父様が作っていたのは…",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 96,
+  "budget": 215,
+  "jp": "エミーデ「うん。\n　　帝国アカデミーが開発した、\n　　攻性兵器だよ。\n\n　　そんなのが何騎もやってきて、\n　　街じゅうを焼き尽くしたの…」\n\n― 父様はドラゴンを作っていたのか？！\n　　そんな恐ろしいものを作っていたなんて…",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 97,
+  "budget": 145,
+  "jp": "エミーデ「旧世紀の技術って、\n　　どうして恐いのばかりなんだろうね？」\n\nイーヴァ「そう…だね…」\n\n― やっぱり…\n　　父様はただの人殺しだったのか…",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 98,
+  "budget": 172,
+  "jp": "エミーデ「そう、イエリコの谷にはね、　　　　　　\n　　ずっと昔から伝わる\n　　旧世紀の破壊兵器が\n　　あるんだよ。\n\n　　遺跡の奥深くに隠されてたのを、\n　　発掘したんだって…」",
+  "ko": null
+ },
+ {
+  "file": "menudata\\TextData\\Text_SubScenarioDemo_JP.msg",
+  "idx": 99,
+  "budget": 132,
+  "jp": "エミーデ「こんな形でね…\n　　この棒で、ここを思い切り叩くと、\n　　発動するらしいの」\n\nイーヴァ「破壊兵器…」\n　　― 太鼓みたいだな…",
+  "ko": null
+ }
+]
